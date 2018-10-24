@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Action,None,None,R,None,Marked For Death,None
+1,Drama,None,None,R,None,King Of New York,None
+2,Horror,None,None,R,None,The Night Of The Living Dead,None
+3,Comedy,None,None,PG-13,None,Sibling Rivalry,None
+4,Drama,None,None,Not rated,None,Interrogation,None
+5,Political Thriller,None,None,Not rated when screened,None,The Man Inside,None
+6,Drama,None,None,PG-13,None,Fools Of Fortune,None
+7,War Drama,None,None,PG,None,Life And Nothing But,None
+8,Comedy,None,None,PG-13,None,Don’T Tell Her It’S Me,None
+9,Drama,None,None,PG,None,Avalon,None
+10,Comedy,None,None,R,None,The Tall Guy,None
+11,Science fiction,None,None,R,None,I Come In Peace,None
+12,Horror,None,None,R,None,Grim Prairie Tales,None
+13,Drama,None,None,R,None,Silence Like Glass,None
+14,Dramatic Comedy,None,None,PG-13,None,"Welcome Home, Roxy Carmichael",None
+15,Western,None,None,PG-13,None,Quigley Down Under,None
+16,Drama,None,None,PG,None,To Sleep With Anger,None
+17,War Drama,None,None,"Not rated when screened, but probably PG",None,Memphis Belle,None
+18,Animation,None,None,Not rated,None,Fantasia,None
+19,Drama,None,None,Not rated when screened. Probably PG.,None,China Cry,None
+20,Horror,None,None,R,None,Demon On The Loose,None
+21,Drama,None,None,R,None,"After Dark, My Sweet",None
+22,Drama,None,None,R,None,The Desperate Hours,None
+23,Drama,None,None,R,None,Texasville,None
+24,Suspense,None,None,R,None,Pacific Heights,None
+25,Suspense,None,None,R,None,Narrow Margin,None
+26,Comedy,None,None,PG-13,None,Funny About Love,None
+27,Children's Animation,None,None,G,None,Jetsons: The Movie,None
+28,Fantasy,None,None,R,None,Ghosts Can’T Do It,None
+29,Drama,None,None,PG-13,None,Ghost,None
+30,Comedy,None,None,R,None,The Adventures Of  Ford Fairlane,None
+31,Biographical,None,None,R,None,Young Guns Ii,None
+32,Fantasy-Comedy,None,None,Probably PG,None,Ghost Dad,None
+33,Comedy,None,None,PG-13,None,Betsy’S Wedding,None
+34,Comedy,None,None,R,None,Quick Change,None
+35,Drama,None,None,Not rated,None,My Uncle’S Legacy,None
+36,Concert,None,None,R,None,"Without You, I’M Nothing",None
+37,Science fiction-Fantasy,None,None,R,None,Robocop 2,None
+38,Action-Thriller,None,None,R,None,Die Hard 2,None
+39,Drama,None,None,PG-13,None,Days Of Thunder,None
+40,Children's Animal Adventure,None,None,G,None,The Adventures Of  Milo And Otis,None
+41,Animation,None,None,G,None,The Jungle Book,None
+42,Drama,None,None,"Not rated. It would have received an X for violence, so the distributor released it without a rating.",None,The Killer,None
+43,Action-Comedy,None,None,PG-13,None,Men At Work,None
+44,Comedy,None,None,R,None,May Fools,None
+45,Courtroom Drama,None,None,R,None,Presumed Innocent,None
+46,Action-Thriller,None,None,R,None,Navy Seals,None
+47,Action,None,None,Not rated when screened,None,The Rutanga Tapes,None
+48,Comedy,None,None,PG,None,The Freshman,None
+49,Comedy,None,None,PG-13,None,My Blue Heaven,None
+50,Comedy,None,None,Not rated,None,The Icicle Thief,None
+51,Drama,None,None,Unrated at time of screening (May be edited down to an R from an X),None,Wild At Heart,None
+52,Comedy,None,None,Not rated,None,Life Is A Long Quiet River,None
+53,Comedy,None,None,PG,None,Problem Child,None
+54,Drama,None,None,R,None,Pump Up The Volume,None
+55,Drama,None,None,R,None,Mo’ Better Blues,None
+56,Comedy,None,None,R,None,Taking Care Of Business,None
+57,Comedy-Drama,None,None,R,None,The Unbelievable Truth,None
+58,Drama,None,None,R,None,Flatliners,None
+59,Horror-Thriller,None,None,PG-13,None,Arachnophobia,None
+60,Animation,None,None,G,None,Ducktales: The Movie — Treasure Of The Lost Lamp,None
+61,Humanistic prison,None,None,R,None,Death Warrant,None
+62,Humanistic action-comedy,None,None,R,None,Air America,None
+63,Individualistic action adventure,None,None,R,None,Delta Force 2: The Columbian Connection,None
+64,Humanistic horror,None,None,R,None,Darkman,None
+65,Slightly conservative action-adventure,None,None,PG,None,Full Fathom Five,None
+66,Psychological crime drama,None,None,R,None,Chicago Joe And The Showgirl,None
+67,Individualistic mystery,None,None,R,None,The Two Jakes,None
+68,Horror from a biblical perspective,Light,None,R,None,Exorcist Iii: Legion,Medium
+69,Comedy-Drama a wry social satire from a slightly conservative perspective.,None,None,PG-13,None,Metropolitan,None
+70,Philosophically romantic fantasy-drama,None,None,Not rated,None,Akira Kurosawa’S Dreams,None
+71,Comedy,None,None,A (for Adult),None,"Life Is Cheap, But Toilet Paper Is Expensive",None
+72,Comedy,None,None,PG-13,None,Repossessed,None
+73,Comedy,None,None,PG-13,None,The Shrimp On The Barbie,None
+74,Crime,None,None,R,None,Miller’S Crossing,None
+75,Crime,None,None,R,None,Goodfellas,None
+76,Drama,None,None,PG-13,None,Diving In,None
+77,Comedy,None,None,R,None,Postcards From The Edge,None
+78,Drama,None,None,PG,None,"White Hunter, Black Heart",None
+79,Comedy,None,None,PG-13,None,The Lemon Sisters,None
+80,Action,None,None,PG,None,A Cry In The Wild,None
+81,Drama,None,None,R,None,Camille Claudel,None
+82,Police Drama,None,None,R,None,Streets,None
+83,Comedy,None,None,PG-13,None,Madhouse,None
+84,Comedy,None,None,"Not rated when screened, but probably PG",None,Rosalie Goes Shopping,None
+85,Drama,None,None,R,None,Time Of The Gypsies,None
+86,Suspense,None,None,R,None,Bad Influence,None
+87,Comedy,None,None,R,None,Nuns On The Run,None
+88,Comedy,None,None,R,None,House Party,None
+89,Police Action-Drama,None,None,R,None,Keaton’S Cops,None
+90,Police Action-Drama,None,None,R,None,The Last Of The Finest,None
+91,Drama,None,None,R,None,A Shock To The System,None
+92,Comedy-Adventure,None,None,PG-13,None,Coupe De Ville,None
+93,War Drama,None,None,R,None,The Fourth War,None
+94,Action-Comedy,None,None,R,None,Blind Fury,None
+95,Romantic Drama,None,None,R,None,Pretty Woman,None
+96,Drama,None,None,Not rated,None,Jesus Of Montreal,None
+97,Police Action-Suspense,None,None,R,None,The First Power,None
+98,Drama,None,None,R,None,Dali,None
+99,Musical,None,None,PG-13,None,The Forbidden Dance,None

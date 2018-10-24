@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Light,None,PG-13,Light,Home Run,Light
+1,Documentary,Light,Light,PG-13,Light,After Tiller,Medium
+2,Comedy,Heavy,Medium,R,Medium,A.C.O.D.,Light
+3,Comedy,Light,Medium,Not Rated,Medium,Wedding Palace,Light
+4,Drama,None,None,PG-13,None,Seasons Of Gray,Light
+5,Drama,Heavy,None,R,None,Blue Caprice,Heavy
+6,Documentary,Light,None,R,None,The Summit,Medium
+7,Drama,Medium,Light,PG-13,None,Parkland,Medium
+8,Science Fiction,Medium,None,PG-13,None,Gravity,Medium
+9,Drama,Heavy,Light,R,Medium,Runner Runner,Medium
+10,Drama,None,None,PG,None,Grace Unplugged,None
+11,Drama,None,None,Not Rated,None,Beyond The Heavens,None
+12,Western,None,Light,PG-13,None,Alone Yet Not Alone,Light
+13,Comedy,Medium,Light,PG-13,Light,Baggage Claim,Light
+14,Comedy,Heavy,Medium,R,Heavy,Don Jon,None
+15,Documentary,None,Light,Not Rated,None,Unstoppable,Light
+16,Drama,Heavy,Light,R,Medium,Short Term 12,Light
+17,Drama,Heavy,None,PG-13,None,Battle Of The Year,Light
+18,Family,None,Light,TV-PG,None,The Watsons Go To Birmingham,Light
+19,Drama,Light,Light,R,Light,My Son,Light
+20,Thriller,Heavy,Medium,R,Medium,Passion,Medium
+21,Drama,Heavy,Medium,R,Medium,Thanks For Sharing,Medium
+22,Comedy,Heavy,Light,PG-13,Medium,Enough Said,None
+23,Drama,Light,None,PG,Light,Wadjda,Light
+24,Thriller,Heavy,None,R,None,Prisoners,Heavy
+25,Drama,Heavy,Medium,R,Medium,Rush,Heavy
+26,Drama,None,None,Code Approved,None,The Song Of Bernadette,None
+27,Comedy,Medium,None,R,Light,Touchy Feely,Light
+28,Thriller,Heavy,None,R,Medium,The Family,Heavy
+29,Horror,Medium,None,PG-13,Light,Insidious Chapter 2,Medium
+30,Drama,Heavy,Medium,R,Medium,Jayne Mansfield’S Car,Medium
+31,Drama,Light,None,PG-13,None,The Investigator,Light
+32,Drama,Heavy,Light,PG-13,None,World Trade Center,Medium
+33,Family,None,Light,G,None,So Dear To My Heart,Light
+34,Drama,None,None,Not rated by MPAA,None,Jesus,None
+35,Drama,Light,Light,R,None,Winnie Mandela,Heavy
+36,Documentary,Light,Light,PG-13,Light,Salinger,Medium
+37,Science Fiction,Heavy,Medium,R,Medium,Riddick,Heavy
+38,Documentary,None,None,PG,Light,Good Ol’ Freda,Light
+39,Drama,Light,None,PG-13,Light,The Grandmaster,Medium
+40,Comedy,Heavy,Heavy,R,Heavy,Crystal Fairy,Medium
+41,Drama,Medium,Light,PG-13,Medium,Instructions Not Included,Light
+42,Drama,None,None,PG,None,From Up On Poppy Hill,Light
+43,Action,Heavy,Light,R,Light,Forgotten Heroes,Medium
+44,Thriller,Heavy,None,PG-13,None,Getaway,Medium
+45,Documentary,Light,Light,Not Yet Rated,None,One Direction: This Is Us,None
+46,Thriller,Heavy,Medium,R,Medium,The Frozen Ground,Medium
+47,Thriller,Medium,None,R,Light,Closed Circuit,Medium
+48,Nature Documentary,None,None,G,None,March Of The Penguins,None
+49,Horror,Heavy,Medium,R,Light,You’Re Next,Heavy
+50,Comedy,Heavy,Light,R,Light,The World’S End,Medium
+51,Action,Light,Light,PG-13,None,The Mortal Instruments: City Of Bones,Heavy
+52,War Drama,None,Light,Code Approved,None,The African Queen,Light
+53,Action,None,None,PG,None,Epic,Medium
+54,Comedy,Light,Light,PG-13,Medium,Austenland,Light
+55,Drama,Heavy,Light,PG-13,Light,Jobs,None
+56,Drama,Heavy,None,PG-13,Light,Lee Daniels’ The Butler,Medium
+57,Thriller,Medium,Light,PG-13,Light,Paranoia,Light
+58,Action,Heavy,Medium,R,Light,Kick-Ass 2,Heavy
+59,Drama,Light,None,N/A,Light,In The Meantime,None
+60,Documentary,None,None,Not Rated,None,The Design Of Life: Flight: The Genius Of Birds,None
+61,Horror suspense,Medium,None,PG-13,Light,Abandoned Mine,Medium
+62,Documentary,None,Light,Not Rated,None,Disinformation:  The Secret Strategy To Destroy The West,Light
+63,Documentary,None,None,Not Rated,None,Evolution Vs. God,None
+64,Comedy,Heavy,Light,R,Light,In A World,None
+65,Comedy,Heavy,Heavy,R,Medium,We’Re The Millers,Medium
+66,Drama,Heavy,Medium,R,Heavy,Lovelace,Medium
+67,Comedy,None,None,PG,None,Planes,Light
+68,Science Fiction,Heavy,Light,R,None,Elysium,Heavy
+69,Science Fiction,Light,None,PG,None,Percy Jackson:  Sea Of Monsters,Medium
+70,Comedy,None,None,G,None,That Darn Cat,Light
+71,Drama,Heavy,Medium,R,Medium,The Spectacular Now,Light
+72,Science Fiction,Medium,None,PG-13,None,Europa Report,Light
+73,Action,Heavy,Medium,R,Light,2 Guns,Medium
+74,Drama,Heavy,None,PG-13,Light,Blue Jasmine,Light
+75,Comedy,Heavy,Light,R,Heavy,The To Do List,Light
+76,Science Fiction,Medium,Light,PG-13,Light,The Wolverine,Heavy
+77,Drama,None,None,TV-G,Light,Cedar Cove: Episodes One Through Three,Light
+78,Science Fiction,Heavy,Light,PG-13,Light,R.I.P.D.,Medium
+79,Horror,Light,None,R,None,The Conjuring,Medium
+80,Action,Heavy,Light,PG-13,Light,Red 2,Medium
+81,Comedy,None,None,PG,None,Turbo,Light
+82,Reality TV,None,Light,TV-G,None,Bulloch Family Ranch:  Episode 1 And 2,Light
+83,Drama,Medium,Light,PG-13,Light,42,Light
+84,Action,Heavy,Light,R,Light,Killing Season,Heavy
+85,Comedy,Heavy,Light,PG-13,Medium,Grown Ups 2,Medium
+86,Drama,Heavy,Light,R,Light,Fruitvale Station,Medium
+87,Documentary,Light,None,PG-13,None,20 Feet From Stardom,None
+88,Comedy,Heavy,Medium,R,Heavy,I’M So Excited,Light
+89,Comedy,Heavy,Light,Not Rated,Medium,"Love, Concord",Light
+90,Drama,None,None,N/A,Light,Crescendo,Medium
+91,Comedy,None,None,G,None,Weiner Dog Nationals,None
+92,Science Fiction,Heavy,Light,PG-13,None,Pacific Rim,Medium
+93,Documentary,None,Light,PG-13,None,The Gatekeepers,Medium
+94,Comedy,Medium,None,PG-13,Light,"The Way, Way Back",None
+95,Drama,Light,Medium,TV-PG,Light,John Adams,Medium
+96,Comedy,Heavy,None,R,Medium,Kevin Hart:  Let Me Explain,None
+97,Drama,None,None,G,None,The Purple Heart,Light
+98,Western,Medium,Light,PG-13,None,The Lone Ranger,Medium
+99,Action,Heavy,Light,PG-13,Medium,White House Down,Heavy

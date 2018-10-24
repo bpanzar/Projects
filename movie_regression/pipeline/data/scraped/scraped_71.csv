@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Comedy,Heavy,Medium,R,Heavy,The Change-Up,Light
+1,Thriller,Heavy,Light,R,Light,The Chameleon,Light
+2,Comedy,Medium,Light,R,Light,Ceremony,Light
+3,Comedy,Heavy,Medium,R,Medium,Cedar Rapids,Medium
+4,Documentary,None,Light,G,None,The Cave Of Forgotten Dreams,None
+5,Family,None,None,G,None,Cars 2,Light
+6,Drama,Heavy,None,R,Light,Carnage,Light
+7,Drama,Heavy,Heavy,R,Medium,Carancho,Heavy
+8,Action,Medium,None,PG-13,None,Captain America:  The First Avenger,Medium
+9,Comedy,Heavy,Heavy,R,Heavy,Bucky Larson: Born To Be A Star,None
+10,Documentary,Medium,Light,Not Rated,None,Buck,Light
+11,Thriller,Heavy,Light,R,Medium,The Brotherhood,Heavy
+12,Drama,Medium,Light,Not Rated,Light,Brighton Rock,Medium
+13,Comedy,Heavy,Light,R,Medium,Bridesmaids,Light
+14,Drama,Light,Heavy,R,Medium,Bride Flight,Medium
+15,Documentary,None,None,G,None,Born To Be Wild 3D (Imax),None
+16,Western,Heavy,Light,R,Light,Blackthorn,Medium
+17,Action,Light,Light,R,None,Black Death,Heavy
+18,Documentary,Light,Light,Not Rated,Light,Bill Cunningham New York,None
+19,Comedy,Medium,None,PG,None,The Big Year,Light
+20,Comedy,Heavy,None,PG-13,Light,"Big Mommas: Like Father, Like Son",Light
+21,Drama,Heavy,Light,PG-13,None,A Better Life,Light
+22,Drama,Heavy,Medium,R,Heavy,Bellflower,Heavy
+23,Documentary,None,None,Not Rated,None,Being Elmo: A Puppeter’S Journey,None
+24,Drama,Heavy,Medium,R,Heavy,Beginners,None
+25,Drama,Medium,Light,PG-13,Medium,The Beaver,Light
+26,Drama,Heavy,Medium,R,Medium,Beautiful Boy,Light
+27,Science Fiction,Medium,Light,PG-13,Light,Beastly,Medium
+28,Science Fiction,Heavy,None,PG-13,Light,Battle: Los Angeles,Medium
+29,Documentary,Light,Light,Not Rated,None,Battle For Brooklyn,None
+30,Comedy,Heavy,Medium,R,Heavy,Bad Teacher,Light
+31,Science Fiction,Heavy,None,R,None,Attack The Block,Heavy
+32,Mystery,Medium,Light,PG-13,Light,Atlas Shrugged Part 1,Light
+33,Drama,Light,Light,PG-13,None,The Artist,Light
+34,Family,Light,None,PG,None,Arthur Christmas,Light
+35,Comedy,Light,Light,PG-13,Light,Arthur,Light
+36,Drama,Medium,Medium,R,Light,The Art Of Getting By,Light
+37,Horror,Medium,None,PG-13,None,Apollo 18,Medium
+38,Drama,Heavy,Heavy,R,Light,Another Happy Day,Light
+39,Science Fiction,Light,Medium,PG-13,Medium,Another Earth,Heavy
+40,Drama,Medium,Medium,PG-13,Medium,Anonymous,Medium
+41,Musical,None,Light,G,None,Alvin And The Chipmunks: Chipwrecked,Light
+42,Documentary,None,None,G,None,African Cats,Medium
+43,Action,Light,None,PG,None,The Adventures Of Tintin,Medium
+44,Thriller,Medium,Light,PG-13,Light,The Adjustment Bureau,Light
+45,Thriller,Medium,Light,PG-13,Light,Abduction,Medium
+46,Drama,Medium,None,PG-13,Light,The 5Th Quarter,None
+47,Drama,Heavy,Light,R,Medium,50/50,None
+48,Action,Medium,None,R,None,5 Days Of War,Heavy
+49,Comedy,Heavy,Medium,R,Medium,30 Minutes Or Less,Medium
+50,Drama,Light,None,Not Rated,None,25 Hill,Light
+51,Action,Light,None,R,None,1911,Heavy
+52,Drama,Light,Medium,R,Heavy,Bel Ami,Light
+53,Comedy,Heavy,Medium,R,Medium,Your Sister’S Sister,None
+54,Drama,Heavy,None,PG-13,Medium,People Like Us,Light
+55,Drama,Medium,None,PG-13,None,Battlefield America,Light
+56,Drama,None,None,PG-13,Light,Loving The Bad Man,Light
+57,Documentary,Heavy,Light,Not Rated,Medium,Hit So Hard,Light
+58,Horror,Heavy,None,R,Light,Chernobyl Diaries,Heavy
+59,Drama,Light,None,G,None,Cowgirls ‘N Angels,Light
+60,Drama,Heavy,Light,R,Light,Mighty Fine,Medium
+61,Comedy,Heavy,Light,R,Light,The Intouchables,Light
+62,Comedy,Light,Medium,PG-13,Light,Moonrise Kingdom,Medium
+63,Comedy,Heavy,Medium,Not Rated,Medium,Romeo And Juliet In Yiddish,Medium
+64,Documentary,None,Light,Not Rated,None,First Position,None
+65,Drama,Light,None,PG-13,None,Hardflip,Light
+66,Comedy,Heavy,Light,R,Light,Tonight You’Re Mine,Light
+67,Comedy,Heavy,Light,PG-13,Light,Where Do We Go Now?,Light
+68,Comedy,Light,Light,PG-13,Medium,The Best Exotic Marigold Hotel,Light
+69,Thriller,Medium,Light,R,Light,The Raven (2012),Heavy
+70,Documentary,Light,Light,PG-13,Light,Marley,Light
+71,Comedy,Medium,None,PG-13,Light,Jesus Henry Christ,Heavy
+72,Drama,None,None,R,None,For Greater Glory,Medium
+73,Comedy,Heavy,Light,R,Medium,God Bless America,Heavy
+74,Drama,None,None,Not Rated,None,God’S Country,None
+75,Drama,Heavy,None,PG-13,Light,Darling Companion,Light
+76,Documentary,None,None,Not Rated,None,The Isaiah 9:10 Judgement,Light
+77,Drama,Medium,Light,PG-13,Light,Blue Like Jazz,Light
+78,Comedy,Light,Light,PG-13,Medium,Girl In Progress,None
+79,Comedy,Heavy,Light,PG-13,Heavy,Think Like A Man,None
+80,Drama,Light,None,PG,None,Smitty,Light
+81,Thriller,Heavy,None,R,Light,Atm,Medium
+82,Drama,None,None,TV-PG,None,Firelight (Tv 2012),Light
+83,Drama,Medium,None,Not Rated,Medium,Michael (2012),Medium
+84,Drama,Medium,Medium,R,Medium,Deep Blue Sea (2012),Light
+85,Thriller,Heavy,None,R,None,Brake,Medium
+86,Comedy,Heavy,Medium,R,Heavy,Goon,Heavy
+87,Thriller,Heavy,None,R,Medium,Seeking Justice,Medium
+88,Thriller,Heavy,Light,R,None,The Raid:  Redemption,Heavy
+89,Comedy,Heavy,Medium,R,Heavy,Casa De Mi Padre,Heavy
+90,Horror,Heavy,Medium,R,Light,Kill List,Heavy
+91,Drama,None,Light,Not Rated,Light,Quo Vadis,Light
+92,Comedy,None,Light,PG,None,"Mirror, Mirror",Light
+93,Drama,Light,Light,Not Rated,None,The Kid With A Bike,Light
+94,Comedy,Heavy,None,R,Light,"Jeff, Who Lives At Home",Light
+95,Documentary,None,None,Not Rated,None,Monumental:  In Search Of America’S National Treasure,None
+96,Thriller,Medium,Light,PG-13,Light,Gone,Medium
+97,Comedy,Heavy,Light,Not Rated,Light,Boy,Light
+98,Horror,Medium,None,R,Medium,Silent House,Heavy
+99,Comedy,Heavy,Medium,PG-13,Light,Salmon Fishing In The Yemen,Light

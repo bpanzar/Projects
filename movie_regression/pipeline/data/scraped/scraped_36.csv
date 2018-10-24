@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,None,R,Light,Spring Forward,Light
+1,Drama,Medium,Light,Not rated,Medium,Yi Yi,Light
+2,Comedy,Light,None,,Light,The Antipodes,Light
+3,Science Fiction,Light,None,PG-13,None,Dungeons And Dragons,Heavy
+4,Comedy,Heavy,Medium,PG-13,Light,What’S Cooking?,Light
+5,Mystery,Medium,Light,Not rated,Light,Suzhou River,Light
+6,Science Fiction,Heavy,Medium,PG-13,Light,The Sixth Day,Heavy
+7,Drama,Heavy,None,PG-13,None,13 Days,Light
+8,Family,None,None,PG,None,Dr. Seuss’ How The Grinch Stole Christmas,Light
+9,Horror,Heavy,Medium,R,Medium,Blair Witch 2: Book Of Shadows,Heavy
+10,Comedy,Heavy,Medium,Not rated,Light,Restless,None
+11,Comedy,Heavy,Medium,R,Heavy,Just Looking,Light
+12,Drama,Heavy,None,R,None,Went To Coney Island On A Mission From God . . .Be Back By Five,Light
+13,Drama,Medium,Medium,Not rated,Light,Orfeu,Medium
+14,Drama,Medium,Medium,R,Medium,Alice And Martin,Medium
+15,Comedy,Heavy,Heavy,R,Medium,Dr. T And The Women,Light
+16,Documentary,Light,None,PG,None,Into The Arms Of Strangers:,Light
+17,Biography,Heavy,Medium,R,Light,Steal This Movie!,Medium
+18,Crime,Heavy,Light,R,None,Way Of The Gun,Heavy
+19,Comedy,Medium,Medium,Not rated by MPAA,Heavy,The New Eve,Light
+20,Science Fiction,Heavy,Medium,R,Medium,The Hollow Man,Heavy
+21,Drama,Heavy,Medium,R,Light,The Tic Code,Medium
+22,Comedy,Medium,Medium,R,Medium,Chuck And Buck,None
+23,Comedy,Heavy,Medium,PG-13,Heavy,Nutty Professor Ii: The Klumps,Light
+24,Satire,Light,Medium,Not rated by MPAA,Light,The Ice Rink,Light
+25,Drama,Light,Light,R,Medium,La Fille Sur Le Pont (The Girl On The Bridge),Light
+26,Film Noir,Heavy,Medium,Not rated by MPAA,Medium,The Woman Chaser,Light
+27,Stream of Consciousness Drama,Light,Light,Not rated by MPAA,Light,Time Regained,None
+28,Animated Adventure,None,None,G,None,Pokemon The Movie 2000,Medium
+29,Drama,Light,Medium,Not rated,Medium,Luminous Motion,Light
+30,Drama,Heavy,Heavy,R,Heavy,The Idiots,Light
+31,Drama,Medium,None,Not Rated,None,Surviving Paradise,Light
+32,Animated,Light,None,PG,None,The Adventures Of Rocky And Bullwinkle,Light
+33,Documentary,Medium,None,Not rated by MPAA,None,The Life And Times Of Hank Greenberg,Light
+34,War documentary,Light,None,PG,None,Return With Honor,Light
+35,Spy,Medium,Light,PG-13,Light,Mission: Impossible 2 (M:I-2),Heavy
+36,Documentary,Light,None,G,None,A Conversation With Gregory Peck,None
+37,Drama,Heavy,Medium,PG-13,Light,Kikujiro,Light
+38,Drama,Light,Heavy,R,Heavy,The Other Conquest (La Otra Conquista),Heavy
+39,Environmental Drama,None,None,G,None,Family Tree,Light
+40,Documentary,Light,None,PG-13,None,"Mr. Death:  The Rise And Fall Of Fred A. Leuchter, Jr.",Medium
+41,Apocalyptic Thriller,None,None,Not rated by MPAA,None,Apocalypse Iii – Tribulation,Medium
+42,Adventure,Medium,Medium,AA in Canada,Medium,Misery Harbour,Medium
+43,Drama,Light,None,Not Rated,None,Born Under Libra,Medium
+44,Thriller,Heavy,Medium,Not Rated,Medium,First Testament: Cia Vengeance,Medium
+45,Comedy,Medium,Heavy,Not Rated,Light,Enlightenment Guaranteed,None
+46,Drama,None,None,Not Rated,None,Redemption Of The Ghost,Light
+47,Historical Romance,Light,None,PG,None,Shadow Magic,Light
+48,Drama,Heavy,None,PG-13,Light,Amy,Light
+49,Drama,Light,Light,PG-13,Light,The Champion,Medium
+50,Comedy,Medium,None,PG-13,Light,Escanaba In Da Moonlight,None
+51,Perverted Romance,Heavy,Heavy,Not rated,Heavy,Lies,Heavy
+52,Police Thriller,Heavy,None,Not rated,None,Nowhere To Hide,Heavy
+53,Biography,Light,None,Not rated,None,Hoover,None
+54,Drama,Light,Medium,Not rated,Medium,The Bridge,Light
+55,Comedy,Medium,Light,Not rated,Light,Achilles’ Love,None
+56,Fantasy,Light,None,PG,None,Teenage Mutant Ninja Turtles,Medium
+57,Drama,None,None,R,None,Lord Of The Flies,None
+58,Comedy,None,None,Probably PG,None,The Gods Must Be Crazy Ii,None
+59,Drama,None,None,R,None,The Handmaid’S Tale,None
+60,Music Video,None,None,PG,None,Rockula,None
+61,Horror,None,None,R,None,Nightbreed,None
+62,Drama,None,None,R,None,Revenge,None
+63,Horror,None,None,R,None,Brain Dead,None
+64,Drama,None,None,PG-13,None,The White Girl,None
+65,Drama,None,None,"No rating, but should be an R",None,The Game,None
+66,Thriller,None,None,PG,None,The Hunt For Red October,None
+67,Epic Drama,None,None,R,None,Mountains Of The Moon,None
+68,Documentary,None,None,G,None,For All Mankind,None
+69,Horror,None,None,R,None,The Haunting Of Morella,None
+70,Comedy,None,None,PG-13,None,A Man Called Sarge,None
+71,Action-Comedy,None,None,R,None,Flashback,None
+72,Comedy,None,None,"Not rated when screened, but probably PG",None,Rosalie Goes Shopping,None
+73,Comedy,None,None,PG,None,Strike It Rich,None
+74,Drama,None,None,PG-13,None,Torrents Of Spring,None
+75,Comedy,None,None,PG,None,Joe Versus The Volcano,None
+76,Documentary,None,None,Not rated,None,Weapons Of The Spirit,None
+77,Police Drama,None,None,R,None,Internal Affairs,None
+78,Science-Fiction,None,None,PG-13,None,Tremors,None
+79,Police-Action,None,None,R,None,Loose Cannons,None
+80,Drama,None,None,R,None,Everybody Wins,None
+81,,None,None,PG-13,None,Men Don’T Leave,None
+82,Musical,None,None,PG-13,None,Mack The Knife,None
+83,Comedy,None,None,PG,None,Ski Patrol,None
+84,Drama,None,None,Not rated,None,Cinema Paradiso,None
+85,Police Action-Drama,None,None,R,None,Heart Condition,None
+86,Police Action-Drama,None,None,R,None,Hard To Kill,None
+87,Drama,None,None,Not rated,None,New Year’S Day,None
+88,Police action adventure,None,None,R,None,Downtown,None
+89,Drama,None,None,PG-13,None,Stella,None
+90,Courtroom Drama,None,None,PG-13,None,The Rose Garden,None
+91,Horror,None,None,R,None,Leatherface: Texas Chainsaw Massacre Iii,None
+92,Romantic-adventure,None,None,PG,None,Always,None
+93,War Drama,None,None,R,None,Born On The 4Th Of July,None
+94,Tragic Comedy,None,None,R,None,Sweetie,None
+95,Comedy,None,None,PG-13,None,We’Re No Angels,None
+96,Courtroom Drama,None,None,PG-13,None,The Music Box,None
+97,,Light,None,R,None,Glory,Heavy
+98,Drama,Medium,Heavy,R,Medium,At Play In The Fields Of The Lord,Medium
+99,Comedy,Heavy,None,R,Heavy,Talkin Dirty After Dark,Light

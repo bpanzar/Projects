@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Thriller,Heavy,Medium,R,Medium,The Sweeney,Medium
+1,Comedy,None,None,PG,None,Wreck-It Ralph,Light
+2,,Heavy,Medium,,Medium,21 And Over,Medium
+3,Holocaust Drama,Medium,Heavy,R,Heavy,Schindler’S List,Heavy
+4,Drama,None,Light,TV-PG,Light,The Bible: Episode One,Medium
+5,Action,None,None,PG,None,The Lost Medallion:  The Adventures Of Billy Stone,Light
+6,Thriller,Light,Medium,R,Medium,Stoker,Heavy
+7,Drama,None,None,PG,None,Heaven’S Door,Light
+8,Horror,Medium,Light,PG-13,Light,Dark Skies,Medium
+9,Thriller,Medium,Light,PG-13,None,Snitch,Medium
+10,Drama,Light,Light,PG-13,None,Saving Lincoln,Light
+11,Science Fiction,Heavy,None,PG-13,Medium,Beautiful Creatures (2013),Medium
+12,Drama,Medium,Light,PG-13,Medium,Safe Haven,Medium
+13,Drama,Heavy,None,R,None,No,Light
+14,Documentary,None,None,N/A,None,The Gentle Bear Man Of Emo,None
+15,Action,Heavy,Light,R,None,A Good Day To Die Hard,Heavy
+16,Drama,None,Light,PG,None,Abel’S Field,Light
+17,Documentary,None,None,Not Rated,None,People Of Faith:  Christianity In America,None
+18,Comedy,Heavy,Medium,R,None,A Glimpse Inside The Mind Of Charles Swan Iii,Light
+19,Thriller,Heavy,Medium,R,Medium,Side Effects,Medium
+20,Comedy,Heavy,Light,R,Medium,Identity Thief,Medium
+21,Thriller,Heavy,Medium,R,Light,Parker,Heavy
+22,Action,Heavy,Medium,R,Light,Bullet To The Head,Heavy
+23,Horror,Heavy,Medium,R,Light,John Dies At The End,Heavy
+24,Action,Medium,Medium,R,Light,Hansel And Gretel Witch Hunters,Heavy
+25,Science Fiction,Medium,Light,PG-13,None,Warm Bodies,Medium
+26,Comedy,Light,None,TV-G,Light,The Sweeter Side Of Life,Light
+27,Documentary,Light,None,PG,Light,Runaway Slave,None
+28,Drama,Heavy,Light,R,Medium,Not Fade Away,Light
+29,Documentary,Light,None,Not Rated,None,Fracknation,Light
+30,Thriller,Medium,None,Not Rated,None,The Tower,Medium
+31,Comedy,Heavy,Medium,R,Heavy,A Haunted House,Medium
+32,Comedy,Heavy,Medium,R,Light,Lay The Favorite,Light
+33,Drama,Heavy,None,R,None,Luv,Heavy
+34,Documentary,Medium,Medium,R,Medium,West Of Memphis,Heavy
+35,Comedy,Heavy,None,R,Medium,Stand Up Guys,Medium
+36,Horror,Light,None,PG-13,Light,Mama,Medium
+37,Action,Heavy,None,R,None,The Last Stand,Heavy
+38,Drama,Heavy,Light,R,Medium,Broken City,Medium
+39,Comedy,Medium,None,PG-13,Light,Quartet,Light
+40,Drama,Heavy,None,R,None,Promised Land,None
+41,Horror,Heavy,Medium,R,Medium,Texas Chainsaw 3D,Heavy
+42,Western,Heavy,Heavy,R,Light,Django Unchained,Heavy
+43,Drama,Light,Medium,PG-13,None,The Impossible,Medium
+44,Drama,Heavy,Medium,R,Heavy,On The Road,Light
+45,Comedy,Heavy,Medium,R,Medium,This Is 40,Light
+46,Thriller,Heavy,Light,R,Light,Gangster Squad,Heavy
+47,Thriller,Heavy,Light,PG-13,Light,Jack Reacher,Medium
+48,Drama,Light,Medium,PG-13,None,Amour,Medium
+49,Drama,Heavy,Light,Not Rated,Medium,Any Day Now,Light
+50,Comedy,Heavy,Light,R,Heavy,Save The Date,Light
+51,Drama,Medium,Medium,PG-13,Medium,The First Time,Light
+52,Documentary,None,Medium,PG-13,Medium,Samsara,Heavy
+53,Drama,Heavy,Medium,R,Heavy,Rust And Bone,Medium
+54,Documentary,Medium,None,PG-13,Light,Paul Williams Still Alive,Light
+55,Documentary,Medium,Light,Not Rated,None,Long Shot: The Kevin Laue Story,Light
+56,Documentary,Medium,Medium,PG-13,Light,Diana Vreeland:  The Eye Has To Travel,None
+57,Drama,Medium,None,PG,None,Backwards,None
+58,Action,Medium,Light,PG-13,Light,The Dark Knight Rises,Medium
+59,Drama,Heavy,Light,R,Medium,A Late Quartet,Light
+60,Documentary,Medium,Light,PG-13,None,Waiting For Lightning,Light
+61,Drama,Medium,None,R,Medium,Hyde Park On Hudson,None
+62,Comedy,None,None,PG,Light,Delhi Safari,Light
+63,Thriller,Heavy,Medium,R,Medium,Deadfall,Heavy
+64,Comedy,Medium,Light,PG-13,Medium,Playing For Keeps,Light
+65,Documentary,None,None,PG,None,Jiro Dreams Of Sushi,None
+66,Drama,Medium,Medium,R,Medium,A Royal Affair,Medium
+67,Comedy,Heavy,None,Not Rated,Light,Price Check,None
+68,Drama,None,None,R,None,Smashed,None
+69,Drama,Heavy,Light,R,Medium,Killing Them Softly,Heavy
+70,Science Fiction,Heavy,Heavy,R,Medium,Universal Soldier: Day Of Reckoning,Heavy
+71,Action,Heavy,None,PG-13,Light,Red Dawn (2012),Medium
+72,Comedy,Medium,Light,PG-13,Light,Hitchcock,Medium
+73,Drama,Heavy,Medium,R,Medium,Silver Linings Playbook,Medium
+74,Science Fiction,Light,Light,PG-13,Light,"Twilight Saga: Breaking Dawn, Part 2",Heavy
+75,Drama,Light,Medium,R,Medium,Anna Karenina,Medium
+76,Comedy,Heavy,None,R,Medium,The Details,Light
+77,Horror,Medium,Medium,R,None,Silent Hill: Revelation 3D,None
+78,Science Fiction,None,None,G,None,Secret Of The Wings,None
+79,Drama,Heavy,Light,R,None,Zero Dark Thirty,Heavy
+80,Drama,Heavy,None,PG-13,Light,Lincoln,Medium
+81,Action,Medium,Medium,R,Heavy,The Man With The Iron Fists,Heavy
+82,Science Fiction,None,Light,PG,Light,Cirque Du Soleil: World’S Away,Light
+83,Comedy,Heavy,None,PG-13,Light,The Guilt Trip,Light
+84,Musical,Light,None,PG-13,Light,Les Miserables,Medium
+85,Drama,Heavy,Heavy,R,Medium,Flight,Medium
+86,Drama,Light,Light,PG-13,None,Life Of Pi,Medium
+87,Fantasy,None,Light,PG-13,None,The Hobbit: An Unexpected Journey,Medium
+88,Action,Medium,Light,PG-13,Light,Skyfall,Medium
+89,Drama,Medium,Light,PG-13,Medium,Woman Thou Art Loosed:  On The 7Th Day,Light
+90,Drama,None,None,Not Rated,None,The Sound Of The Spirit,None
+91,Horror,Heavy,Heavy,R,Heavy,*V/H/S,Heavy
+92,Comedy,Heavy,Light,R,Medium,Butter,Light
+93,Comedy,Heavy,Heavy,R,Heavy,The Sessions,None
+94,Documentary,None,None,Not Rated,None,Fear Of A Black Republican,Light
+95,Horror suspense,Medium,None,PG-13,Light,The Mine,Medium
+96,Drama,None,None,Not Rated,Light,The Encounter: Paradise Lost,Medium
+97,Documentary,Light,None,Not Rated,None,The Ambassador,None
+98,Science Fiction,None,None,Not Rated,None,The Mark,Light
+99,Non-Fiction,None,Light,NO RATING,None,The Changers,Light

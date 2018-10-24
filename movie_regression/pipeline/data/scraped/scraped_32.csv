@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Science Fiction,None,None,PG,None,Matilda,Light
+1,Science Fiction,Medium,None,PG-13,None,Chain Reaction,Medium
+2,Action,Light,None,R,Light,Supercop,Heavy
+3,Comedy,Medium,Light,PG,None,Carpool,Medium
+4,Comedy,Light,None,PG-13,Light,Jack,Light
+5,Comedy,Heavy,Heavy,R,Heavy,Maybe…Maybe Not,None
+6,Horror,Heavy,None,R,Light,The Frighteners,Heavy
+7,Drama,Heavy,Heavy,R,Heavy,Trainspotting,Light
+8,Comedy,Heavy,Medium,R,Heavy,Mouth To Mouth (Boca A Boca),Medium
+9,Action-Adventure,Heavy,Heavy,R,Heavy,Fled,Heavy
+10,Comedy,Medium,None,PG-13,Light,Multiplicity,None
+11,Science Fiction,Light,None,PG,None,Kazaam,Light
+12,Wilderness adventure,Medium,None,PG,Light,Alaska,Medium
+13,Fairy Tale,Light,None,G,None,The Adventures Of Pinocchio,Light
+14,Action,Heavy,Medium,,Medium,Switchblade Sisters,Heavy
+15,Thriller,None,None,,Medium,Purple Noon,Medium
+16,Comedy,Heavy,Light,R,Light,Walking And Talking,None
+17,Science Fiction,Medium,None,R,Light,The Visitors,Medium
+18,War,Heavy,None,R,None,Courage Under Fire,Heavy
+19,Drama,Medium,Medium,R,Medium,Heavy,Medium
+20,Drama,Heavy,None,R,Medium,Lone Star,Medium
+21,Drama,Heavy,None,R,None,A Time To Kill,Heavy
+22,Science Fiction,Heavy,Light,PG-13,Light,Independence Day,Medium
+23,Drama,None,None,PG,None,Emma,Light
+24,Operatic Drama,None,None,Not rated by MPAA,Light,The Umbrellas Of Cherbourg,None
+25,Comic detective satire,Heavy,Heavy,R,Heavy,Stripteasevii,Medium
+26,Drama,Light,Medium,Not Rated by MPAA,None,Magic Hunter,Medium
+27,Comedy,Heavy,Light,R,Medium,Kingpin,Medium
+28,Comedy,Heavy,None,PG-13,Medium,The Nutty Professor,Medium
+29,Science Fiction,None,Light,R,Light,City Of Lost Children,Heavy
+30,Drama,Heavy,None,PG,Light,Phenomenon,None
+31,War Drama,Heavy,Light,Not rated by MPAA,Medium,The Last Lieutenant,Medium
+32,Animation,Light,None,G,Light,The Hunchback Of Notre Dame,Medium
+33,Church resource,None,None,Not rated by MPAA,None,Marriage Savers:  Resource Collection,None
+34,Drama,Heavy,None,,Light,Taxi Driver,Heavy
+35,Horror,Medium,Heavy,R,Heavy,Cemetary Man,Heavy
+36,Drama,Medium,Heavy,R,Heavy,Stealing Beauty,Light
+37,Drama,Light,Heavy,,Medium,Breaking The Waves,None
+38,Drama,Medium,None,R,None,Kansas City,Medium
+39,Action,Heavy,None,R,Light,The Rock,Heavy
+40,Comic-drama,Heavy,Medium,R,Light,Welome To The Dollhouse,Medium
+41,Science-Fiction,Medium,Light,PG-13,Light,The Arrival,Light
+42,Drama,Medium,None,PG-13,Light,Secrets And Lies,None
+43,Comedy,Heavy,None,PG-13,Light,Eddie,None
+44,Drama,Medium,None,PG,None,Harriet The Spy,Light
+45,Drama,None,None,Not rated by MPAA,None,Bach’S Fight For Freedom,None
+46,Drama,Heavy,Medium,Not Rated by MPAA,Heavy,Ma Saison Preferee,Light
+47,Mystery,Heavy,Medium,R,Light,Heaven’S Prisoners,Heavy
+48,Action,Medium,Light,PG,None,The Phantom,Medium
+49,Comedy,Medium,Medium,PG-13,Light,Spy Hard,Medium
+50,Action,Light,None,PG-13,Light,Dragonheart,Light
+51,Drama,Light,None,Not rated by MPAA,None,Nellie And Monsieur Arnaud,None
+52,Action,Heavy,None,PG-13,None,Mission Impossible,Medium
+53,Comedy,Light,Light,PG,Light,Cold Comfort Farm,Light
+54,Animated,None,None,Not rated by MPAA,None,The Story Keepers: Breakout!,Light
+55,Docudrama,Heavy,Heavy,Unrated by MPAA,Heavy,I Shot Andy Warhol,Light
+56,Action,Heavy,Medium,R,Medium,Barb Wire,Heavy
+57,Drama,Medium,Medium,R,Light,Moll Flanders,Light
+58,Action,Heavy,Light,R,Medium,Original Gangstas,Heavy
+59,Drama,Heavy,Light,PG-13,Light,Boys,Light
+60,Comedy,Medium,None,PG-13,Light,The Pallbearer,Light
+61,Drama,Light,Medium,R,None,The Horseman On The Roof,Heavy
+62,Comedy,Medium,Medium,Unrated by MPAA,Light,Someone Else’S America,Light
+63,Thriller,Heavy,None,PG-13,None,Twister,Medium
+64,Family,Medium,None,PG,None,Flipper,Medium
+65,Documentary,Light,Light,PG,None,Frank And Ollie,Light
+66,Biblical Epic,None,None,Not Rated By MPAA,None,Word-For-Word Bible: Matthew,None
+67,Occult Thriller,Heavy,None,R,Light,The Craft,Heavy
+68,Drama,Heavy,Medium,R,Medium,The Substitute,Heavy
+69,Drama,Heavy,Medium,R,Medium,Dead Man,Heavy
+70,Comedy,Heavy,Medium,R,Medium,Great White Hype,Medium
+71,Documentary,Medium,Medium,R,Medium,The Celluloid Closet,Heavy
+72,Comedy,Heavy,None,PG-13,None,Celtic Pride,Light
+73,Comedy,Light,None,R,Heavy,Denise Calls Up,None
+74,Comedy,Light,Heavy,R,Medium,Flirting With Disaster,Light
+75,Drama,Heavy,None,R,Light,Sunset Park,Medium
+76,Comedy,Heavy,None,PG,None,Mrs. Winterbourne,Light
+77,Biblical Epic,None,None,Not rated by MPAA,None,Moses,Medium
+78,Comedy,Heavy,None,R,Medium,The Last Supper,Heavy
+79,Drama,Heavy,Heavy,R,Heavy,Carried Away,Light
+80,Drama,Heavy,Medium,R,Heavy,Loaded,Light
+81,Mystery,Heavy,Medium,R,Heavy,Fear,Heavy
+82,Detective,Medium,Medium,R,Heavy,Mulholland Falls,Heavy
+83,Comedy,Heavy,Medium,R,Medium,Kids In The Hall:  Brain Candy,Light
+84,,Heavy,None,R,Light,Last Dance,Light
+85,Animated,Heavy,Light,Not rated by MPAA,Light,Ghost In The Shell,Heavy
+86,Comedy,Medium,None,PG-13,Light,The Truth About Cats And Dogs,None
+87,Comedy,Medium,None,PG-13,None,Mystery Science Theater 3000: The Movie,Light
+88,Science Fiction,Light,None,PG,None,James And The Giant Peach,Light
+89,Drama,None,None,PG,None,Jane Eyre,Medium
+90,Mystery,Heavy,Medium,R,Medium,Diabolique,Medium
+91,Comedy Thriller,Heavy,Heavy,R,Heavy,A Thin Line Between Love And Hate,Medium
+92,Drama Thriller,Light,Medium,,Medium,Who Killed Teddy Bear?,Medium
+93,Comedy,Medium,Medium,PG,Light,"Little Indian, Big City",Medium
+94,Drama,Heavy,Medium,,Medium,Land And Freedom,Heavy
+95,Comedy,Medium,None,PG,None,Race The Sun,Light
+96,Comedy,Heavy,None,R,Light,Faithful,Light
+97,Animated,None,None,,None,Oliver And Company,Light
+98,Drama,Heavy,Medium,Unrated by MPAA,None,The Young Poisoner’S Handbook,Heavy
+99,Comedy,Heavy,Light,R,Heavy,Girl 6,Light

@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Science-fiction,Heavy,Medium,R,Heavy,The Postman,Heavy
+1,Comedy,Medium,Medium,PG-13,Medium,As Good As It Gets,None
+2,Action,Light,Medium,PG-13,Medium,Tomorrow Never Dies,Heavy
+3,Drama,Heavy,Medium,PG-13,Light,Titanic,Medium
+4,Documentary,None,None,Not submitted to MPAA,None,Hell’S Bells: The Dangers Of Rock ‘N’ Roll,None
+5,Drama,None,None,G,None,The Story Lady,None
+6,Drama,None,Heavy,NC-17,Heavy,The Bad Lieutenant,Heavy
+7,Documentary,None,None,Not submitted to MPAA,None,Time Will Tell,None
+8,Drama,Medium,Medium,"Not yet rated, but probably PG-13",Medium,Trusting Beatrice,None
+9,Advertising anthology,None,Light,Not submitted to MPAA,Light,World’S Best Commercials Cannes 1991,None
+10,Drama,None,Light,PG-13,Light,Indochine,Medium
+11,Comedy,Medium,None,PG-13,Light,Toys,Light
+12,Courtroom Drama,None,None,R,None,A Few Good Men,Light
+13,Drama,Medium,None,PG-13,Light,Love Field,Medium
+14,Drama,Medium,None,PG-13,Light,Leap Of Faith,None
+15,Family drama,None,None,Not rated by MPAA,None,The Buttercream Gang,None
+16,Horror,None,Heavy,R,Heavy,Bram Stoker’S Dracula,Heavy
+17,Documentary,None,Light,Not submitted to MPAA,Light,Hugh Hefner: Once Upon A Time,None
+18,Drama,None,Heavy,R,Heavy,Traces Of Red,Heavy
+19,Musical,None,Light,Not submitted to MPAA,Light,The Tune,Heavy
+20,Drama,None,Medium,R,Medium,The Crying Game,Medium
+21,Drama,Light,Medium,R,Heavy,Becoming Colette,None
+22,Comedy,None,None,PG-13,Light,Love Potion #9,Light
+23,Comedy,Heavy,None,PG,Light,The Distinguished Gentleman,None
+24,Drama,Light,None,Not submitted to MPAA,Light,Tous Les Matins Du Monde,Light
+25,Comedy,Medium,None,Not submitted to MPAA,Light,A Christmas Story,Light
+26,Drama,Light,None,Not submitted to MPAA,Light,Close To Eden,None
+27,Musical,None,None,G,None,The Muppet Christmas Carol,Light
+28,Lecture,None,None,Not submitted to MPAA,None,America’S Godly Heritage,None
+29,Drama,None,None,R,None,Reservoir Dogs,Heavy
+30,Drama,None,Heavy,R,Medium,Waterland,Medium
+31,Comedy,None,Light,Not submitted to MPAA rating,Light,In The Soup,None
+32,Comedy,Medium,None,R,Light,My New Gun,Light
+33,Science Fiction,None,Medium,PG,None,Solar Crisis,Light
+34,Mystery,None,Light,R,Light,Jennifer Eight,Medium
+35,Thriller,Heavy,None,R,Light,The Bodyguard,Medium
+36,Drama,Light,Light,PG-13,Medium,Flirting,None
+37,Drama,Light,None,PG,None,Forever Young,Light
+38,Family,None,None,G,None,Aladdin,Medium
+39,Horror,None,None,R,Light,Dr. Giggles,Heavy
+40,Horror,None,Light,R,Light,Candyman,Heavy
+41,Comedy,None,None,PG-13,Medium,Frozen Assets,Light
+42,Comedy-drama,None,Light,PG-13,Medium,Peter’S Friends,None
+43,Drama,None,None,R,Medium,Night And The City,Medium
+44,Drama,None,None,R,Light,Laws Of Gravity,Medium
+45,Drama,None,None,PG-13,Light,Danzon,None
+46,Drama,None,None,PG-13,Medium,Double Edge,None
+47,Drama,None,None,R,Medium,Venice/Venice,None
+48,Comedy,None,None,R,Light,Johnny Stecchino,Light
+49,Comedy,Light,None,PG,Light,Home Alone 2: Lost In New York,Heavy
+50,Family,None,None,Not rated by MPAA,None,Kingdom Adventure 2: Trambazoombah Rescue & Kingdom Adventure 4: The Green Spot Plot (Including Secret Of The Trillies),None
+51,Comedy,None,None,PG,Light,Boris And Natasha: The Movie,Light
+52,Thriller,Medium,Medium,R,Medium,Consenting Adults,Heavy
+53,Action,None,None,R,Light,Passenger 57,Heavy
+54,Murder-mystery drama,Heavy,None,R,None,The Public Eye,Heavy
+55,Drama,Light,None,Not submitted to the MPAA,Light,Alberto Express,None
+56,Action,None,Medium,R,None,Under Siege,Heavy
+57,Drama,Heavy,None,R,Light,South Central,Heavy
+58,Documentary,None,None,Not submitted to MPAA,None,Thank You And Goodnight!,None
+59,Japanese animation,Light,None,Not submitted to the MPAA,Light,Twilight Of The Cockroaches,Light
+60,Drama,Medium,None,PG-13,Medium,Malcolm X,Medium
+61,Action,None,Medium,PG-13,Light,1492: Conquest Of Paradise,Heavy
+62,Evangelistic drama,None,None,Not rated by MPAA,None,Moment Of Truth,None
+63,Drama,None,Medium,Not submitted to the MPAA,Medium,Swoon,Medium
+64,Family adventure,None,None,PG,None,Legend Of Wolf Mountain,Light
+65,Tragicomedy,Heavy,None,R,None,Mr. Saturday Night,Light
+66,Mystery-Thriller,None,Medium,R,Heavy,Knight Moves,Heavy
+67,Racial drama,Heavy,None,R,Light,Zebrahead,Light
+68,Drama,None,Light,R,None,Jumpin’ At The Boneyard,Light
+69,Comedy,None,None,PG,Light,Nickel And Dime,Light
+70,Comedy,Medium,Medium,PG-13,Medium,Mr. Baseball,None
+71,Action,Light,None,R,Light,The Last Of The Mohicans,Heavy
+72,Drama,None,Medium,PG-13,Light,A River Runs Through It,None
+73,Comedy,Light,None,PG,None,The Mighty Ducks,Light
+74,Drama,Light,None,Not rated by MPAA,None,The Quarrel,None
+75,Horror,None,Medium,R,Heavy,Hellraiser Iii–Hell On Earth,Heavy
+76,Horror-mystery,None,None,R,Light,Rampage,Heavy
+77,Horror,None,Heavy,R,Heavy,Innocent Blood,Heavy
+78,Comedy,None,Light,PG,Light,Out On A Limb,Medium
+79,Comedy-Drama,Medium,Medium,R,Medium,Husbands And Wives,None
+80,Existentialist Drama,Medium,None,PG-13,Medium,Simple Men,Medium
+81,Drama,Medium,None,R,Light,Crossing The Bridge,Medium
+82,Drama,None,None,PG,Light,Rich In Love,Light
+83,Drama,None,Medium,R,Medium,Storyville,Medium
+84,Comedy,Light,Medium,PG-13,Medium,Captain Ron,None
+85,Science Fiction,Light,Medium,R,None,Blade Runner,Heavy
+86,Drama,Light,None,PG,Light,Pure Country,Medium
+87,Drama,Light,None,PG-13,Light,Of Mice And Men,Light
+88,Drama,Medium,None,PG,Light,A Day In October,Medium
+89,Drama,None,Heavy,NC-17,Heavy,The Lover,Light
+90,Drama,None,Heavy,Not submitted to MPAA.,Heavy,The Living End,Heavy
+91,Drama,None,Medium,R,None,Cabeza De Vaca,Heavy
+92,Animated adventure,None,None,PG,Light,Freddie As F.R.O. 7,Medium
+93,Horror,None,Medium,R,Medium,Pet Sematary Two,Heavy
+94,Martial arts action adventure,None,None,R,Medium,Rapid Fire,Heavy
+95,Comedy,None,Light,PG-13,Medium,Johnny Suede,Medium
+96,Comedy,None,Light,PG-13,Light,Bed And Breakfast,None
+97,Political satire,None,None,R,Light,Bob Roberts,Light
+98,Adventure-Romance,None,Light,PG-13,Medium,Wind,Light
+99,Drama,Heavy,Light,PG-13,Light,School Ties,Medium

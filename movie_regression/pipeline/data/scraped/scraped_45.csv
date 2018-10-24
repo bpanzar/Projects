@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Urban Crime Drama,Heavy,Light,R,Light,Turn It Up,Heavy
+1,Science Fiction,Light,Medium,R,Medium,Highlander: Endgame,Heavy
+2,Comedy,Light,Medium,R,Heavy,Woman On Top,Light
+3,Comedy,Heavy,Medium,R,Medium,Duets,Medium
+4,Thriller,Heavy,Light,R,Medium,Bait,Medium
+5,Drama,Heavy,None,Not rated,None,Titanic Town,Medium
+6,Drama,Light,Light,Not rated,Light,Place Vendome,Light
+7,Biography,None,Heavy,R,Medium,Goya In Bordeaux,Light
+8,Comedy,Heavy,Light,R,Light,Almost Famous,None
+9,Romantic Comedy,Heavy,Light,R,Light,Smiling Fish & Goat On Fire,Light
+10,Documentary,Light,None,Not rated,None,The Ballad Of Ramblin’ Jack,None
+11,Comedy,None,None,PG,None,Mvp: Most Valuable Primate,Light
+12,Drama,None,Light,PG,None,Remember The Titans,Light
+13,Concert Documentary,Heavy,Heavy,R,Medium,Backstage,Light
+14,Suspense,Heavy,Light,R,None,Urban Legends: Final Cut,Heavy
+15,Comedy,Heavy,Light,PG-13,Light,Meet The Parents,Medium
+16,Comedy,Medium,Light,PG-13,Medium,Best In Show,Light
+17,Drama,Heavy,Medium,R,Heavy,Tigerland,Heavy
+18,Urban Drama,Heavy,None,R,None,Once In The Life,Heavy
+19,Drama,Heavy,Light,R,None,Billy Elliot,Medium
+20,Drama,Medium,Light,PG-13,Light,Beautiful,Light
+21,Musical,Light,Light,PG,None,The Fantasticks,Light
+22,Drama,Light,None,PG-13,None,Mercy Streets,Light
+23,Science Fiction,None,None,"Not rated when screened, but probably PG",None,Left Behind,Light
+24,Satire,Heavy,Medium,R,Heavy,Cecil B. Demented,Heavy
+25,Horror,Heavy,Medium,R,Heavy,The Cell,Heavy
+26,Spy,Heavy,Medium,R,Medium,The Art Of War,Heavy
+27,Homosexual Romantic Comedy,Heavy,Light,R,Medium,The Broken Hearts Club,None
+28,Romantic Comedy,Heavy,Medium,Not yet rated,Heavy,Love & Sex,Light
+29,Concert Movie,Heavy,None,R,Medium,The Original Kings Of Comedy,Light
+30,Soap Opera,Heavy,None,PG-13,Light,Autumn In New York,None
+31,Comedy,Heavy,Medium,PG-13,Light,The Crew,Heavy
+32,Drama,Heavy,None,Not rated,Light,Bootmen,Medium
+33,Comedy,Heavy,None,PG-13,Light,Bring It On,Light
+34,Drama,None,Light,R,Light,Girlfight,None
+35,Spiritual Warfare,Light,None,R,None,Bless The Child,Heavy
+36,Science Fiction,Medium,None,PG,None,Godzilla 2000,Light
+37,Thriller,Medium,Light,PG-13,Light,The In Crowd,Medium
+38,Drama,Light,Medium,R,Heavy,An Affair Of Love,Light
+39,Comedy,Heavy,Light,R,Medium,Nurse Betty,Heavy
+40,Documentary,None,Light,PG-13,Light,The Eyes Of Tammy Faye,None
+41,Comedy,Light,Medium,PG-13,Medium,Coyote Ugly,Light
+42,Comedy,Medium,Light,PG-13,Light,Loser,Light
+43,Sports Comedy,Heavy,Light,PG-13,Light,The Replacements,Medium
+44,Science Fiction,Heavy,Light,PG-13,None,Space Cowboys,Light
+45,Comedy,Medium,Medium,PG-13,Light,Shower,Light
+46,Comedy Spoof,Heavy,Medium,Not rated by MPAA,Medium,Psycho Beach Party,Medium
+47,Sick Comedy Spoof,Heavy,Heavy,R,Heavy,Scary Movie,Heavy
+48,Satire,Heavy,Medium,R,Heavy,But I’M A Cheerleader,Light
+49,Drama,Medium,None,Not yet rated by MPAA,Light,The Opportunists,Light
+50,Horror,Medium,Light,PG-13,Light,What Lies Beneath,Medium
+51,Comedy,Medium,Light,PG-13,None,Mad About Mambo,Light
+52,Science Fiction,Medium,None,PG,None,X-Men,Medium
+53,Comedy,Heavy,Light,R,Medium,The Tao Of Steve,Light
+54,Comedy,Medium,Heavy,R,Light,Saving Grace,Light
+55,Action Drama,Heavy,Light,PG-13,None,The Perfect Storm,Medium
+56,Children’s Fantasy,None,None,G,None,Thomas And The Magic Railroad,Light
+57,Comedy,Light,None,PG,None,Disney’S The Kid,Light
+58,Comedy,Heavy,Heavy,R,Heavy,"Me, Myself And Irene",Heavy
+59,Drama,Medium,Medium,R,Medium,Butterfly,Medium
+60,Comedy,Light,Medium,PG-13,Medium,Boys And Girls,Light
+61,Detective Fiction,Heavy,Medium,R,Medium,Shaft,Heavy
+62,Drama,Heavy,Light,PG-13,None,Catfish In Black Bean Sauce,Light
+63,Drama,Medium,None,R,None,The Patriot,Heavy
+64,Comedy,Light,None,PG,Light,Love’S Labour’S Lost,None
+65,Animated Comedy,Light,None,G,None,Chicken Run,Light
+66,Film Noir,Heavy,Medium,R,Light,Trixie,Light
+67,Drama,Heavy,Medium,R,Medium,Jesus’ Son,Medium
+68,Drama,Light,Medium,R,Medium,The Last September,Medium
+69,Comedy,Heavy,Medium,PG-13,Light,Big Momma’S House,Medium
+70,Thriller,Heavy,Light,PG-13,Light,Gone In 60 Seconds,Medium
+71,Animated Science Fiction,None,Light,PG,None,Titan A.E.,Light
+72,Animal Adventure,None,Light,G,None,Running Free,Light
+73,Comedy,Heavy,Heavy,R,Heavy,Road Trip,Medium
+74,Comedy,Heavy,Medium,PG-13,Light,Screwed,Medium
+75,Drama,Light,None,Not yet rated,None,Dancer In The Dark,Medium
+76,Film Noir,Heavy,Heavy,Not rated by MPAA,Medium,Croupier,Medium
+77,Drama,Heavy,Heavy,Not yet rated,Heavy,Requiem For A Dream,Heavy
+78,Comedy,Heavy,Light,PG-13,Light,Held Up,Medium
+79,Elizabethan Drama,Light,Light,R,Light,Hamlet (2000),Heavy
+80,Romantic thriller,Medium,Medium,PG-13,Medium,Passion Of Mind,None
+81,Martial Arts Movie,None,Light,PG-13,Medium,Shanghai Noon,Medium
+82,Screwball Comedy,Heavy,None,PG-13,None,Small Time Crooks,Light
+83,Drama,None,Light,R,Light,The Virgin Suicides,None
+84,Drama,Heavy,None,R,Medium,Time Code,Medium
+85,Drama,Heavy,Light,R,Medium,Groove,None
+86,Drama,Heavy,Medium,PG-13,Medium,Center Stage,None
+87,Science Fiction,Light,None,PG-13,None,Battlefield Earth,Medium
+88,Historical Action Adventure,Light,Light,R,Light,Gladiator,Heavy
+89,Drama,Light,Medium,PG-13,Medium,I Dreamed Of Africa,Heavy
+90,Science Fiction,Light,Medium,PG,Medium,Dinosaur,Heavy
+91,Horror,Heavy,Heavy,R,Heavy,American Psycho,Heavy
+92,Drama,Medium,None,R,Medium,Gossip,Medium
+93,Drama,Light,None,PG-13,Light,Up At The Villa,Light
+94,Comedy,Heavy,None,R,None,The Big Kahuna,Light
+95,Comedy,Heavy,Light,R,Light,Bossa Nova,Light
+96,Drama,Heavy,Medium,PG-13,Light,Where The Heart Is,Light
+97,Drama,Heavy,None,PG-13,None,U-571,Medium
+98,Comedy,None,None,PG,None,The Flintstones In Viva Rock Vegas,Light
+99,Comedy,Heavy,Medium,R,Heavy,Slackers,Light

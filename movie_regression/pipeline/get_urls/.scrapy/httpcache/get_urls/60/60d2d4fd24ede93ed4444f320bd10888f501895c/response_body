@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-json/
+Allow: /feed/
+Disallow: /*/feed/
+Disallow: /*/attachment/
+Disallow: /search/
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /pray
+User-agent: Scrapy
+Disallow: /
+User-agent: Scrapy/1.5.0
+Disallow: /

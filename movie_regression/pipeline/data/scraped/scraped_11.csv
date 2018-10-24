@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Comedy,Heavy,Heavy,R,Heavy,Unfinished Business,Light
+1,Horror,Medium,Heavy,R,Heavy,It Follows,Medium
+2,Science Fiction,Heavy,Medium,R,Light,Chappie,Heavy
+3,Documentary,Light,None,Not Rated,Light,An Honest Liar,Light
+4,Drama,Light,Light,PG-13,Light,Refuge From The Storm,Medium
+5,Comedy,Medium,Medium,PG-13,Medium,A La Mala,None
+6,Documentary,None,None,Not Rated,None,The Drop Box,None
+7,Thriller,Heavy,Light,R,Medium,Focus,Medium
+8,Horror,Heavy,None,PG-13,Light,The Lazarus Effect,Heavy
+9,Documentary,None,Light,PG-13,Light,Manny,Medium
+10,Drama,Light,None,Not Rated,None,Gett:  The Trial Of Viviane Amsalem,None
+11,Drama,None,None,PG-13,None,Timbuktu (2014),Heavy
+12,Comedy,Heavy,Light,PG-13,Medium,The Duff,Light
+13,Comedy,Light,Light,PG,Light,The Second Best Exotic Marigold Hotel,Light
+14,Comedy,Heavy,Heavy,R,Heavy,Hot Tub Time Machine 2,Heavy
+15,Drama,Light,Light,PG,None,"Mcfarland, Usa",Light
+16,Drama,Medium,None,PG-13,Light,To Write Love On Her Arms,Medium
+17,Action,Heavy,None,R,Light,White God,Heavy
+18,Drama,Medium,Heavy,R,Heavy,Fifty Shades Of Grey,Heavy
+19,Action,Heavy,Medium,R,Light,Kingsman:  The Secret Service,Heavy
+20,Drama,Light,Light,Not Rated,Light,Popieluszko:  Freedom Is Within Us,Medium
+21,Drama,None,None,PG-13,Light,Old Fashioned,None
+22,Documentary,Light,Light,PG,None,Ballet 422,None
+23,Family,None,Light,PG,None,Spongebob The Movie:  Sponge Out Of Water,Medium
+24,Science Fiction,Heavy,Medium,PG-13,Light,Jupiter Ascending,Medium
+25,Science Fiction,Heavy,Light,PG-13,Medium,Project Almanac,Light
+26,Drama,Heavy,Light,PG-13,None,Black Or White,Medium
+27,Documentary,Light,Light,Not Rated,Medium,Ink 180,Light
+28,Musical,Light,Light,PG-13,Medium,The Last Five Years,None
+29,Documentary,None,None,TV-PG,None,Civil Rights,Medium
+30,Drama,Medium,Light,PG-13,Medium,Song One,Light
+31,Comedy,Medium,Medium,R,Medium,Mortdecai,Medium
+32,Musical,None,None,PG,None,Strange Magic,Light
+33,Thriller,Medium,Heavy,R,Heavy,The Boy Next Door,Heavy
+34,Thriller,Heavy,Medium,R,Light,Black Sea,Heavy
+35,Drama,Medium,None,PG-13,None,Life Of A King,Light
+36,Comedy,Heavy,Heavy,R,Medium,The Wedding Ringer,Light
+37,War Drama,Heavy,Light,R,Light,American Sniper,Heavy
+38,Comedy,Heavy,Medium,R,Medium,Are You Here,Medium
+39,Drama,Light,None,R,Light,The One I Love,None
+40,Comedy,Medium,None,PG-13,Light,The Grand Seduction,Light
+41,Thriller,None,Light,PG-13,Light,The Remaining,Medium
+42,Comedy,Heavy,Light,R,Light,Hector And The Search For Happiness,Medium
+43,Drama,None,Light,** TELEVISION GUIDE **,Light,Women Of The Bible,Medium
+44,Documentary,None,None,N/A,None,Louis Zamperini:  Captured By Grace,Medium
+45,Thriller,Medium,Light,R,Medium,Blackhat,Heavy
+46,Science Fiction,Heavy,Medium,R,Medium,Predestination,Medium
+47,Documentary,Light,Light,Not Rated,Light,Finding Vivian Maier,Light
+48,Family,Light,None,PG,None,Paddington,Light
+49,Drama,Medium,None,PG-13,Light,Selma,Medium
+50,Thriller,Medium,Light,PG-13,Light,Taken 3,Medium
+51,Comedy,Medium,Medium,R,Medium,Fading Gigolo,Light
+52,Fantasy,None,None,PG-13,None,Dragon Ball Z:  Battle Of Gods,None
+53,Thriller,Light,None,TV-14,None,The Last Ship: Welcome To Gitmo,Medium
+54,Drama,None,None,** Uplifting Story About the Power of Giving **,None,Paper Angels,Light
+55,Family,None,None,** TELEVISION GUIDE **,None,A Girl’S Best Friend,None
+56,Horror,None,None,PG-13,None,The Woman In Black 2:  Angel Of Death,Medium
+57,Drama,None,Medium,R,Medium,Mr. Turner,None
+58,Science Fiction,Light,None,PG,None,Song Of The Sea,Light
+59,Drama,Light,Light,PG-13,None,Spare Parts,Light
+60,Drama,Medium,Heavy,R,Medium,Leviathan,Light
+61,Drama,Medium,None,PG-13,Light,Still Alice,Light
+62,Comedy,None,None,N/A,None,Duck Dynasty:  A Home For The Holidays,None
+63,Comedy,Heavy,Medium,R,Medium,The Interview (2014),Heavy
+64,Drama,Heavy,Light,R,Medium,Cake,Medium
+65,Drama,Medium,Light,PG-13,Light,Unbroken,Medium
+66,Musical,Light,None,PG,Light,Into The Woods,Medium
+67,Documentary,None,None,Not Rated,None,Patterns Of Evidence,None
+68,Mystery,Heavy,Light,PG-13,Medium,Veronica Mars,Light
+69,Documentary,None,Light,PG,None,Fed Up,None
+70,Thriller,Heavy,Medium,R,Heavy,Addicted,Medium
+71,Action,Light,Light,PG-13,None,The Hobbit: The Battle Of The Five Armies,Medium
+72,Musical,Medium,None,PG,Light,Annie (2014),None
+73,Comedy,Light,Light,PG,Light,Night At The Museum: Secret Of The Tomb,Light
+74,Thriller,Heavy,Medium,R,Light,The Gambler (2014),Medium
+75,Comedy,Heavy,None,PG-13,Light,A Merry Friggin’ Christmas,Light
+76,Drama,Medium,Light,PG-13,Light,Big Eyes,Light
+77,Comedy,Heavy,Light,R,Medium,Frank,Medium
+78,Drama,Heavy,Heavy,Not Rated,Medium,Beside Still Waters,Light
+79,Drama,Heavy,Light,R,Light,Force Majeure,Light
+80,Action,Light,None,Not Rated,None,The Admiral:  Roaring Currents,Heavy
+81,Comedy,Heavy,Medium,R,Heavy,Top Five,Light
+82,Action,None,None,PG-13,None,Exodus: Gods And Kings,Medium
+83,Drama,None,None,** Preserving the Past and Saving the Future**,None,The Tree That Saved Christmas,None
+84,Horror,Light,None,Not Rated,Light,The Babadook,Heavy
+85,Horror,Heavy,Medium,R,Light,The Pyramid,Heavy
+86,Mystery,Heavy,Heavy,R,Medium,Inherent Vice,Medium
+87,Drama,None,Light,Not Rated,None,For Such A Time,Light
+88,Documentary,Light,None,PG-13,Light,Magician:  The Astonishing Life And Work Of Orson Welles,Light
+89,Drama,Light,None,PG-13,Light,Elsa And Fred,None
+90,Drama,Heavy,Heavy,R,Heavy,Wild,Light
+91,Drama,Light,None,PG-13,Light,"Two Days, One Night",Light
+92,Drama,Medium,Light,R,Light,Rosewater,Heavy
+93,Drama,Medium,None,PG-13,Light,The Imitation Game,Light
+94,Documentary,None,None,Not Rated,None,End Times Eyewitness,Medium
+95,Comedy,Heavy,Light,R,Medium,Horrible Bosses 2,Medium
+96,Comedy,None,None,PG,None,Penguins Of Madagascar,Light
+97,Documentary,Light,None,Not Rated,None,Particle Fever,None
+98,Drama,None,None,Not Rated,Light,Summer Snow,Light
+99,Comedy,Heavy,Light,Not Rated,Light,The Trip To Italy,Light

@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,Light,R,Medium,"I, Tonya",Medium
+1,Drama,Medium,Heavy,R,Medium,Loveless,None
+2,Fantasy,Heavy,Heavy,R,Heavy,The Shape Of Water,Heavy
+3,Comedy,Heavy,Heavy,R,Medium,Downsizing,Medium
+4,Drama,Heavy,Light,PG-13,Medium,Wonder Wheel,Medium
+5,Drama,Light,Medium,R,Heavy,Call Me By Your Name,Light
+6,Drama,Heavy,Heavy,R,Medium,Lady Bird,Light
+7,Drama,None,Light,Not Rated,Light,"The Salt Of The Earth, Gunpei Yamamuro",Medium
+8,Science Fiction,Medium,Light,PG-13,None,Justice League,Medium
+9,Drama,Heavy,None,R,Light,"Three Billboards Outside Ebbing, Missouri",Heavy
+10,Drama,Medium,None,PG-13,None,"Roman J. Israel, Esq.",Light
+11,Comedy,Light,None,PG,None,Wonder,Light
+12,Drama,Light,None,PG-13,None,Darkest Hour,Light
+13,Animated,None,Light,PG,Light,Coco,Medium
+14,Documentary,None,None,PG,None,Genesis:  Paradise Lost,None
+15,Animation,None,None,PG,None,The Star,Light
+16,Documentary,Medium,None,Not Rated,None,No Greater Love (2017),Medium
+17,Comedy,Medium,None,PG-13,Light,Daddy’S Home 2,Light
+18,Mystery,Heavy,None,PG-13,Light,Murder On The Orient Express (2017),Medium
+19,Documentary,None,Light,Not Rated,None,The Love Story Of Leonard Knight,None
+20,Horror,Light,None,Not Rated,Medium,Thelma,Medium
+21,Drama,Heavy,None,R,Light,Lbj,Medium
+22,Drama,None,None,PG,None,Te Ata,None
+23,Comedy,Heavy,Medium,R,Medium,A Bad Moms Christmas,Light
+24,Drama,Medium,Medium,R,Medium,Novitiate,Light
+25,Comedy,None,None,PG,None,The Man Who Invented Christmas,Light
+26,Documentary,Light,Light,Not Rated,Light,I’Ll Push You,None
+27,Horror,Heavy,None,R,None,Jigsaw (2017),Heavy
+28,Comedy,Heavy,None,R,Light,Suburbicon,Medium
+29,Comedy,Heavy,Medium,R,Medium,The Square,Medium
+30,Horror,Light,Medium,R,Medium,The Killing Of A Sacred Deer,Heavy
+31,Animated,Light,None,PG-13,Light,Loving Vincent,Medium
+32,Drama,Light,Light,PG-13,Light,On Wings Of Eagles,Medium
+33,Drama,Heavy,Light,R,Medium,Thank You For Your Service,Heavy
+34,Drama,None,None,Not Rated,Light,The Fortress,Heavy
+35,Drama,Medium,Light,PG-13,Light,Breathe,Light
+36,Science Fiction,Medium,Light,PG-13,Light,Geostorm,Medium
+37,Horror,Heavy,Medium,R,Medium,Leatherface,Heavy
+38,Thriller,Medium,Medium,R,Light,The Snowman,Heavy
+39,Comedy,Heavy,Light,PG-13,Medium,Tyler Perry’S Boo 2! A Madea Halloween,Light
+40,Drama,Heavy,None,R,Light,Last Flag Flying,None
+41,Drama,Heavy,Medium,R,Heavy,Professor Marston And The Wonder Women,Light
+42,Science Fiction,Medium,Light,PG-13,Light,Thor: Ragnarok,Medium
+43,Thriller,Heavy,Light,R,Light,The Foreigner,Heavy
+44,Thriller,Heavy,None,PG-13,Light,Happy Death Day,Medium
+45,Comedy,Heavy,Heavy,R,Heavy,Hazlo Como Hombre (Do It Like A Man),Light
+46,Drama,Medium,Light,PG-13,Medium,Marshall,Medium
+47,Drama,Light,Light,PG,None,Wonderstruck,Light
+48,Drama,Medium,None,PG-13,None,Mark Felt: The Man Who Brought Down The White House,None
+49,Documentary,None,Light,Not Rated,Light,Dealt,Medium
+50,Drama,Heavy,Light,R,Medium,The Florida Project,Medium
+51,Drama,Medium,None,PG-13,Light,Rebel In The Rye,Medium
+52,Thriller,Light,None,PG-13,Light,‘Til Death Do Us Part,Medium
+53,Science Fiction,Medium,Heavy,R,Medium,Blade Runner 2049,Heavy
+54,Animation,None,None,PG,None,My Little Pony:  The Movie,Light
+55,"Documentary, Drama",None,Light,Not Rated,Light,Mully,Medium
+56,Drama,Heavy,Light,PG-13,Light,Only The Brave (2017),Medium
+57,Documentary,None,Medium,Not Rated,Light,Architects Of Denial,Medium
+58,Drama,Light,None,PG-13,Light,Same Kind Of Different As Me,Light
+59,Drama,Heavy,Medium,PG-13,Medium,The Mountain Between Us,Medium
+60,Drama,Heavy,Light,PG-13,Light,Generational Sins,Medium
+61,Drama,Light,None,PG,None,Goodbye Christopher Robin,Light
+62,Drama,Heavy,Light,R,Medium,American Made,Medium
+63,Science-Fiction,Medium,Light,PG-13,Medium,Flatliners (2017),Medium
+64,Animation,Light,Light,PG,None,Lilo & Stitch,Light
+65,Comedy,Medium,Light,PG-13,Medium,Home Again,Light
+66,Science Fiction,Heavy,Medium,TV-MA,Heavy,What Happened To Monday?,Heavy
+67,Drama,Light,None,None,None,The Next Station Is Love,Light
+68,Drama,Light,Light,R,None,First They Killed My Father,Heavy
+69,Comedy,Heavy,Medium,R,Light,Brad’S Status,Light
+70,Horror,Heavy,Medium,R,Light,Friend Request,Heavy
+71,Drama,Light,Light,PG,None,Joni,Light
+72,Comedy,Light,Light,PG-13,Medium,Battle Of The Sexes,None
+73,Drama,Heavy,Medium,R,Medium,Stronger,Heavy
+74,Comedy,Heavy,Light,Not Yet Rated,Light,Killing Gunther,Heavy
+75,Drama,Heavy,None,PG-13,Light,Victoria & Abdul,Light
+76,Animated,Light,None,PG,None,The Lego Ninjago Movie,Medium
+77,Drama,None,Light,PG,None,The Stray,Light
+78,Spy Movie,Heavy,Medium,R,Light,Kingsman:  The Golden Circle,Heavy
+79,Drama,Light,Light,PG-13,None,6 Below,Medium
+80,Drama,None,Medium,Not Rated,Light,Polina,Light
+81,Drama,None,None,Not Rated,None,Extraordinary,Light
+82,Drama,Light,Medium,R,Medium,Mother!,Heavy
+83,Drama,None,None,PG-13,Light,Because Of Gracia,None
+84,Thriller,Heavy,Medium,R,None,American Assassin,Heavy
+85,Documentary,Light,Light,PG-13,Medium,The Heart Of Man,Medium
+86,Drama,None,None,PG,None,A Question Of Faith,None
+87,Drama,Heavy,None,Not Rated,None,A Taxi Driver,Heavy
+88,Drama,None,Medium,R,Heavy,Tulip Fever,None
+89,Comedy,Light,None,Not Rated,Light,The Trip To Spain,None
+90,Horror,Heavy,Light,R,Light,It,Heavy
+91,Drama,Light,Medium,PG-13,Medium,Elizabeth Blue,Light
+92,Animated,None,None,PG,None,Hoodwinked,Light
+93,Drama,Light,None,PG,None,A Boy Called Po,Light
+94,Drama,None,None,Not Yet Rated,None,Let There Be Light,Light
+95,Action Adventure,None,None,Not Rated,None,Swallows And Amazons (2017),Medium
+96,Documentary,None,None,Not Rated,Light,Steve Mcqueen:  American Icon,Light
+97,Thriller,Heavy,Medium,R,Medium,Good Time,Heavy
+98,Drama,Heavy,Medium,R,Medium,Patti Cake$,Light
+99,Drama,Medium,Medium,R,Medium,Crown Heights,Medium

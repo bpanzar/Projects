@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Light,Light,R,Heavy,The Comfort Of Strangers,Medium
+1,Drama,Heavy,Light,R,Heavy,Dying Young,None
+2,Science Fiction,Heavy,None,R,Light,Terminator 2: Judgment Day,Heavy
+3,Drama,Heavy,None,R,Medium,Boyz N The Hood,Heavy
+4,Drama,Heavy,None,R,Light,Straight Out Of Brooklyn,Medium
+5,Drama,Medium,None,Not rated,Light,Shadows,None
+6,Tragicomedy,None,Light,Not rated,None,Everybody’S Fine,None
+7,Serious comedy,Light,Light,No rating,Light,Eating,None
+8,Drama,Light,Light,R,Light,Angel At My Table,Light
+9,Action,Light,None,PG,Light,The Rocketeer,Heavy
+10,Thriller,Heavy,Heavy,R,Heavy,Kiss Me A Killer,Medium
+11,Martial Arts,Heavy,Light,R,None,Kickboxer 2: The Road Back,Heavy
+12,Drama,Heavy,Light,R,Light,Bright Angel,Light
+13,Comedy,Heavy,Light,PG-13,Light,Problem Child 2,Light
+14,Thriller,Heavy,Light,R,Medium,Point Break,Heavy
+15,Drama,Light,None,R,None,Prisoners Of The Sun,Medium
+16,Drama,Light,None,PG-13,Light,Regarding Henry,None
+17,Family,None,None,G,None,101 Dalmatians (1991),None
+18,Romantic thriller,Heavy,None,,Light,Dead Again,Light
+19,Action,Heavy,Light,R,Medium,Harley Davidson And The Marlboro Man,Heavy
+20,Drama,Heavy,Light,R,Medium,City Of Hope,Heavy
+21,Comedy,Heavy,Light,PG-13,Light,Dutch,Light
+22,Psychological drama,Medium,None,R,Heavy,The Miracle,Light
+23,Drama,Heavy,Light,R,Medium,Barton Fink,Medium
+24,Drama,Heavy,None,R,Light,The Commitments,Medium
+25,Comedy-adventure,Medium,None,PG-13,Light,Brenda Starr,Medium
+26,Cartoon comedy,Light,None,PG,None,Rover Dangerfield,None
+27,Drama,Light,Light,G,None,My Father’S Glory,None
+28,Documentary Drama,Light,None,Unrated,Heavy,Paris Is Burning,None
+29,Comedy,Light,None,PG,None,101 Dalmatians (1996),Light
+30,Drama,None,None,R,None,Mobsters,None
+31,Thriller,Heavy,None,R,Light,V.I. Warshawski,Medium
+32,Comedy,None,None,PG-13,None,Life Stinks,None
+33,Comedy,None,None,R,None,Another You,None
+34,Drama,None,None,PG-13,None,Return To The Blue Lagoon,None
+35,Comedy,None,None,R,None,True Identity,None
+36,Comedy,None,None,PG-13,None,Pure Luck,None
+37,Drama,None,None,PG-13,None,The Doctor,None
+38,Action-Martial Arts,None,None,R,None,Lionheart,None
+39,Animation,None,None,NR,None,Xxii International Tournee Of Animation,None
+40,Drama,None,None,R,None,Men Of Respect,None
+41,Comedy,None,None,R,None,Scenes From A Mall,None
+42,Comedy,None,None,R,None,The Object Of Beauty,None
+43,Dramatic adventure,None,None,Probably PG-13 or R,None,My Heroes Have Always Been Cowboys,None
+44,Comedy,None,None,R,None,Once Around,None
+45,Science Fiction,None,None,PG-13,None,Alice,None
+46,Animal,None,None,PG,None,White Fang,None
+47,Sports Drama,None,None,G,None,The Pistol: Birth Of A Legend,None
+48,Drama,Medium,Light,PG-13,Medium,Proof,None
+49,Drama,Heavy,Light,R,Medium,Crash,Medium
+50,Drama,Medium,None,PG-13 for some sexual references and brief language,None,Shall We Dance?,None
+51,Historical Epic,None,Light,PG-13 for stylized martial arts violence and a scene of sensuality,Light,Hero,Medium
+52,Science Fiction,Light,Heavy,R,Medium,Thx-1138 Special Edition,Medium
+53,Animated,Light,None,G,None,The Tigger Movie,Light
+54,Science fiction comedy,Medium,Light,PG,Light,Galaxy Quest,Medium
+55,Family,None,Light,PG,None,Peter Pan,Light
+56,Alternative Christian Animation,Light,None,Not Rated,None,Vertical Hold,Light
+57,Analysis,None,None,,None,Following Gandalf,None
+58,Computer game,None,None,,None,Catechumen,Light
+59,Drama,None,None,N/A,None,Hallmark Hall Of Fame: Fallen Angel,Light
+60,Non-Fiction,None,None,,None,The Word Of God In English,None
+61,Music Video,None,None,,None,American Glory,None
+62,Documentary,None,None,Not Rated,None,Behind The Big News,Medium
+63,Documentary,None,None,G,None,Great Souls: Six Who Changed The Century,Light
+64,Drama,Light,None,Not Rated,None,Love Comes Softly,Light
+65,Sports Comedy,None,None,G,None,Air Bud Spikes Back,Light
+66,Gospel Rock Music,None,None,,None,Wake The Nations,None
+67,Documentary,Heavy,None,Not rated,None,Ot: Our Town,Light
+68,Documentary,Light,None,,None,The New Barbarians: Training Children To Kill,Heavy
+69,Family,Light,None,Not Yet,None,The O’Keefes,None
+70,Mystery,None,None,,None,Custody Of The State,Light
+71,Documentary,None,None,Not Rated,None,Zenith,None
+72,Documentary,None,Light,Television,None,Reluctant Saint: Francis Of Assisi,None
+73,Comedy,Medium,Medium,Not Rated,Medium,God Is Great And I’M Not,Light
+74,Drama,None,None,Not Rated,None,Brush With Fate,Medium
+75,Documentary,None,None,Not Rated by the MPAA,None,Unlocking The Mystery Of Life,None
+76,Documentary,None,None,G,None,What If Jesus Had Never Been Born?,Light
+77,Family,Light,None,G,None,Quigley,Light
+78,Drama,Light,None,Noted rated by the MPAA,None,The Fifth Reaction,Light
+79,Novel,None,None,,None,Epiphany,None
+80,Non-Fiction,None,None,,None,Faithful Finances 101,None
+81,Children's Christian Video,None,None,Not Rated,None,Cherub Wings: Moldy Goldy,None
+82,Drama,None,None,G,None,The Winslow Boy,None
+83,Educational,None,None,Not rated by MPAA,None,Bumps In The Road,None
+84,Comedy,None,None,PG,None,Richie Rich,None
+85,Adventure Comedy,None,None,NR,None,Around The World In Eighty Days,None
+86,Comedy,Heavy,Medium,R,None,Low Down Dirty Shame,Heavy
+87,Drama,None,None,R,None,Mrs. Parker And The Vicious Circle,None
+88,Drama,None,None,R,None,Red,None
+89,Drama,None,None,R,None,"The Beans Of Egypt, Maine",None
+90,Comedy,None,None,PG-13,None,Junior,None
+91,Drama,None,None,R,None,Nell,None
+92,Drama,None,None,R,None,Heavenly Creatures,None
+93,Drama,Light,None,PG-13,None,Pontiac Moon,Light
+94,Drama,None,None,NR,None,To Live,None
+95,Animated Adventure Fantasy,None,None,PG,None,The Pagemaster,None
+96,Drama,Light,None,Not Rated,Light,Jacob,Light
+97,Horror,None,None,R,None,Wes Craven’S New Nightmare,None
+98,Drama,None,None,R,None,Interview With The Vampire,None
+99,Drama,None,None,R,None,Cobb,None

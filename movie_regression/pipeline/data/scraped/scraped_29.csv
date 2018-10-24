@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,MUSICAL,None,None,PG,None,Lambada,None
+1,Police Action-Thriller,None,None,R,None,Blue Steel,None
+2,Romantic-Comedy,None,None,R,None,Love At Large,None
+3,Musical-Comedy,None,None,PG-13,None,Cry Baby,None
+4,,None,None,PG or PG-13,None,The Witches,None
+5,Comedy,None,None,PG-13,None,Opportunity Knocks,None
+6,Drama,None,None,"Not rated when screened, but probably R",None,Longtime Companion,None
+7,Drama,None,None,R,None,Hanging Heart,None
+8,Horror,None,None,R,None,Tales From The Darkside: The Movie,None
+9,Police Suspense-Drama,Heavy,Light,R,Medium,Q & A,Medium
+10,Police Drama,None,None,R,None,Miami Blues,None
+11,Action Drama-Comedy,None,None,PG-13,None,Side Out,None
+12,Comedy,None,None,Not rated,None,"Mama, There’S A Man In Your Bed",None
+13,Comedy,None,None,R,None,I Love You To Death,None
+14,Action-Comedy,None,None,PG-13,None,Think Big,None
+15,Drama,None,None,"Not rated when screened, but probably PG",None,An Unremarkable Life,None
+16,Horror,None,None,R,None,The Guardian (1990),None
+17,Police Action-Drama,None,None,R,None,Twisted Justice,None
+18,Thriller,None,None,R,None,Impulse,None
+19,Drama,None,None,R,None,The Raggedy Rawney,None
+20,Drama,None,None,R,None,Vital Signs,None
+21,Comedy,None,None,R,None,Crazy People,None
+22,Comedy,None,None,R,None,Modern Love,None
+23,War,None,None,R,None,Torn Apart,None
+24,Comedy,None,None,PG,None,Ernest Goes To Jail,None
+25,Horror,None,None,R,None,Def By Temptation,None
+26,Comedy,None,None,PG-13,None,Happy Together,None
+27,Comedy,None,None,R,None,Far Out Man,None
+28,Action-Adventure,None,None,R,None,Angel Town,None
+29,Science-fiction,None,None,R,None,Class Of 1999,None
+30,Drama,None,None,R,None,Strapless,None
+31,Comedy,None,None,R,None,Cadillac Man,None
+32,Action-Comedy,None,None,PG-13,None,Honeymoon Academy,None
+33,Comedy,None,None,PG-13,None,Daddy’S Dying…  Who’S Got The Will,None
+34,Animation,None,None,Not rated,None,The Second Animation  Celebration: The Movie,None
+35,Action-Adventure,None,None,Not rated,None,Pathfinder (1990),None
+36,Documentary,None,None,PG,None,In The Blood,None
+37,Comedy,None,None,"Not rated when screened, but probably R",None,The Dream Trap,None
+38,Action-Thriller,None,None,R,None,Any Man’S Death,None
+39,Action-Crime Drama,None,None,R,None,Another 48 Hrs.,None
+40,Mystery,None,None,R,None,A Show Of Force,None
+41,Drama,None,None,Not rated,None,Force Of Circumstance,None
+42,Horror,None,None,PG-13,None,Gremlins Ii: The New Batch,None
+43,Action-Adventure,None,None,PG-13,None,Fire Birds,None
+44,Children's Animation,None,None,G,None,Happily Ever After,None
+45,Fantasy,None,None,PG,None,Dick Tracy,None
+46,Drama,None,None,R,None,Last Exit To Brooklyn,None
+47,Horror,None,None,R,None,Spontaneous Combustion,None
+48,Science-fiction,None,None,PG-13,None,Martians Go Home!,None
+49,Drama,None,None,PG-13,None,Monsieur Hire,None
+50,Drama,None,None,PG,None,Bye Bye Blues,None
+51,Comedy,None,None,R,None,The Feud,None
+52,Action Romantic-Comedy,None,None,PG-13,None,Bird On A Wire,None
+53,Prison Drama,Heavy,None,R,Light,Chattahoochee,Heavy
+54,Action-Comedy,None,None,PG-13,None,Short Time,None
+55,Science fiction,None,None,PG,None,Spaced Invaders,None
+56,Western,Medium,None,PG,None,Back To The Future Iii,Light
+57,Documentary,None,None,Not rated,None,Supernatural Powers: The Battle Between Good And Evil,None
+58,Drama,None,None,G,None,Young Black Stallion,Light
+59,Horror,Medium,Light,R,Heavy,May,Heavy
+60,Drama,Heavy,Heavy,Not Rated,Heavy,What Alice Found,Light
+61,Drama,Heavy,Medium,R,Heavy,Monster,Heavy
+62,Comedy,Heavy,Medium,PG-13,Light,Calendar Girls,None
+63,Drama,Medium,Medium,R,Medium,House Of Sand And Fog,Heavy
+64,Documentary,Heavy,None,PG-13,None,The Fog Of War,Medium
+65,Drama,Heavy,Heavy,PG-13,Medium,Something’S Gotta Give,Light
+66,Drama,Light,Heavy,Not Yet Rated,Heavy,Cold Mountain,Heavy
+67,Documentary,Heavy,Light,Not Rated,None,Touching The Void,Light
+68,Science Fiction,Medium,Light,PG-13,Light,Big Fish,Light
+69,Drama,Heavy,Medium,R,Medium,All The Real Girls,Medium
+70,Comedy,Heavy,Medium,PG-13,Medium,Stuck On You,Light
+71,Comedy,None,None,PG-13,None,The 4Th Tenor,None
+72,Drama,Light,None,PG-13,Medium,Girl With A Pearl Earring,Light
+73,Drama,Medium,Medium,PG-13,Light,In America,Light
+74,Science Fiction,Medium,None,PG-13,None,Paycheck,Medium
+75,Family,None,Light,PG,None,Peter Pan,Light
+76,"Detective, Expressionistic allegory",None,None,Not Rated,None,Trouble In Paradise,Light
+77,Comedy,Medium,Light,PG-13,Medium,Wayne’S World 2,None
+78,Comic Fantasy,None,None,R,None,Dogma,None
+79,Sex farce,None,None,R,None,Body Shots,None
+80,Comedy,None,None,PG-13,None,Three To Tango,None
+81,Comedy,None,None,R,None,The Suburbans,None
+82,Horror,None,None,R,None,Bats,None
+83,Drama,None,None,R,None,Bringing Out The Dead,None
+84,Comic drama,None,None,PG-13,None,Crazy In Alabama,None
+85,Period Drama,Light,Heavy,,Heavy,Mansfield Park,Medium
+86,Comedy,None,None,R,None,The Best Man,None
+87,Historical Civil War Drama,None,None,R,None,Ride With The Devil,None
+88,Drama,None,None,,None,The Emperor And The Assassin,None
+89,Apocalyptic Action-adventure,None,None,PG-13,None,The Omega Code,None
+90,Animated action comedy,None,None,G,None,Toy Story 2,None
+91,Pornography,None,None,Not rated,None,Romance,None
+92,Science Fiction,None,None,R,None,Being John Malkovich,None
+93,Drama,None,None,R,None,Boys Don’T Cry,None
+94,Drama,None,None,R,None,Fight Club,None
+95,Comedic drama,None,None,R,None,Sugar Town,None
+96,Drama,None,None,Not rated,None,West Beirut,None
+97,Thriller,None,None,R,None,Best Laid Plans,None
+98,Comedy,None,None,PG-13,None,"Happy, Texas",None
+99,Drama,None,None,PG-13,None,Felicia’S Journey,None

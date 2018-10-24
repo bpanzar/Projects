@@ -1,0 +1,102 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Comedy,Light,None,PG for martial arts action and some thematic elements,None,Shaolin Soccer,Light
+1,Comedy,Medium,Light,PG-13 for some sexual content and brief drug references,Light,13 Going On 30,Light
+2,Romantic Comedy,Medium,Light,PG,Light,The Prince & Me,Light
+3,Drama,Medium,None,PG-13 for sustained intense battle sequences,Light,The Alamo,Medium
+4,Drama,Heavy,Light,PG,None,Bobby Jones: Stroke Of Genius,Light
+5,Comedy,Light,None,PG-13,None,Bon Voyage,Medium
+6,Family,None,None,G,None,Clifford’S Really Big Movie,Light
+7,Documentary,None,Light,PG,None,Nascar 3D: The Imax Experience,Light
+8,Drama,Heavy,Light,R,Light,Eternal Sunshine Of The Spotless Mind,Light
+9,Thriller,Heavy,None,"PG-13 for violence/terror, sexual content and language",Light,Secret Window,Medium
+10,Thriller,Heavy,Light,R,Light,Spartan,Medium
+11,Thriller,Heavy,Medium,R,Medium,Taking Lives,Medium
+12,Drama,Medium,None,R,None,I’M Not Scared (Io Non Ho Paura),Light
+13,Period Drama,Light,None,Not Rated,None,The Twilight Samurai,Medium
+14,Drama,Medium,Medium,R,Light,Broken Wings,Light
+15,Comedy,Heavy,None,R,Light,The Ladykillers,Medium
+16,Family,Light,None,"PG for some scary action, rude humor, and language",None,Scooby-Doo 2: Monsters Unleashed,Light
+17,Drama,Light,None,PG-13 for language and thematic elements,None,Valentin,None
+18,Drama,Light,Light,R,Light,The Reckoning,Medium
+19,Comedy,Heavy,Light,PG-13,Light,Laws Of Attraction,Light
+20,Animation,None,Light,PG,Light,Home On The Range,Light
+21,Drama,Medium,None,PG-13,None,You Got Served,Light
+22,Drama,Medium,None,PG-13,None,You Got Served,Light
+23,Comedy,Medium,Light,PG-13,Medium,Welcome To Mooseport,Light
+24,Romanic Comedy,Heavy,None,Rated PG-13 on appeal for crude sexual humor and drug references,Light,50 First Dates,Light
+25,Biography,Heavy,Light,"PG-13 for crude language, some violence, some sensuality, and drugs",Light,Against The Ropes,Medium
+26,Western,Light,None,PG-13,None,Hidalgo,Medium
+27,Comedy,Heavy,Light,Rated PG-13 on appeal for language and sexual content including frank dialogue,Light,Jersey Girl,Light
+28,Comedy,Heavy,Light,PG-13,Medium,Barbershop 2: Back In Business,Light
+29,Comedy,Medium,Light,Not Rated,Light,Kitchen Stories,Light
+30,Comedy,None,Light,PG,None,Confessions Of A Teenage Drama Queen,None
+31,Comedy,Light,Light,PG,None,Catch That Kid,Light
+32,Comedy,Heavy,Light,Not Rated,Light,Made-Up,Light
+33,Drama,Light,Light,PG-13,Light,Osama,Medium
+34,Comedy,Medium,Light,PG-13,Light,Win A Date With Tad Hamilton,None
+35,Comedy,Light,None,PG,Light,The Lost Skeleton Of Cadavra,Light
+36,Animated,Light,None,PG,None,Teacher’S Pet,Light
+37,Drama,Medium,Light,PG,None,Miracle,Light
+38,Drama,None,None,PG,None,The Work And The Glory,Light
+39,War Drama,Light,Medium,Not Rated,Medium,Strayed,Light
+40,Thriller,Light,Light,"R for violence, some gore and brief language",Light,Highwaymen,Medium
+41,Documentary,Medium,Light,R for foul language and several drug references,None,Festival Express,Light
+42,War Drama,Light,None,PG-13 for war violence and related images,None,Saints And Soldiers,Light
+43,Horror,Medium,None,PG-13,None,Darkness,Medium
+44,Drama,Heavy,Light,R,None,The Assassination Of Richard Nixon,Medium
+45,Comedy,Heavy,Medium,PG-13,Medium,Meet The Fockers,Light
+46,Drama,Heavy,Light,Not Rated,Light,Callas Forever,Light
+47,Thriller,Light,Heavy,"PG-13 for threats of violence, thematic elements and photos of nude Holocaust victims",Light,The Aryan Couple,Light
+48,Documentary,Medium,Heavy,R,Light,Born Into Brothels,Light
+49,Drama,Heavy,Light,R for foul language and sexual content,Light,A Love Song For Bobby Long,Light
+50,Action-adventure,Heavy,Light,"PG-13 for language, action and violence",None,Flight Of The Phoenix,Medium
+51,Drama,Medium,Light,PG-13,None,Hotel Rwanda,Medium
+52,Comedy,Light,None,PG,None,Fat Albert,Light
+53,Drama,Heavy,Medium,R,Heavy,Closer,Light
+54,Film Noir Thriller,Medium,Heavy,NC-17,Heavy,Bad Education,Medium
+55,Science Fiction,Heavy,Medium,R,Medium,Blade: Trinity,None
+56,Drama,Heavy,Heavy,R,Heavy,The Mother,Light
+57,Drama,Heavy,Light,R,Medium,Imaginary Heroes,Medium
+58,Drama,Heavy,Medium,R,Heavy,The Woodsman,Light
+59,Drama,Medium,Light,PG-13,Medium,The Sea Inside,Light
+60,Comedy,Heavy,Medium,R,Medium,The Life Aquatic With Steve Zissou,Light
+61,Action,Light,Medium,R,Heavy,Alexander,Heavy
+62,Drama,Medium,None,PG,Light,Noel,Light
+63,Comedy,Heavy,Light,PG-13 for foul language and one scene with bizarre sexual content,Medium,Spanglish,None
+64,Drama,Heavy,Light,"PG-13 for thematic elements, sexual content, nudity, language, and a crash sequence",Light,The Aviator,Medium
+65,Suspense Thriller,Medium,None,PG-13 for language,None,Ocean’S Twelve,Light
+66,Drama,Heavy,Light,PG-13 for some sexual content and drug references,Light,In Good Company,Light
+67,,Light,None,PG-13,Light,House Of Flying Daggers,Heavy
+68,Comedy,Light,Medium,Not Rated Yet,Light,The Merchant Of Venice,Light
+69,Drama,Heavy,Light,PG-13,None,Million Dollar Baby,Medium
+70,Comedy,Light,None,PG,None,Christmas With The Kranks,Light
+71,Dark Fantasy,Light,None,PG,Light,Lemony Snicket’S A Series Of Unfortunate Events,Medium
+72,Musical Melodrama,Light,Light,PG-13 for brief violent images,None,The Phantom Of The Opera,Medium
+73,Drama,Heavy,Medium,R,Heavy,Black And White,Medium
+74,Drama,Medium,Medium,PG-13,Light,28 Days,Medium
+75,Comedy,Heavy,Medium,R,Heavy,3 Strikes,Medium
+76,Drama,Heavy,Medium,R,Medium,The Beach,Heavy
+77,"Thriller
+DISTRIBUTOR New Line Cinema",Heavy,None,R,Medium,Boiler Room,Light
+78,Thriller,Heavy,Medium,R,Light,The Boondock Saints,Heavy
+79,Comedy,Medium,Medium,R,Medium,The Big Tease,Light
+80,Thriller,Heavy,Medium,R,Light,The Good Thief,Medium
+81,Comedy,Heavy,Light,PG-13,Medium,Love Don’T Cost A Thing,Light
+82,Drama,Medium,Medium,PG-13,Light,In America,Light
+83,Comedy,Heavy,Light,R,Medium,Bad Santa,Light
+84,Comedy,Medium,Light,PG,None,The Haunted Mansion,Light
+85,Romantic Comedy,Heavy,Heavy,R,Heavy,The Cooler,Heavy
+86,Thriller,Medium,None,Not yet rated,None,The Statement,Medium
+87,Documentary,Heavy,None,R,Light,Tupac: Resurrection,None
+88,Drama,Heavy,Medium,PG-13,Light,The Company,None
+89,Horror,Medium,Heavy,R,Light,Gothika,Heavy
+90,Drama,Heavy,Light,R,Medium,Elephant,Heavy
+91,Drama,Light,Medium,Not Rated,Heavy,Gloomy Sunday,Light
+92,Western,Medium,Light,R,Light,The Missing,Heavy
+93,Drama,Heavy,Medium,R,Heavy,21 Grams,Heavy
+94,Historical Epic,Light,Light,R,None,The Last Samurai,Heavy
+95,Drama,Light,None,R,Light,The Barbarian Invasions,Light
+96,Drama,Medium,None,PG-13,Light,Shattered Glass,None
+97,Drama,Medium,Medium,PG-13,Medium,Pieces Of April,Light
+98,Comedy,Light,Light,PG,Light,Dr. Seuss’ The Cat In The Hat,Light
+99,Comedy,Light,None,PG,Light,Looney Tunes: Back In Action,Heavy

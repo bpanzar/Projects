@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,Medium,R,Medium,North Country,Medium
+1,Drama,Heavy,Medium,"R (for pervasive language, a scene of sexuality and a violent act)",Medium,Two For The Money,Light
+2,Drama,Light,Medium,R,Medium,Shopgirl,None
+3,Drama,Heavy,Light,R for sexual content and language,Medium,Junebug,Light
+4,Drama,Medium,Light,R,Light,Separate Lies,Light
+5,Mystery,Heavy,Light,R,Light,Stay,Medium
+6,Comedy,Medium,Light,PG-13,Light,Elizabethtown,Light
+7,Comedy,Light,None,PG,None,Zathura,Light
+8,Drama,Light,Light,PG,Light,The Gospel,Light
+9,Western,Light,Light,PG-13,None,The Legend Of Zorro,Medium
+10,Animated Comedy,None,Light,G,None,Chicken Little,Light
+11,Horror,Heavy,None,"R for strong horror violence/gore, and language",None,Venom,Heavy
+12,Comedy,Heavy,Medium,R,Medium,The Matador,Light
+13,Animated Musical Comedy,Light,None,"PG for some scary images and action, and brief mild language",None,Tim Burton’S Corpse Bride,Medium
+14,Thriller,Medium,Light,PG-13,Light,Into The Blue,Medium
+15,Thriller,Heavy,Heavy,R,Medium,A History Of Violence,Heavy
+16,Comedy,Medium,Light,"PG-13 for sexual content including dialogue, and for language",Medium,Prime,None
+17,Drama,Light,None,PG,None,"Good Night, And Good Luck",Light
+18,Action,Heavy,Medium,R,Medium,Lord Of War,Medium
+19,Comedy,Medium,Light,PG-13,Medium,In Her Shoes,Light
+20,Drama,Medium,Light,R,Light,Innocent Voices,Medium
+21,Comedy,Heavy,None,PG-13,Light,The Man,Light
+22,Drama,Light,None,R,Light,Capote,Heavy
+23,Science-Fiction Adventure,Light,Light,"PG-13 for sequences of intense violence and action, and some sexual references",Light,Serenity,Medium
+24,Drama,Medium,None,PG-13,Light,Everything Is Illuminated,Light
+25,Comedy,Heavy,Light,PG-13,Light,The Thing About My Folks,Light
+26,Comedy,Medium,None,PG-13 for language and some crude humor,Light,Roll Bounce,Light
+27,Thriller,Medium,None,PG-13,None,Flightplan,Light
+28,Wildlife Adventure,None,None,PG,None,Duma,Light
+29,Drama,Medium,Light,PG-13,None,"The Prize Winner Of Defiance, Ohio",Light
+30,Drama,Light,Light,PG-13,None,Oliver Twist,Medium
+31,Comedy,Light,None,PG,None,Pride & Prejudice,None
+32,Comedy,Heavy,Heavy,R,Heavy,Deuce Bigalow: European Gigolo,Medium
+33,Comedy,Heavy,Heavy,R,Heavy,Waiting. . .,Light
+34,Drama,Heavy,Medium,Not Rated,Light,Dear Wendy,Heavy
+35,Suspense,Medium,None,"PG-13 for violence, disturbing images, some partial nudity and thematic material",None,The Skeleton Key,Light
+36,Gangster Thriller,Heavy,Medium,R,Medium,State Property 2,Heavy
+37,Suspense Drama,Medium,Medium,"R for language, some violent images and sexual content/nudity",Light,The Constant Gardener,Medium
+38,Film Noir Thriller,Heavy,Medium,R,Heavy,Sympathy For Mr. Vengeance,Heavy
+39,Comedy,Medium,Light,R,Medium,Thumbsucker,Heavy
+40,Comedy,Heavy,Light,R,Light,The Chumscrubber,Medium
+41,Science Fiction,Medium,Light,PG-13,Light,A Sound Of Thunder,Light
+42,Horror,Heavy,None,PG-13,None,The Cave,Medium
+43,Drama,Light,None,NR,Light,The World,Light
+44,Drama,Heavy,Light,"PG-13 for some violence including domestic abuse, and language",Light,An Unfinished Life,Light
+45,Action,Heavy,None,PG-13,Light,Underclassman,Medium
+46,Action Thriller,Light,Medium,PG-13,Light,The Transporter 2,Heavy
+47,Romantic Comedy,Medium,None,PG-13,Light,The Baxter,Light
+48,Documentary,None,None,Unrated,None,A State Of Mind,Light
+49,Supernatural Horror,Light,None,PG-13,None,The Exorcism Of Emily Rose,Medium
+50,Science Fiction,Light,None,PG for some mild thematic elements and scary images,None,Mirrormask,Light
+51,Comedy,Light,Light,G,Light,Wallace & Gromit: The Curse Of The Were-Rabbit,Medium
+52,Drama,Light,None,PG,None,The Greatest Game Ever Played,Light
+53,Animated Comedy Adventure,None,None,G,Light,Valiant,Light
+54,Drama,Light,None,PG,None,Dreamer,Light
+55,Thriller,None,None,PG-13,None,Left Behind: The World At War,Medium
+56,Documentary,Heavy,None,Not Rated,Heavy,The Aristocrats,Heavy
+57,Horror,Heavy,Heavy,"R for sadistic violence, strong sexual content, language, and drug use",Heavy,The Devil’S Rejects,Heavy
+58,Science Fiction,Medium,None,PG-13,Light,The Brothers Grimm,Heavy
+59,Comedy,Heavy,Light,PG-13,Light,Just Like Heaven,Light
+60,Comedy,Heavy,Medium,"R for sexual content, nudity and language",Medium,Wedding Crashers,Light
+61,Comedy,Heavy,Light,"PG-13 for sexual content, crude and drug-related humor, language, and comic action violence",Medium,The Dukes Of Hazzard,Medium
+62,Drama,Heavy,Light,R,Heavy,Pretty Persuasion,Light
+63,Drama,Light,Medium,R,Heavy,Asylum,Medium
+64,Drama,Heavy,Medium,R,Medium,The Beat That My Heart Skipped,Medium
+65,Comedy,Heavy,None,PG-13,Light,Bad News Bears,Light
+66,Action,Heavy,Medium,R,Medium,Four Brothers,Heavy
+67,Comedy,Heavy,Medium,"R for pervasive sexual content, language and some drug use",Medium,The 40-Year-Old Virgin,Light
+68,Thriller,Light,None,R,Light,November,Heavy
+69,Drama,Light,Medium,R,Medium,2046,Light
+70,Comedy,Medium,Light,PG-13,Medium,Must Love Dogs,Light
+71,War Drama,Heavy,None,PG-13,Light,Stealth,Medium
+72,Documentary,Medium,Light,PG,None,My Date With Drew,None
+73,Supernatural Drama,Light,Light,"PG-13 for Sexual Content, Violence, & Thematic Issues",Light,Echoes Of Innocence,Medium
+74,Thriller,Medium,None,PG-13,None,Red Eye,Medium
+75,Drama,Light,None,"PG-13 for thematic issues, sexual content and some violence",Light,Finding Home,Medium
+76,Comedy,Light,Light,PG,None,Sky High,Light
+77,Drama,Heavy,None,R,Heavy,Me And You And Everyone We Know,Medium
+78,Drama,Medium,Medium,"R for sexuality, language and some drug use",Medium,My Summer Of Love,Light
+79,Horror,Heavy,Light,R,None,Undead,Heavy
+80,Comedy,Medium,Light,PG-13,Light,Bewitched,Light
+81,Drama,Heavy,Medium,R,Medium,The Edukators,Light
+82,Comedy,Heavy,Medium,R,Heavy,Happy Endings,Medium
+83,Horror,Heavy,Medium,R,Light,Land Of The Dead,Heavy
+84,Horror Thriller,Medium,None,PG-13,None,Dark Water,Medium
+85,Drama,Heavy,Light,R,Medium,Last Days,Light
+86,Drama,Medium,None,R,Light,Pure,Light
+87,Comedy,Medium,Heavy,R,Medium,Broken Flowers,Light
+88,Biographical Documentary,Heavy,Light,R for language,None,Grizzly Man,Medium
+89,SF,Medium,Light,"PG-13 for language, intense action violence, disturbing images, and some thematic elements",Light,Fantastic Four,Medium
+90,War Drama,Medium,None,R for strong war violence and brief language,None,The Great Raid,Heavy
+91,Science Fiction Adventure,Medium,Light,PG-13,Light,The Island,Heavy
+92,Drama,Medium,Light,R,Light,The Beautiful Country,Medium
+93,SF,Heavy,Light,PG-13,None,War Of The Worlds,Medium
+94,Sports Comedy,Light,None,PG for mild language and thematic elements,None,Rebound,Light
+95,Drama,Light,None,Not Rated,None,The Ninth Day,Medium
+96,Family,None,None,PG,None,Charlie And The Chocolate Factory,Light
+97,Drama,Heavy,None,Not Rated,Light,Indigo,Light
+98,Horror,Medium,Medium,R,Heavy,High Tension,Heavy
+99,Drama,Heavy,Light,PG-13,Medium,Lords Of Dogtown,Medium

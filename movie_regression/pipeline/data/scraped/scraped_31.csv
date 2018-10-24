@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,None,None,PG-13,None,Down In The Delta,None
+1,Comedy,None,None,PG-13,None,Patch Adams,None
+2,Drama,Light,None,Not Rated,None,The Last Supper,Light
+3,Thriller,Heavy,Medium,R,Medium,Where Truth Lies,Heavy
+4,Drama,None,Light,R,Light,The Crucible,Medium
+5,Drama,Heavy,Heavy,R,Heavy,The People Vs. Larry Flynt,None
+6,Comedy,Heavy,None,PG-13,Light,My Fellow Americans,Medium
+7,Drama,Light,Medium,R,Medium,Ridicule,Light
+8,Comedy,Heavy,Medium,R,Medium,Jerry Maguire,Light
+9,Drama,Heavy,None,R,Medium,The Substance Of Fire,Light
+10,Historical,Heavy,None,PG-13,None,Ghosts Of Mississippi,Medium
+11,Action-adventure,Heavy,None,PG-13,Light,Daylight,Medium
+12,Comedy,Medium,Light,PG,Light,One Fine Day,None
+13,Drama,Light,None,PG-13,Light,The Portrait Of A Lady,Light
+14,Thriller,Light,None,PG,Light,Vertigo,None
+15,Drama,Medium,Medium,R,Heavy,Beautiful Thing,Light
+16,Drama,Heavy,Medium,Unrated by MPAA,Medium,Bitter Sugar,Medium
+17,Documentary,Light,Light,Not rated by the MPAA,None,When We Were Kings,Light
+18,Drama,Light,Light,R,Medium,The Secret Agent,Medium
+19,Science Fiction,Medium,None,PG,Light,Mars Attacks,Medium
+20,Science-Fiction,Light,None,PG-13,Light,Star Trek: First Contact,Medium
+21,Comedy,Light,None,PG,None,Jingle All The Way,Light
+22,Drama,Light,Light,PG-13,Light,Shine,Light
+23,Drama,Heavy,Heavy,R,Heavy,The Funeral,Heavy
+24,Action,Heavy,Medium,R,Heavy,Set It Off,Heavy
+25,Comedy,Heavy,None,R,Light,Swingers,None
+26,Drama,Medium,Medium,R,Medium,Mother Night,Medium
+27,Comedy,Heavy,None,R,Light,Palookaville,Medium
+28,Drama,Medium,Heavy,R,Light,The English Patient,Light
+29,Comedy,Light,None,R,Heavy,The Mirror Has Two Faces,None
+30,Drama,None,Light,PG-13,Light,William Shakespeare’S Romeo And Juliet,Medium
+31,Comedy,Light,None,PG,None,Larger Than Life,Light
+32,Science Fiction,Light,None,PG,None,Space Jam,Light
+33,Horror,Medium,Medium,R,Medium,Stephen King’S Thinner,Medium
+34,Drama,Heavy,None,R,Light,Trees Lounge,Light
+35,Drama,Heavy,Medium,,Light,Suburbia,Light
+36,Comedy,Medium,Medium,PG-13,Medium,The Associate,None
+37,Drama,None,None,PG,None,The Grass Harp,Light
+38,Comedy,Heavy,Light,PG-13,Medium,High School High,Medium
+39,Drama,Heavy,Light,R,None,Get On The Bus,Light
+40,Thriller,Heavy,None,R,Light,Ransom,Heavy
+41,Comedy,Light,None,PG,None,Dear God,Light
+42,Documentary,None,None,G,None,Microcosmos,Light
+43,Drama,Light,None,PG,None,The Preacher’S Wife,None
+44,Christian drama,None,None,TV series -- Not rated by MPAA,None,Peter And Paul,Light
+45,Film noir,Heavy,Medium,R,Medium,Bound,Medium
+46,Action-adventure,Heavy,Medium,R,Light,The Long Kiss Goodnight,None
+47,Drama,Heavy,None,R,None,Michael Collins,Heavy
+48,Drama,Heavy,None,R,None,The Chamber,Medium
+49,Drama,Heavy,Light,R,None,Unhook The Stars,Light
+50,Thriller,Medium,None,R,None,The Ghost And The Darkness,Heavy
+51,Drama,Heavy,None,Unrated by MPAA,Light,Sling Blade,Medium
+52,Drama,Medium,Light,PG - 13,Light,To Gillian On Her 37Th Birthday,Light
+53,Docudrama,Light,None,PG,None,Looking For Richard,Light
+54,Comedy,Light,None,PG,None,D3: The Mighty Ducks,Light
+55,Docudrama,None,None,Not rated by MPAA,None,Prison To Praise,Light
+56,Drama,Medium,Medium,Unrated by MPAA,Heavy,Everything Relative,None
+57,Action,Heavy,Light,R,None,The Glimmer Man,Heavy
+58,Drama,Heavy,Medium,R,None,Sleepers,Heavy
+59,Comedy,Heavy,Heavy,Unrated by MPAA,Medium,Salut Cousin,Light
+60,Drama,Heavy,None,R,Light,The War At Home,Medium
+61,Biography,Light,None,R,Light,Surviving Picasso,Medium
+62,Comedy,Medium,None,PG-13,Light,Mother,None
+63,Drama,Heavy,None,R,Light,Big Night,Light
+64,Drama,Light,None,PG,Light,Infinity,None
+65,Comedy,Medium,None,PG,None,That Thing You Do,None
+66,Action,Medium,Light,R,Medium,Last Man Standing,Heavy
+67,Comedy,Heavy,Medium,R,Medium,Feeling Minnesota,Heavy
+68,Action-comedy,Heavy,Medium,R,Medium,Bulletproof,Heavy
+69,Action,Medium,Medium,R,Medium,Maximum Risk,Heavy
+70,Thriller,Heavy,Medium,R,Light,The Rich Man’S Wife,Medium
+71,Thriller,Heavy,Light,R,None,Extreme Measures,Medium
+72,Comedy,Medium,None,PG,Light,The First Wives Club,Light
+73,Drama,None,None,R,Medium,Grace Of My Heart,None
+74,Documentary,None,None,PG,None,The Leopard Son,Light
+75,Science-Fiction,Light,None,PG-13,None,The Island Of Dr. Moreau,Heavy
+76,Comedy,Light,None,PG,None,The Stupids,Medium
+77,Drama,Heavy,Heavy,R,Heavy,Stonewall,Heavy
+78,Science-fiction,Medium,Medium,R,None,Solo,Heavy
+79,Drama,Heavy,Medium,R,Heavy,Foxfire,Medium
+80,Drama,Heavy,None,R,Light,The Trigger Effect,Medium
+81,Comedy,Light,None,PG-13,Light,A Very Brady Sequel,None
+82,Science Fiction,Light,None,PG,None,Bogus,None
+83,Drama,Light,Light,PG,Light,Fly Away Home,None
+84,Documentary,None,None,Not rated by MPAA,None,My Peace I Give You,None
+85,Horror,Heavy,Heavy,R,Heavy,Tales From The Crypt Presents Bordello Of Blood,Heavy
+86,,Heavy,Heavy,R,Heavy,2 Days In The Valley,Heavy
+87,Drama,Heavy,None,R,None,American Buffalo,Light
+88,Thriller,Heavy,None,R,None,The Fan,Heavy
+89,Drama,Heavy,None,R,Light,Manny And Lo,Light
+90,Docu-drama,Heavy,Light,R,Light,Basquiat,Light
+91,Comedy,Heavy,None,R,Medium,She’S The One,Light
+92,Drama,None,None,Not rated by MPAA,Light,Rendezvous In Paris,None
+93,Drama,Medium,None,PG-13,Light,The Spitfire Grill,Light
+94,Action,Heavy,Light,R,Light,John Carpenter’S Escape From La,Heavy
+95,Comedy,Heavy,Heavy,R,Heavy,Phat Beach,None
+96,Comedy,Heavy,Heavy,R,Light,The Pompatus Of Love,Light
+97,Comedy,Light,None,,Light,House Arrest,Light
+98,Comedy,Heavy,Light,PG-13,Light,Joe’S Apartment,Heavy
+99,Comedy,Heavy,Medium,R,Light,Tin Cup,Light

@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,None,R,Light,D.R.O.P. Squad,Medium
+1,Drama,None,None,PG-13,None,Double Dragon,None
+2,Drama,None,None,PG,None,Oleanna,None
+3,Horror,None,None,R,None,Mary Shelley’S Frankenstein,None
+4,Science Fiction,None,None,PG,None,Star Trek: Generations,None
+5,Drama,None,None,PG,None,Miracle On 34Th Street,None
+6,Animated Musical,None,None,G,None,The Swan Princess,Light
+7,Action,None,None,R,None,The Professional,None
+8,Comedy,None,None,R,None,The Road To Wellville,None
+9,Drama,None,None,R,None,The Last Seduction,None
+10,Comedy,None,None,PG,None,Radioland Murders,None
+11,Murder Mystery,None,None,R,None,Silent Fall,None
+12,Comedy,None,None,R,None,Bullets Over Broadway,None
+13,Drama,None,None,PG,None,Imaginary Crimes,None
+14,Drama,None,None,PG-13,None,The War,None
+15,Sports Documentary,None,None,PG-13,None,Hoop Dreams,None
+16,Fantasy Comedy,None,None,PG,None,The Santa Clause,None
+17,Mystery,None,None,Motion Picture Code Certified,Light,Dial M For Murder,Light
+18,Drama,None,None,Motion Picture Code Certified,None,Roman Holiday,Light
+19,Comedy,None,None,R,None,Exit To Eden,None
+20,Drama,None,None,R,None,Nostradamus,None
+21,Action Drama,None,None,R,None,Pulp Fiction,None
+22,Comedy,None,None,NC-17,None,Clerks,None
+23,Comedy,None,None,R,None,I Like It Like That,None
+24,Drama,Light,None,NR,Light,I Don’T Want To Talk About It,Light
+25,Science Fiction,None,None,PG-13,None,Stargate,None
+26,Comedy,None,None,PG,None,Only You,None
+27,Drama,None,None,R,None,The Browning Version,None
+28,Romance Drama,Medium,None,PG-13,Light,Love Affair,None
+29,Satirical Comedy,Light,None,NR,None,Caro Diario,Light
+30,Drama,None,None,,None,The Judas Project,None
+31,Drama,None,None,NR,None,Come The Morning,Light
+32,Science Fiction,Heavy,Medium,Not yet rated by the MPAA,Medium,Robert A. Heinlein’S The Puppet Masters,Heavy
+33,Comedy,Heavy,None,NR,Medium,Me And The Mob,Medium
+34,Action Drama,None,None,R,None,The Specialist,None
+35,Animated Fantasy,None,None,Not yet rated (probably G),None,A Troll In Central Park,None
+36,Drama,None,None,R (originally NC-17),None,Jason’S Lyric,None
+37,Comedy,None,None,PG,None,Little Giants,None
+38,Comedy,None,None,PG-13,None,The Scout,None
+39,Action,None,None,PG-13,None,The River Wild,None
+40,Drama,Light,Medium,R,Medium,Rapa Nui,Heavy
+41,Drama,None,None,PG-13,None,Blue Sky,None
+42,Drama (with elements of satirical comedy),None,None,R,None,The New Age,None
+43,Science-Fiction Action,None,None,R,None,Timecop,None
+44,Comedy,None,None,R,None,A Good Man In Africa,None
+45,Drama,None,None,R,None,The Shawshank Redemption,None
+46,Biography,None,None,R,None,Ed Wood,None
+47,Comic Drama,Medium,Light,R,None,What Happened Was …,None
+48,Action,None,None,PG-13,None,Terminal Velocity,None
+49,Drama,None,None,PG,None,The Next Karate Kid,None
+50,Drama,None,None,PG-13,None,Second Best,None
+51,Comedy,None,None,PG,None,Princess Caraboo,None
+52,Historical Adventure Drama,None,None,Not rated at the time of publication (should be PG),None,Squanto: A Warrior’S Tale,None
+53,Suspense drama,None,None,NR,Light,Rear Window,Light
+54,Circus adventure,None,None,Motion Picture Code certified,None,The Greatest Show On Earth,Light
+55,Musical,Light,None,NR,Light,My Fair Lady,None
+56,Comedy,None,None,NR,None,Cafe Au Lait,None
+57,Comedy,None,None,PG-13,None,Milk Money,None
+58,Drama,Heavy,Medium,R,Medium,There Goes My Baby,Medium
+59,Drama,None,None,R,None,Sleep With Me,None
+60,Western comedy,Heavy,Medium,PG-13,Medium,Wagons East,Medium
+61,Thriller,None,None,R,None,Fresh,None
+62,Anthology of animation,None,Light,NR,None,Best Of The International Tournee Of Animation,Medium
+63,Documentary expose`,Light,None,NR (not rated),Medium,Mtv Examined,Medium
+64,Thriller,None,None,R,None,Killing Zoe,None
+65,Comedy,None,None,PG-13,None,It’S Pat,None
+66,Adventure comedy,None,None,PG-13,None,Blankman,None
+67,Comedy,Heavy,Medium,R,None,"The Adventures Of Priscilla, Queen Of The Desert",Medium
+68,Historical mystery,None,None,R (originally NC-17),None,The Advocate,None
+69,Drama,Medium,Medium,Not rated by the MPAA,Light,Sunday’S Children,Light
+70,Comedy,Medium,Heavy,R,Medium,A La Mode,Light
+71,Drama,None,None,PG-13,None,A Simple Twist Of Fate,None
+72,Drama,None,None,PG,None,Andre,None
+73,Comic drama,None,None,PG,None,"Corrina, Corrina",None
+74,Instructional,None,None,NR,None,Winning Your Kids Back From The Media,None
+75,Erotic thriller,None,None,R,None,Color Of Night,None
+76,Comedy,None,None,PG,None,It Could Happen To You,None
+77,Comedy,None,None,PG-13,None,Airheads,None
+78,Comedy,None,None,PG,None,Camp Nowhere,None
+79,Thriller,None,None,Not yet rated by the MPAA,None,Trial By Jury,None
+80,Comedy,None,None,PG-13,None,The Mask,None
+81,Comedy,None,None,PG,None,In The Army Now,None
+82,Comedy,None,None,PG-13,None,Barcelona,None
+83,Drama,None,None,not yet rated by MPAA,None,Quiz Show,None
+84,Comedy,None,None,NR,None,Eat Drink Man Woman,None
+85,Action-adventure,Heavy,None,PG-13,None,Clear And Present Danger,Medium
+86,Comedy,None,None,PG,None,The Little Rascals,None
+87,Drama,None,Medium,PG-13,Light,Francesco,Light
+88,Erotic drama,Heavy,Heavy,NR,Heavy,The Ages Of Lulu,None
+89,Drama,Medium,Heavy,NR,Medium,Helas Pour Moi,None
+90,Comedy,Light,Medium,PG-13,Heavy,Just Like A Woman,None
+91,Comedy,None,None,NR,None,Spanking The Monkey,None
+92,Drama,Medium,Medium,NR,Heavy,Love After Love (Apres L’Amour),None
+93,Documentary,Light,Light,N/R,None,Coming Out Under Fire,None
+94,Drama,None,None,R,None,Mi Vida Loca,None
+95,Thriller,None,None,NR,None,La Scorta,None
+96,Comic drama,Heavy,Light,R,None,"Ciao, Professore!",Light
+97,Drama,Light,Light,PG-13,None,The Wedding Gift,None
+98,Comedy,None,None,PG,None,North,None
+99,Action drama,None,None,PG-13,None,The Shadow,None

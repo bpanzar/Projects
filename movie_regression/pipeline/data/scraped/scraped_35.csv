@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,None,PG-13,None,Smoke,None
+1,Comedy,Heavy,Medium,R,None,Search And Destroy,Heavy
+2,Drama,Heavy,Medium,R,None,My Family,Heavy
+3,Horror,Light,None,R,None,Village Of The Damned,Medium
+4,Comic Drama,Light,Medium,R,Medium,The Perez Family,Light
+5,Action Drama,Heavy,None,R,None,Crimson Tide,Medium
+6,Drama,Light,Medium,R,Medium,Burnt By The Sun,Light
+7,Comedy,Heavy,Light,PG-13,Medium,Forget Paris,Light
+8,Drama,None,Medium,PG-13,Medium,Picture Bride,None
+9,Comedy,Heavy,Light,PG-13,Light,French Kiss,Light
+10,Documentary,Heavy,Heavy,R,Heavy,Crumb,None
+11,Comedy,Heavy,None,R,Medium,Swimming With Sharks,Heavy
+12,Drama,Heavy,Light,R,None,Panther,Heavy
+13,Biography,Heavy,Medium,R,Medium,The Basketball Diaries,Medium
+14,Drama,Medium,Medium,NR,Medium,"Red Firecracker, Green Firecracker",Light
+15,Drama,Heavy,None,PG-13,None,The Cure,Medium
+16,Drama,None,None,PG,None,"The Englishman Who Went Up A Hill, But Came Down A Mountain",Light
+17,Animated Musical Adventure,None,None,G,None,The Pebble And The Penguin,Light
+18,Romance Drama,None,Medium,R,Medium,Bar Girls,None
+19,Action,Heavy,Medium,R,Light,Bad Boys,Heavy
+20,Drama,Heavy,None,R,Light,New Jersey Drive,Medium
+21,Drama,Heavy,Heavy,R,Heavy,Bulletproof Heart,Medium
+22,Romantic thriller,Light,Light,R,Light,Amateur,Medium
+23,Comedy,Medium,Medium,PG-13,Light,Jury Duty,Light
+24,Drama,Heavy,Medium,NR,Medium,The Last Good Time,Light
+25,Action,None,None,PG-13,None,Three Ninjas Knuckle Up,Medium
+26,Action,Medium,None,PG-13,None,Top Dog,Medium
+27,Family,Light,None,PG,None,Magic In The Water,None
+28,Comedy,Medium,None,PG-13,None,Stuart Saves His Family,Light
+29,Drama,None,None,G,None,A Little Princess,None
+30,Dramatic Biography,Light,Heavy,R,Heavy,Farinelli,Medium
+31,Drama,Heavy,Heavy,R,None,Kiss Of Death,Heavy
+32,Drama,Light,Medium,NR,Medium,The Sum Of Us,None
+33,Comedy,Heavy,Medium,PG-13,Light,Tommy Boy,Light
+34,Drama,Medium,Medium,PG-13,Medium,Circle Of Friends,None
+35,Action,Medium,Medium,R,Medium,Rob Roy,Heavy
+36,Drama,Light,Medium,PG-13,Light,Don Juan De Marco,None
+37,Comedy,Medium,None,PG-13,None,Major Payne,Light
+38,Animated Adventure,None,Light,G,None,A Goofy Movie,Light
+39,Horror,Heavy,None,R,None,The Mangler,Heavy
+40,Drama,Heavy,None,R,Medium,Once Were Warriors,Heavy
+41,Western,Heavy,Medium,R,Light,The Wild Bunch,Heavy
+42,Family,Medium,None,PG,None,Born To Be Wild,Light
+43,Science Fiction,Light,Medium,R,None,Tank Girl,Heavy
+44,Drama,Medium,Light,NR,Light,Son Of The Shark,Medium
+45,Political Satire,Medium,Heavy,PG-13,None,Window To Paris,None
+46,Comedy,Light,None,PG,None,A Pyromaniac’S Love Story,Light
+47,Horror,Heavy,Medium,R,Medium,Hideaway,Heavy
+48,Erotic Drama,Light,Heavy,R,Medium,Exotica,Light
+49,Drama,Medium,Medium,NR,Light,Before The Rain,Heavy
+50,Drama,None,None,PG-13,Medium,Jefferson In Paris,Medium
+51,Comedy,Light,None,PG,Light,Man Of The House (1995),Light
+52,Drama,Light,None,R,None,Outbreak,Medium
+53,Comedy,Medium,None,PG,Light,While You Were Sleeping,Light
+54,Western,Heavy,Light,R,Light,The Quick And The Dead,Heavy
+55,Suspense Drama,Heavy,Light,R,Light,Just Cause,Heavy
+56,Drama,Medium,Medium,R,Light,Shallow Grave,Heavy
+57,Comedy,Heavy,None,PG-13,Light,Billy Madison,None
+58,Comedy,Heavy,Medium,R,Medium,Muriel’S Wedding,Light
+59,Comedy,Medium,None,R,Light,Funny Bones,Medium
+60,Drama,Medium,None,R,None,Losing Isaiah,None
+61,,None,None,G,None,Through The Olive Trees,None
+62,Documentary,None,None,G,None,Martha And Ethel,None
+63,Mystery adventure,None,None,NR (not rated),None,The Last Chance Detectives: Mystery Lights Of Navajo Mesa,None
+64,Horror,Heavy,None,R,None,In The Mouth Of Madness,Heavy
+65,War,Heavy,Medium,R,Heavy,The Walking Dead,Heavy
+66,Mythic Drama,None,Light,PG,None,The Secret Of Roan Inish,None
+67,Western,Light,None,PG,None,Tall Tale,Light
+68,Drama,Heavy,Medium,R,Medium,Boys On The Side,Medium
+69,Drama,Light,Medium,R,Medium,A Man Of No Importance,Light
+70,Suspense Drama,Heavy,Medium,R,Light,Death And The Maiden,Light
+71,Drama,Heavy,None,PG,Medium,Roommates,Light
+72,Drama,Light,None,Not rated by the MPAA,Medium,Colonel Chabert,Medium
+73,Comedy,Heavy,Medium,Not yet rated,Medium,Miami Rhapsody,None
+74,Comedy,Heavy,Heavy,R,Medium,Ready To Wear,Light
+75,Drama,Heavy,None,R,Medium,Federal Hill,Medium
+76,Drama,Light,Heavy,R,Heavy,Queen Margot,Heavy
+77,Comedy,Medium,None,PG-13,Medium,Mixed Nuts,Light
+78,Comedy,Medium,Light,PG-13,Light,Dumb And Dumber,Medium
+79,Biography,Light,Medium,R,Medium,Immortal Beloved,Light
+80,Martial Arts,Light,None,PG-13,None,Street Fighter,Medium
+81,Drama,Heavy,Light,R,None,Nobody’S Fool,Light
+82,Drama,Heavy,None,NR (not rated by the MPAA),Medium,"Ladybird, Ladybird",Light
+83,Comedy,Light,None,PG,Light,Houseguest,None
+84,Romance Biography,None,None,PG,None,Little Women,None
+85,Drama,None,None,Motion Picture Code,Light,Sunset Boulevard,Light
+86,Thriller,Heavy,Medium,R,Heavy,Disclosure,None
+87,Action Drama,Heavy,Medium,R,Heavy,Love And A .45,Heavy
+88,Drama,Medium,Heavy,NR,Medium,Unforgettable Summer,Light
+89,Action Drama,Heavy,None,R,None,Drop Zone,Heavy
+90,Drama,Heavy,Medium,R,Medium,Murder In The First,Medium
+91,Comedy,Heavy,None,PG-13,None,Trapped In Paradise,Light
+92,Comedy,Medium,None,PG-13,Light,Speechless,None
+93,Action,Light,None,PG,Light,Rudyard Kipling’S The Jungle Book,Medium
+94,Satire,Heavy,Medium,R,Light,Series 7,Heavy
+95,Family Memoir,Medium,Medium,Not rated,Medium,Glamour,Medium
+96,Comedy,None,None,G,None,Road To Redemption,Light
+97,Comedy,Light,Medium,R,Light,My 5 Wives,Light
+98,Martial Arts,Light,None,R,None,Extreme Force,Heavy
+99,Mockumentary,Heavy,Medium,R,Medium,Where’S Marlowe,Medium

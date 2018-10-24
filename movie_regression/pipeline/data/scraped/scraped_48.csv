@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Comedy,Medium,None,PG-13,Light,Just Visiting,Medium
+1,Suspense,Medium,None,R,None,Along Came A Spider,Medium
+2,Comedy & Action,Medium,None,PG-13,None,Josie And The Pussycats,Light
+3,Drama,None,Light,PG-13,Light,The Luzhin Defence,Light
+4,Animated Fairy Tale,Light,None,PG,None,Shrek,Light
+5,Comedy,Heavy,Medium,R,Medium,The Brothers,Light
+6,Drama,Medium,Heavy,Not Rated,Medium,The Legend Of Rita,None
+7,Drama,Medium,Light,PG-13,Light,"Me, You, Them",None
+8,Comedy,Heavy,Medium,R,Medium,Say It Isn’T So,Medium
+9,Thriller,Heavy,Medium,R,Medium,Exit Wounds,Heavy
+10,Drama,Light,None,R,Light,Enemy At The Gates,None
+11,Comedy,Heavy,Light,PG-13,Light,Someone Like You,None
+12,Comedy,Heavy,Light,R,Light,Bridget Jones’S Diary,Light
+13,Comedy,Medium,None,PG-13 (For brief strong language),None,The Dish,None
+14,Comedy,Light,None,PG,None,Spy Kids,Light
+15,Comedy,Heavy,Heavy,R,Light,Blow Dry,None
+16,Science Fiction,Light,None,Not Rated,None,Simon Magus,Light
+17,Drama,Medium,Medium,R,Light,The Widow Of Saint-Pierre,Medium
+18,Comedy,Heavy,Light,PG-13,Medium,Heartbreakers,Light
+19,Comedy,Medium,Medium,PG-13,Light,Company Man,Light
+20,Romantic Comedy,Heavy,Light,R,Light,The Mexican,Medium
+21,Drama,Heavy,Light,Not Rated,Light,The Taste Of Others,Light
+22,Comedy,Heavy,Medium,PG-13,Light,Get Over It,Light
+23,Drama,Medium,Medium,R,Light,Faithless,Light
+24,Horror,Light,None,R,None,Hannibal,Heavy
+25,Thriller,Heavy,Heavy,R,Heavy,The Tailor Of Panama,Light
+26,Thriller,Heavy,Medium,R,Medium,3000 Miles To Graceland,Heavy
+27,Science Fiction,Medium,Light,PG-13,Medium,Monkeybone,Medium
+28,Comedy,Heavy,None,PG-13,Light,Down To Earth,Light
+29,Comedy,Heavy,Medium,PG-13,Medium,Head Over Heels,Light
+30,Comedy,Heavy,Medium,PG-13,Medium,Saving Silverman,Medium
+31,Horror,Heavy,Medium,R,Light,Valentine,Heavy
+32,Drama,Light,None,PG,Light,In The Mood For Love,None
+33,Romantic Tragedy,Light,Medium,PG-13,Medium,Sweet November,Light
+34,Mystery,Heavy,Medium,R,Medium,The Caveman’S Valentine,Medium
+35,Thriller,Heavy,Medium,R,Light,15 Minutes,Medium
+36,Film Noir,Heavy,Light,R,Light,Memento,Heavy
+37,Comedy,None,None,G,None,Recess: School’S Out,Medium
+38,Comedy,Light,None,PG,None,See Spot Run,Light
+39,Comedy,Heavy,Medium,R,Light,Two Ninas,Light
+40,Mystery,Heavy,Medium,R,Light,The Pledge,Heavy
+41,Martial Arts,Light,Light,PG-13,Light,"Crouching Tiger, Hidden Dragon",Medium
+42,Comedy,Heavy,Light,PG-13,None,The Wedding Planner,Light
+43,Comedy,Heavy,Light,R,Medium,It’S The Rage,Medium
+44,Comedy,Heavy,Medium,Not rated,Medium,Orphans,Heavy
+45,Historical Romance,Light,Medium,Not rated,Medium,Chunhyang,Medium
+46,Action,Heavy,Light,PG-13,Light,Double Take,Heavy
+47,Thriller,Medium,Light,PG-13,Light,Antitrust,Medium
+48,Drama,Medium,None,PG,Light,The Amati Girls,None
+49,Western,Heavy,Heavy,R,Heavy,"South Of Heaven, West Of Hell",Heavy
+50,Western,Medium,Medium,R,Medium,The Claim,Medium
+51,Supernatural Horror,Medium,Medium,R,Medium,Dracula 2000,Heavy
+52,Drama,Medium,None,Not rated,Light,Judy Berlin,Light
+53,Drama,Light,Medium,PG-13,Light,Vatel,Medium
+54,Action,Heavy,None,PG-13,Light,"O Brother, Where Art Thou?",Heavy
+55,Comedy,Heavy,Medium,PG-13,Medium,"Dude, Where’S My Car?",Light
+56,Drama,None,Medium,Not rated,Medium,Taboo (Gohatto),Heavy
+57,Drama,Heavy,Heavy,R,Heavy,Malena,Heavy
+58,Drama,Heavy,Light,Not Yet Rated,Medium,Save The Last Dance,Medium
+59,Comedy,Heavy,Light,R,Light,An Everlasting Piece,Light
+60,Drama,Heavy,None,Not rated,Medium,La Buche,None
+61,Western,Heavy,Medium,PG-13,Medium,All The Pretty Horses,Medium
+62,Comedy,Heavy,Light,PG-13,Light,Miss Congeniality,Light
+63,Comedy,Medium,Light,PG-13,Light,What Women Want,Light
+64,Drama,Medium,Medium,PG-13,Light,Chocolat,Light
+65,Biography,Heavy,Light,R,Medium,Pollock,Light
+66,Drama,Heavy,None,PG-13,Light,Finding Forrester,None
+67,Drama,Light,Light,PG-13,None,Cast Away,Medium
+68,Comedy,Heavy,Medium,PG-13,Medium,The Family Man,Light
+69,Documentary,Medium,Heavy,NC-17,Heavy,Inside Deep Throat,None
+70,Action,Light,Light,PG-13,Light,Kingdom Of Heaven,Heavy
+71,Comedy,Heavy,None,Not Rated,Medium,Sarah Silverman: Jesus Is Magic,Light
+72,Drama,Heavy,Medium,Not Rated,Heavy,The Dying Gaul,Medium
+73,Musical,Medium,Light,"PG-13 for mature thematic material involving drugs and sexuality, and for some strong language",Medium,Rent,Light
+74,Comedy,Heavy,Light,R,Heavy,Breakfast On Pluto,Heavy
+75,Comedy,Heavy,Heavy,R,Medium,Transamerica,Light
+76,Film Noir,Heavy,Heavy,R,Medium,The Ice Harvest,Heavy
+77,Science Fiction,Medium,Light,PG-13,Light,Harry Potter And The Goblet Of Fire,Medium
+78,Drama,Heavy,Light,R (violence and language),None,Syriana,Heavy
+79,Thriller,Heavy,Light,"R (strong disturbing violence, language and some sexuality)",Heavy,Derailed,Heavy
+80,Drama,Heavy,Medium,R,Medium,The Squid And The Whale,Light
+81,Drama,Heavy,Light,R,Medium,The Three Burials Of Melquiades Estrada,Medium
+82,Drama,Heavy,Light,R,Medium,Streets Of Legend,Medium
+83,War Drama,Heavy,Heavy,"R for pervasive language, some violent images and strong sexual content",Heavy,Jarhead,Medium
+84,Comedy,Heavy,Light,PG-13,Medium,Just Friends,Medium
+85,Biography,Medium,Light,PG-13,Light,Walk The Line,Light
+86,Horror,Light,Light,R,None,Dominion: Prequel To The Exorcist,Heavy
+87,Documentary,Medium,Light,PG-13,None,First Descent,Light
+88,Drama,Light,None,PG,None,Schultz Gets The Blues,Light
+89,Comedy,Light,Light,PG,None,"Yours, Mine And Ours (2005)",Light
+90,Science Fiction,None,None,PG,None,"The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe",Medium
+91,Horror,Heavy,None,R,None,Saw Ii,Heavy
+92,Drama,Heavy,Heavy,Not Rated,Heavy,Where The Truth Lies,Heavy
+93,Drama,None,None,PG-13,None,The Work And The Glory: American Zion,None
+94,Horror,Heavy,Medium,R,Light,Doom,Heavy
+95,Horror,Medium,Light,PG-13,Medium,The Fog,Medium
+96,Thriller,Heavy,Medium,R,Medium,Domino,Heavy
+97,Drama,Light,Light,PG-13,None,Bee Season,Light
+98,Mystery,Heavy,Heavy,R,Heavy,"Kiss Kiss, Bang Bang",Heavy
+99,Drama,Heavy,Medium,R for strong language and sexual content,Heavy,The Weather Man,Light

@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Medium,None,PG-13,None,Copperhead,Light
+1,Comedy,Heavy,None,R,Light,The Heat,Heavy
+2,Thriller,Medium,None,R,Light,Phantom,Medium
+3,Comedy,None,None,G,None,Monsters University,Light
+4,Horror,Medium,None,PG-13,None,World War Z,Heavy
+5,Documentary,Medium,None,PG-13,None,Somm,None
+6,Drama,Heavy,None,R,Light,The Bling Ring,Light
+7,,Light,None,PG-13,None,Jack The Giant Slayer,Medium
+8,Drama,Heavy,Light,R,Medium,Stuck In Love,Light
+9,Drama,None,None,Not rated by MPAA,None,The Grandfather,None
+10,Action,Light,None,PG-13,Light,Indiana Jones And The Last Crusade,Medium
+11,Comedy,Heavy,Heavy,R,Heavy,This Is The End,Heavy
+12,Science Fiction,Medium,Light,PG-13,None,Man Of Steel,Medium
+13,Science Fiction,Light,None,PG,None,Oz The Great And Powerful,Light
+14,Comedy,Light,Light,PG-13,Medium,Much Ado About Nothing (2013),Light
+15,Drama,None,None,Not Rated,None,The Wall (2013),Medium
+16,,Heavy,Light,PG-13,Medium,The Internship,Light
+17,Thriller,Medium,None,R,Light,The Purge,Heavy
+18,Drama,None,None,** CHRISTIAN TELEVISION GUIDE **,None,Jimmy,Light
+19,Drama,None,Light,** TELEVISION GUIDE **,Light,Ring Of Fire,Light
+20,Comedy,Light,None,PG,None,Escape From Planet Earth,Light
+21,Comedy,Heavy,None,R,Medium,Frances Ha,Light
+22,Comedy,Heavy,Light,R,Medium,The Kings Of Summer,Light
+23,Drama,Heavy,Light,R,None,Shadow Dancer,Medium
+24,Thriller,Medium,Light,PG-13,Light,The East,Medium
+25,Science Fiction,Light,None,PG-13,None,After Earth,Medium
+26,Thriller,Heavy,None,PG-13,Light,Now You See Me,Medium
+27,Drama,None,Light,Approved,None,Drums Along The Mohawk,Medium
+28,Family,Light,None,PG,None,Space Warriors,None
+29,Drama,Heavy,None,R,Light,What Maisie Knew,Light
+30,Drama,Heavy,Medium,R,Medium,Before Midnight,Light
+31,Comedy,Heavy,Heavy,R,Medium,The Hangover 3,Medium
+32,Action,Heavy,Light,PG-13,Light,Fast And Furious 6,Medium
+33,Comedy,Heavy,Light,PG-13,Medium,Peeples,Light
+34,Family,None,None,TV-G,None,The Augustine Story,None
+35,Drama,None,Heavy,R,Medium,To The Wonder,Light
+36,Drama,Heavy,None,Not Rated,Medium,The English Teacher,Light
+37,Thriller,Heavy,Medium,Not Rated,Heavy,Pieta,Heavy
+38,Documentary,Medium,Light,PG-13,Light,Hating Breitbart,Light
+39,Science Fiction,Heavy,None,PG-13,Light,Star Trek Into Darkness,Medium
+40,Documentary,Medium,None,PG-13,None,Venus And Serena,Light
+41,Drama,Medium,None,TV,Light,Liz And Dick – On Dvd,Light
+42,Drama,None,None,Not Rated,None,Mrs. Miniver,Light
+43,Drama,Medium,Light,PG-13,Light,The Great Gatsby (2013),Medium
+44,Comedy,Heavy,Light,PG-13,Medium,Tyler Perry’S We The Peeples,Light
+45,Thriller,Light,Light,R,None,Erased,Heavy
+46,Horror,Heavy,Medium,R,Heavy,Aftershock,Heavy
+47,Drama,None,Light,Code Approved,Light,The Best Years Of Our Lives,Light
+48,Thriller,Light,Light,PG-13,None,Mission: Impossible – Ghost Protocol,Medium
+49,Gangster Movie,Heavy,Medium,R,Medium,The Iceman,Heavy
+50,Horror,Medium,Medium,R,Heavy,Kiss Of The Damned,Heavy
+51,Drama,Heavy,Medium,R,Medium,Love Is All You Need,Light
+52,Science Fiction,Heavy,Light,PG-13,Light,Iron Man 3,Medium
+53,Family,None,None,Not Rated,None,This Is Our Time,None
+54,Action,Heavy,Heavy,R,Medium,Pain And Gain,Heavy
+55,Drama,None,None,Not Rated,Light,Young Believers,Light
+56,Thriller,Heavy,Heavy,R,Heavy,Trance,Heavy
+57,Drama,Medium,Medium,Not Rated,Light,Midnight’S Children,Medium
+58,Comedy,Heavy,Medium,R,Medium,The Big Wedding,Light
+59,Drama,Light,Light,PG-13,None,Kon-Tiki,Light
+60,Drama,Medium,Medium,R,Heavy,Arthur Newman,Light
+61,Drama,Heavy,Light,PG-13,Light,Mud,Medium
+62,Drama,None,None,Not Rated,None,God’S Country,None
+63,Science Fiction,Medium,Medium,PG-13,Light,Oblivion,Medium
+64,Drama,Light,None,TV-G,None,Remember Sunday,None
+65,Documentary,None,None,G,None,Wings Of Life,Light
+66,Drama,Heavy,Medium,R,Medium,Disconnect,Medium
+67,Comedy,Heavy,Light,PG-13,Heavy,Scary Movie 5,Heavy
+68,Drama,None,None,PG-13,None,Not Today,None
+69,Documentary,None,None,Not Rated,None,What God Hath Wrought,None
+70,Comedy,Heavy,None,Not Rated,Light,The Angels’ Share,Medium
+71,Science Fiction,Medium,None,PG-13,None,Jurassic Park (3D),Medium
+72,Thriller,Medium,None,PG-13,Light,Silver Circle,Medium
+73,Thriller,Heavy,Light,R,None,The Company You Keep,Light
+74,Horror,Heavy,Light,R,Medium,Evil Dead (2013),Heavy
+75,Horror,Medium,None,R,None,6 Souls,Heavy
+76,Drama,None,Light,TV-PG,Light,The Bible – Full Review,Medium
+77,Drama,Heavy,Light,PG-13,Light,Tyler Perry’S Temptation: Confessions Of A Marriage Counselor,Medium
+78,Comedy,Medium,Light,R,Medium,Family Weekend,Light
+79,Drama,None,None,PG-13,Light,Blancanieves,Medium
+80,Drama,Heavy,Light,R,Light,The Place Beyond The Pines,Medium
+81,Biblical Drama,None,None,Not rated,None,Ben-Hur,Medium
+82,Drama,None,None,Not Rated,Light,To Kill A Mockingbird,Light
+83,Science Fiction,Light,Light,PG-13,Medium,The Host (2013),Medium
+84,Action,Light,None,PG-13,None,G.I. Joe: Retaliation,Medium
+85,Drama,Heavy,Heavy,R,Heavy,Spring Breakers,Heavy
+86,Documentary,None,None,Not Rated,None,Birth Control:  How Did We Get Here?,None
+87,Comedy,Light,None,PG,None,Parental Guidance,Light
+88,Comedy,Heavy,Light,PG-13,Light,Admission,Light
+89,Musical,Heavy,Light,R,Light,Hunky Dory (2013),Light
+90,Musical,Medium,Medium,PG-13,Light,The Sapphires,Medium
+91,Action Adventure,Heavy,None,R,None,Olympus Has Fallen,Heavy
+92,Comedy,None,Light,PG,None,The Croods,Light
+93,Drama,Medium,None,PG-13,None,Emperor,Light
+94,Drama,Light,Light,PG-13,Light,The Other Son,Medium
+95,Science Fiction,Medium,None,PG-13,Light,Upside Down,Medium
+96,Science Fiction,None,None,PG,None,Rise Of The Guardians,Light
+97,Horror,Heavy,Heavy,Not Rated,Heavy,Abcs Of Death,Heavy
+98,,None,None,,None,Sergeant York,Medium
+99,Thriller,Heavy,Light,R,Light,Dead Man Down,Heavy

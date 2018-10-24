@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Comedy,Heavy,None,,None,Eighth Grade,Light
+1,Drama,Heavy,Heavy,R,Medium,"Don’T Worry, He Won’T Get Far On Foot",Light
+2,Thriller,Light,None,Not Yet Rated,Light,Searching,Light
+3,Action,Medium,Light,PG-13,None,Skyscraper,Medium
+4,Documentary,Heavy,Light,R,Medium,Whitney,Light
+5,Animated,None,Light,PG,None,Hotel Transylvania 3: Summer Vacation,Light
+6,Drama,None,None,PG,Light,Leave No Trace,Light
+7,Romantic Comedy,Heavy,Light,,Medium,Set It Up,None
+8,Thriller,Heavy,Medium,R,Medium,The First Purge,Heavy
+9,Dramatic Comedy,Medium,None,TV-14,Light,Candy Jar,None
+10,Drama,Light,None,,Light,Come Sunday,None
+11,Western,Medium,Light,R,None,Woman Walks Ahead,Medium
+12,Comedy,Heavy,None,,None,Eighth Grade,Light
+13,Drama,Heavy,Heavy,R,Medium,"Don’T Worry, He Won’T Get Far On Foot",Light
+14,Thriller,Light,None,Not Yet Rated,Light,Searching,Light
+15,Action,Medium,Light,PG-13,None,Skyscraper,Medium
+16,Documentary,Heavy,Light,R,Medium,Whitney,Light
+17,Animated,None,Light,PG,None,Hotel Transylvania 3: Summer Vacation,Light
+18,Drama,None,None,PG,Light,Leave No Trace,Light
+19,Romantic Comedy,Heavy,Light,,Medium,Set It Up,None
+20,Thriller,Heavy,Medium,R,Medium,The First Purge,Heavy
+21,Dramatic Comedy,Medium,None,TV-14,Light,Candy Jar,None
+22,Drama,Light,None,,Light,Come Sunday,None
+23,Western,Medium,Light,R,None,Woman Walks Ahead,Medium
+24,Drama,Heavy,None,Not Rated,Light,Little Pink House,Light
+25,Thriller,Heavy,Light,R,Light,Escape Plan 2: Hades,Heavy
+26,Drama,Light,Medium,R,Medium,A Prayer Before Dawn,Heavy
+27,Drama,None,None,PG,None,God Bless The Broken Road,Light
+28,Science Fiction,Heavy,Light,PG-13,None,Ant-Man And The Wasp,Medium
+29,Thriller,Heavy,None,R,None,Sicario: Day Of The Soldado,Heavy
+30,Thriller,Heavy,Light,R,Light,American Animals,Medium
+31,Comedy,Medium,Light,PG-13,Light,Uncle Drew,Light
+32,Drama,Medium,None,PG-13,Medium,Hearts Beat Loud,None
+33,Drama,Heavy,Light,R,Light,Gotti,Heavy
+34,Drama,None,None,G,None,Johnny Tremain,Light
+35,Western,None,Heavy,R,Light,Damsel,None
+36,Science Fiction,Medium,None,PG-13,None,Jurassic World: Fallen Kingdom,Medium
+37,Comedy,Heavy,Light,R,Medium,Tag,Medium
+38,Crime Drama,Heavy,Medium,R,Heavy,Superfly (2018),Heavy
+39,Drama,None,None,Not Rated,None,Catching Faith,Light
+40,Animated,Light,None,PG,None,Incredibles 2,Light
+41,Thriller,Heavy,None,R,Light,Hotel Artemis,Heavy
+42,Comedy,Heavy,Heavy,R,Medium,Boundaries (2018),Light
+43,Drama,Light,Medium,PG-13,Medium,Mary Shelley,Light
+44,Action Adventure,Light,None,Not Rated,None,Solver,Medium
+45,Comedy,Medium,Light,PG-13,Light,Ocean’S 8,Light
+46,Horror,Heavy,Medium,R,Light,Hereditary,Heavy
+47,Comedy,Heavy,Heavy,R,Medium,Action Point,Heavy
+48,Documentary,Light,Light,PG-13,None,Won’T You Be My Neighbor?,None
+49,Romance,Light,Heavy,R,Medium,On Chesil Beach,Light
+50,Science Fiction,Medium,None,R,Light,Upgrade,Heavy
+51,Action Adventure,Medium,Medium,PG-13,Light,Adrift,Medium
+52,Non-Fiction,Light,None,,Light,The Great Good Thing: A Secular Jew Comes To Faith In Christ,Medium
+53,Drama,Light,Light,Not Rated,None,Summer 1993,Light
+54,Drama,Heavy,None,R,Medium,Sollers Point,Medium
+55,Science Fiction,Heavy,Medium,R,Medium,How To Talk To Girls At Parties,Medium
+56,Documentary,None,None,PG,None,Rbg,Heavy
+57,Documentary,None,None,G,None,The Show Must Go On: An Intimate Portrait Of The Flying Wallendas,Light
+58,Documentary,None,None,,Light,Pope Francis: A Man Of His Word,Light
+59,Comedy,Light,None,PG,Light,Show Dogs,Light
+60,Science Fiction,Medium,None,PG-13,None,Solo:  A Star Wars Story,Medium
+61,Action,Heavy,Heavy,R,Medium,Deadpool 2,Heavy
+62,Romance,Medium,None,PG-13,Light,Book Club,None
+63,Comedy,Heavy,Light,PG-13,Medium,Life Of The Party (2018),Light
+64,Thriller,Heavy,None,PG-13,Light,Breaking In,Medium
+65,Thriller,Medium,Light,R,Medium,Beast,Heavy
+66,Drama,Medium,Medium,Not Rated,Heavy,Let The Sunshine In (2018),Light
+67,Romantic Comedy,Light,Light,PG-13,Light,Overboard (2018),Light
+68,Comedy,Heavy,Light,,Light,Tully,Light
+69,Drama,Light,Light,R,None,First Reformed,Heavy
+70,Drama,None,Light,PG-13,Light,The Seagull (2018),Medium
+71,Fantasy,Light,None,PG,None,Lu Over The Wall,Light
+72,Thriller,Heavy,Medium,R,Light,Bad Samaritan,Heavy
+73,Documentary,None,None,Not Rated,None,The Test And The Art Of Thinking,None
+74,Drama,Medium,Medium,Not Rated,Medium,Love After Love,Medium
+75,Science Fiction,Medium,Light,PG-13,Light,Avengers: Infinity War,Medium
+76,Comedy,Heavy,Heavy,R,Medium,Super Troopers 2,Medium
+77,Comedy,Heavy,Light,PG-13,Light,I Feel Pretty,Light
+78,Drama,Heavy,Medium,R,Light,Borg Vs. Mcenroe,Light
+79,Thriller,Heavy,Light,R,Light,Traffik,Heavy
+80,Animated,None,None,PG,None,Sgt. Stubby: An American Hero,Medium
+81,Horror,Medium,Light,PG-13,None,King Kong,Heavy
+82,Drama,None,Light,PG-13,Light,Memoirs Of A Geisha,Light
+83,Thriller,Medium,Light,PG-13,Medium,Blumhouse’S Truth Or Dare,Heavy
+84,Science Fiction,Heavy,None,PG-13,Light,Rampage,Medium
+85,Documentary,None,None,PG,Light,The Riot And The Dance,Light
+86,Drama,Medium,None,R,None,Nostalgia,Light
+87,Drama,Heavy,Light,R,None,The Rider,Medium
+88,Thriller,Heavy,None,R,None,Beirut,Medium
+89,Documentary,None,None,Not Rated,None,Fragments Of Truth,None
+90,Drama,None,Light,PG-13,Light,The Amendment,Medium
+91,Comedy,Heavy,Medium,R,Medium,Flower,Medium
+92,Drama,Heavy,Light,R,Light,Lean On Pete,Medium
+93,Thriller,Medium,Heavy,R,Medium,You Were Never Really Here,Heavy
+94,Comedy,Heavy,Heavy,,Heavy,Blockers,Light
+95,Drama,Medium,Heavy,R,None,Journey’S End,Medium
+96,Documentary,None,Light,Not Rated,Light,Lupe Faalele:  Soaring Doves,Light
+97,Thriller,None,None,PG-13,None,A Quiet Place,Medium
+98,Drama,Light,None,PG,None,The Miracle Season,None
+99,Thriller,Heavy,Medium,R,Medium,Tyler Perry’S Acrimony,Medium

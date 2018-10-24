@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Horror,Heavy,Heavy,R,Medium,The Lords Of Salem,Heavy
+1,Documentary,Light,Light,PG,None,Linsanity,None
+2,Comedy,Heavy,Heavy,R,Heavy,Movie 43,Heavy
+3,Documentary,Light,None,PG-13,Light,Scatter My Ashes At Bergdorf’S,None
+4,Drama,Medium,Medium,PG-13,Light,Still Mine,Light
+5,Documentary,Light,None,PG,None,Inequality For All,Light
+6,Documentary,Medium,None,R,Light,Metallica Through The Never,Medium
+7,Horror,Heavy,Heavy,R,Medium,Paranormal Activity: The Marked Ones,Heavy
+8,Historical Drama,Medium,Heavy,R,Light,Renoir,Medium
+9,Comedy,Heavy,Heavy,R,Medium,Hell Baby,Heavy
+10,Comedy,None,None,PG,None,Fill The Void,None
+11,Comedy,Heavy,Light,PG-13,Medium,Girl Most Likely,Light
+12,Documentary,Medium,Light,PG,Light,Justin Bieber’S Believe,Light
+13,Documentary,None,None,TV-G,None,Contrarian,None
+14,Drama,None,None,Not Rated,None,Captains Courageous,Light
+15,Historical Drama,Light,Light,R,Medium,The Invisible Woman,Light
+16,Drama,None,None,Not Rated,None,Captain Courageous,Light
+17,Documentary,Light,Light,PG-13,Light,Blackfish,Medium
+18,Thriller,Medium,Light,None,Light,Dhoom 3,Medium
+19,Documentary,Light,Light,PG,None,Muscle Shoals,Light
+20,Comedy,Heavy,Light,PG-13,Medium,Grudge Match,Medium
+21,Comedy,Heavy,Heavy,R,Heavy,The Wolf Of Wall Street,Medium
+22,Action,None,None,PG-13,None,47 Ronin,Medium
+23,Drama,Heavy,Medium,R,Light,Her,None
+24,Family,Light,None,PG,None,Walking With Dinosaurs,Medium
+25,Comedy,Medium,None,PG,None,The Secret Life Of Walter Mitty,Light
+26,Drama,Light,Light,Not Rated,Light,The Past,Light
+27,Drama,Heavy,None,Not Rated,Light,Go For Sisters,Medium
+28,Documentary,None,None,Not Rated,Light,The Cross,Light
+29,Comedy,Medium,None,PG-13,Medium,Anchorman 2: The Legend Continues,Medium
+30,Drama,None,None,Not Rated,None,Coming Home For Christmas,None
+31,Comedy,Heavy,Light,PG-13,Light,Tyler Perry’S A Madea Christmas,Light
+32,Drama,Heavy,Medium,R,Light,American Hustle,Light
+33,Drama,Medium,Heavy,NC-17,Heavy,Blue Is The Warmest Color,Medium
+34,Thriller,Heavy,Medium,R,Heavy,Oldboy (2013),Heavy
+35,Action,None,Light,PG-13,Light,The Hobbit: The Desolation Of Smaug,Medium
+36,Drama,Light,None,PG-13,Light,Saving Mr. Banks,None
+37,Thriller,Heavy,None,R,None,The Last Days On Mars,Heavy
+38,Comedy,Medium,None,PG,Light,Pulling Strings,Light
+39,Drama,None,None,PG,None,The Ultimate Life,Light
+40,Comedy,None,Light,PG,None,Despicable Me 2,Medium
+41,Reality TV,Light,None,TV-PG,None,Shark Tank:  Episode 4.20,None
+42,Reality TV,None,None,TV-G,None,"Secret Millionaire: George & Kym Rapier: Oakridge, Oregon",None
+43,Drama,Heavy,Light,R,Light,Filly Brown,Medium
+44,Drama,Medium,None,PG-13,Light,Philomena,None
+45,Documentary,None,Light,Not Rated,Light,56 Up,None
+46,Drama,Medium,Heavy,PG-13,Medium,Mandela: Long Walk To Freedom,Heavy
+47,Drama,Light,None,PG-13,None,Barbara,Light
+48,Thriller,Heavy,Light,R,Light,Out Of The Furnace,Heavy
+49,Children,None,Light,PG,None,The Smurfs 2,Light
+50,Drama,Light,None,PG,None,Angels Sing,None
+51,Documentary,Medium,Light,R,None,The Armstrong Lie,None
+52,Drama,Heavy,Light,R,Light,Inside Llewyn Davis,Light
+53,Family,None,None,Not Yet Rated,None,Christmas In Conway,Light
+54,Comedy,Light,None,TV-G,None,Duck Dynasty: Till Duck Do Us Part,None
+55,Thriller,Heavy,None,R,Medium,Homefront,Heavy
+56,Drama,Light,None,PG,None,Black Nativity,Light
+57,Drama,Medium,None,R,None,Nebraska,Light
+58,Science Fiction,Light,Light,PG-13,Light,The Hunger Games: Catching Fire,Medium
+59,Comedy,Medium,Light,PG-13,Light,The Delivery Man,Light
+60,Drama,None,None,PG,None,The Christmas Candle,Light
+61,Drama,None,None,** TELEVISION GUIDE **,None,Christmas With Tucker,Light
+62,Drama,None,None,Not Rated,None,Season Of Miracles,Light
+63,Drama,None,None,Not Rated,None,The Bells Of St. Mary’S,None
+64,Comedy,Heavy,Medium,R,Light,The Best Man Holiday,Light
+65,Documentary,Light,None,Not Rated,None,Dear Mr. Watterson,None
+66,Documentary,Heavy,Light,R,Light,12-12-12,Light
+67,Action,None,Light,** TELEVISION GUIDE **,None,The Hunters,Light
+68,Reality TV,None,None,TV-G,None,Shark Tank,None
+69,Drama,Heavy,None,R,Light,About Time,Light
+70,Comedy,None,None,TV-G,None,Pete’S Christmas,Light
+71,Drama,None,None,PG,None,Christmas For A Dollar,Light
+72,Drama,None,None,PG-13,None,The Book Thief,Medium
+73,Documentary,None,None,Not Rated,None,Darwin’S Dilemma,None
+74,Drama,Light,Light,PG-13,Light,Diana,Light
+75,Drama,None,None,PG,None,Storm Rider,Light
+76,Drama,Heavy,Medium,R,Heavy,Dallas Buyers Club,Light
+77,Horror,None,None,Code Approved,None,Invasion Of The Body Snatchers,Light
+78,Comedy,Heavy,Light,PG-13,Medium,Last Vegas,Light
+79,Comedy,None,None,PG,None,Free Birds,Light
+80,Science Fiction,Light,Light,PG-13,None,Ender’S Game,Medium
+81,Mystery,Medium,Light,PG-13,Medium,Minority Report,Heavy
+82,Documentary,Medium,Light,R,Light,Fahrenheit 9/11,Heavy
+83,Comedy,Light,None,TV-PG,Light,The Michael J. Fox Show,Light
+84,Musical,None,Light,Code Approved,None,This Is The Army,Light
+85,Comedy,Heavy,Heavy,R,Heavy,Jackass Presents: Bad Grandpa,Medium
+86,Thriller,Heavy,Medium,R,Medium,The Counselor,Heavy
+87,Drama,Light,None,PG-13,None,All Is Lost,Light
+88,Drama,Medium,Heavy,R,Medium,12 Years A Slave,Heavy
+89,Drama,None,None,PG-13,None,King’S Faith,Medium
+90,Thriller,Heavy,Light,R,Light,Escape Plan,Medium
+91,Horror,Heavy,Light,R,Medium,Carrie (2013),Heavy
+92,Drama,Light,None,PG-13,Light,Beyond The Farthest Star,Medium
+93,Drama,Heavy,Medium,R,Heavy,Kill Your Darlings,Heavy
+94,Drama,Heavy,Light,R,Light,The Fifth Estate,Light
+95,Drama,Light,None,PG,Light,I’M In Love With A Church Girl,Light
+96,Thriller,Heavy,None,R,Medium,Machete Kills,Heavy
+97,Family,None,None,G,None,Iesodo,Light
+98,Drama,Light,None,PG-13,Light,Romeo And Juliet (2013),Medium
+99,Drama,Medium,Light,PG-13,None,Captain Phillips,Medium

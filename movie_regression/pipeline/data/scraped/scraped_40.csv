@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Satire,None,None,R,None,Natural Born Killers,None
+1,Film Noir,Heavy,None,R,Light,Thieves Quartet,Heavy
+2,Action,None,None,R,None,True Lies,None
+3,Drama,None,Heavy,,Medium,The Conformist,Heavy
+4,Documentary,Heavy,Heavy,,Light,Woodstock,None
+5,Drama,Heavy,Medium,N/R (Not rated--Exhibitors do not recommend these films for anyone under 18),Medium,The Boys Of St. Vincent,Medium
+6,Comedy,None,None,R,None,Bhaji On The Beach,None
+7,Drama,None,None,NR (not rated),None,A Place In The World,None
+8,Documentary,Light,None,N/R (Not rated).,Light,High School Ii,None
+9,Drama,Medium,None,NR (not rated),None,The Blue Kite,Light
+10,Documentary,None,None,Not Rated,None,The Clinton Chronicles,None
+11,Drama,None,None,N/R,None,Go Fish,None
+12,Romantic Thriller,None,None,R,None,Wolf,None
+13,Comedy,Heavy,Medium,N/R,Light,My Life’S In Turnaround,Light
+14,Drama,Heavy,Medium,Not Rated,Medium,A Man In Uniform,Medium
+15,Documentary,Light,Light,N/R,Light,Dialogues With Madwomen,Light
+16,Drama,None,None,R,None,White,None
+17,Comic drama,Medium,Light,PG-13,Light,Forrest Gump,Light
+18,Comic mystery,None,None,PG (should be PG-13),None,I Love Trouble,None
+19,Comedy,None,None,PG,None,Little Big League,None
+20,Comedy,None,None,PG,None,Baby’S Day Out,None
+21,Comedy,None,None,PG,None,Angels In The Outfield,None
+22,Family,None,None,PG,None,Lassie,None
+23,Thriller,Light,Medium,N/R,Heavy,Improper Conduct,None
+24,Comedy,None,None,R,None,Even Cowgirls Get The Blues,None
+25,Comedy,None,None,R,None,Fear Of A Black Hat,None
+26,Action drama,None,None,R,None,Blown Away,None
+27,Comedy,None,None,PG-13,None,City Slickers Ii: The Legend Of Curly’S Gold,None
+28,Action drama,None,None,R,None,Speed,None
+29,Drama,None,None,R,None,The Slingshot,None
+30,Drama,None,None,PG,None,In Custody,None
+31,Documentary,None,None,PG,None,The Endless Summer Ii,None
+32,Animated,None,None,G,None,The Lion King,None
+33,Pornographic Satire,None,None,"Not rated by the MPAA (originally assigned NC-17, but rating declined by October Films)",None,Kika,None
+34,Drama,None,None,R,None,Dream Lover,None
+35,Action,None,None,PG-13,None,The Cowboy Way,None
+36,Drama,None,None,R,None,Little Buddha,None
+37,Action,None,None,R,None,Beverly Hills Cop Iii,None
+38,Comedy,None,None,PG-13,None,Renaissance Man,None
+39,Drama,Medium,None,R,Medium,Babyfever,None
+40,Comedy,None,None,PG,None,Trading Mom,None
+41,Animated,None,None,G,None,The Princess And The Goblin,None
+42,Drama,None,None,Not yet rated by MPAA (probably PG),None,Black Beauty,None
+43,Horror,None,None,R,None,The Crow,None
+44,Drama,Heavy,Heavy,R,Medium,Germinal,Heavy
+45,Drama,None,None,R,None,The Cement Garden,None
+46,Comedy,None,None,PG-13,None,Crooklyn,None
+47,Comedy,None,None,PG-13,None,Clean Slate,None
+48,Drama,None,None,PG-13,None,The Client,None
+49,Comedy,None,None,PG,None,Getting Even With Dad,None
+50,Comic drama,Light,None,PG,None,Widow’S Peak,None
+51,Comedy,None,None,PG,None,A Million To Juan,None
+52,Documentary,Light,Light,G,None,That’S Entertainment Iii,None
+53,Comedy,None,None,PG,None,The Flintstones,None
+54,Comedy,None,None,PG-13,None,Pcu,None
+55,Western,None,None,R,None,Bad Girls,None
+56,Drama,None,None,R,None,The Favor,None
+57,Action,None,None,R,None,No Escape,None
+58,Comedy,None,None,R,None,Naked In New York,None
+59,Drama,None,None,R,None,When A Man Loves A Woman,None
+60,Western,None,None,PG-13,None,Wyatt Earp,None
+61,Action,None,None,PG,None,3 Ninjas Kick Back,None
+62,Biography,None,None,Not rated by the MPAA,None,32 Short Films About Glenn Gould,None
+63,Comedy,None,None,No MPAA Rating,None,City Lights,Light
+64,Comedy,Heavy,Medium,R,Heavy,Serial Mom,Heavy
+65,Comedy,None,None,R,None,Threesome,None
+66,Science Fiction,None,None,R,None,Brainscan,None
+67,Drama,None,None,R,None,Backbeat,None
+68,Comedy,None,None,PG,None,Cops And Robbersons,None
+69,Drama,Light,Medium,No MPAA Rating,Light,Salmonberries,None
+70,Drama,None,None,PG-13,None,Being Human,None
+71,Drama,None,Medium,No MPAA Rating,Medium,A Tale Of Winter,None
+72,Western,None,None,"Not yet rated at press time, probably PG-13",None,Maverick,None
+73,Erotic drama,None,None,R,None,Bitter Moon,None
+74,Action,None,None,R,None,Chasers,None
+75,Drama,None,None,R,None,The House Of The Spirits,None
+76,Drama,None,None,No MPAA rating,None,Suture,None
+77,Drama,None,None,No MPAA rating,None,Red Rock West,None
+78,Drama,Light,None,PG,None,White Fang 2–Myth Of The White Wolf,Light
+79,Drama,None,None,R,None,Jimmy Hollywood,None
+80,Comedy,None,None,PG,None,Clifford,None
+81,Comedy,None,None,PG-13,None,Holy Matrimony,None
+82,Animation,None,None,G,None,Thumbelina,None
+83,Drama,None,None,No MPAA Rating (would be NC-17),None,Savage Nights,None
+84,Action,Light,None,R,None,Hard Boiled,Heavy
+85,Drama,None,None,R,None,Sirens,None
+86,Comedy,None,None,R,None,Four Weddings And A Funeral,None
+87,Western Comedy,None,None,PG-13,None,Lightning Jack,None
+88,Drama,None,None,PG-13,None,The Chase,None
+89,Comedy,None,None,PG,None,Major League Ii,None
+90,Drama,None,None,R,None,The Paper,None
+91,Children's Adventure Drama,None,None,G,None,"Ele, My Friend",Light
+92,Comedy,None,None,PG,None,Monkey Trouble,None
+93,Comedy,Light,None,PG,None,D2 The Mighty Ducks,Light
+94,Drama,None,None,R,None,Sugar Hill,None
+95,Drama,Light,Medium,PG-13,Medium,Fiorile,Light
+96,Drama,None,None,R,None,China Moon,None
+97,Drama,None,None,R,None,The Inkwell,None
+98,Drama,None,None,PG-13,None,With Honors,None
+99,Comedy,None,None,R,None,The Ref,None

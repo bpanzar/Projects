@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,None,None,R,None,Guinevere,None
+1,Spoof,None,None,PG-13,None,Superstar,None
+2,Drama,None,None,R,None,Joe The King,None
+3,Romantic comedy drama,None,None,R,None,The Story Of Us,None
+4,Drama,None,None,R,None,Random Hearts,None
+5,,None,None,,None,Earth,None
+6,Drama,None,None,PG-13,None,Anywhere But Here,None
+7,Animated Myth,None,None,PG-13,None,Princess Mononoke,None
+8,Comedy,None,None,R,None,Dog Park,None
+9,Thriller,None,None,R,None,The Minus Man,None
+10,Romantic Thriller,None,None,R,None,B. Monkey,None
+11,War,None,None,R,None,Three Kings,None
+12,"Satire, Allegory, Fable",None,None,R,None,Breakfast Of Champions,None
+13,Thriller,None,None,R,None,Double Jeopardy,None
+14,Comedy,None,None,PG-13,None,Drive Me Crazy,None
+15,Drama,None,None,R,None,Mystery Alaska,None
+16,Comedy,None,None,R,None,Mumford,None
+17,Drama,None,None,PG,None,Music Of The Heart,None
+18,Children's Fantasy,None,None,G,None,The Adventures Of Elmo In Grouchland,None
+19,Spoof,None,None,Not rated,None,Stiff Upper Lips,None
+20,Drama,None,None,R,None,American Beauty,None
+21,Horror,None,None,R,None,Stir Of Echoes,None
+22,Religious Fantasy,None,None,R,None,Stigmata,None
+23,Comedy,None,None,R,None,Love Stinks,None
+24,Comedy,None,None,R,None,Loutside Providence,None
+25,Action,None,None,PG-13,None,Blue Streak,None
+26,Film Noir,None,None,R,None,The Limey,None
+27,Romantic Sports Drama,None,None,PG-13,None,For Love Of The Game,None
+28,Comedy,None,None,PG-13,None,The Very Thought Of You,None
+29,Real Life Drama,None,None,G,None,The Straight Story,None
+30,Comedy,None,None,Not rated by MPAA,None,Relax…It’S Just Sex,None
+31,Drama,None,None,Not rated by MPAA,None,Better Than Chocolate,None
+32,Comedy,Heavy,Heavy,R,Medium,Detroit Rock City,Medium
+33,Drama,None,None,PG-13,None,Brokedown Palace,None
+34,Drama,None,None,R,None,The Adventures Of Sebastian Cole,None
+35,Drama,None,None,R,None,Illuminata,None
+36,Perverse Romance,None,None,R,None,Trick,None
+37,Thriller,None,None,PG-13,None,The Sixth Sense,None
+38,Comedy,None,None,PG-13,None,Dick,None
+39,Biography,None,None,PG-13,None,My Life So Far,None
+40,Comedy Adventure,None,None,PG-13,None,Mystery Men,None
+41,Crime,None,None,R,None,The Thomas Crown Affair,None
+42,Comedy,None,None,R,None,Mickey Blue Eyes,None
+43,Horror,None,None,R,None,Deep Blue Sea,None
+44,Drama,None,None,PG,None,Autumn Tale,None
+45,Comedy,None,None,PG,None,Runaway Bride,None
+46,Animated,Medium,None,PG,None,The Iron Giant,Light
+47,Drama,None,None,Not rated,None,After Life,None
+48,Documentary,None,None,Not rated,None,Genghis Blues,None
+49,Pornographic Thriller,None,None,R,None,Eyes Wide Shut,None
+50,Drama,None,None,,None,The Rogue Trader,None
+51,Comedy,None,None,R,None,The Wood,None
+52,Comedy,None,None,PG-13,None,The Dinner Game,None
+53,Fantasy-Comedy,None,None,PG,None,Inspector Gadget,None
+54,Animated Pornography,None,None,R,None,"South Park: Bigger, Longer And Uncut",None
+55,Drama,None,None,R,None,My Son The Fanatic,None
+56,Drama,None,None,,None,Twin Falls Idaho,None
+57,Drama,None,None,R,None,Summer Of Sam,None
+58,Drama,None,None,,None,The Dream Catcher,None
+59,Comedy,None,None,R,None,Free Enterprise,None
+60,Drama,None,None,Not rated by MPAA,None,The Red Violin,None
+61,Hong Kong action film,None,None,R,None,Black Mask,None
+62,"Crime drama, suspense",None,None,Not rated by MPAA,None,The Swindle,None
+63,Comedy,None,None,PG-13,None,Lost And Found,None
+64,Comedy,None,None,PG-13,None,William Shakespeare’S A Midsummer Night’S Dream,None
+65,Comedy,None,None,Not yet rated,None,No Vacancy,None
+66,Documentary,None,None,PG,None,Hands On A Hard Body,None
+67,Comedy,None,None,R,None,S.L.C. Punk,None
+68,Drama,None,None,R,None,The Dream Life Of Angels,None
+69,Teen comedy,None,None,PG-13,None,Ten Things I Hate About You,None
+70,Drama,None,None,R,None,A Walk On The Moon,None
+71,Animated,None,None,G,None,Doug’S 1St Movie,None
+72,Drama,None,None,Not rated by MPAA,None,Hamam  Steam: The Turkish Bath,None
+73,Horror,None,None,R,None,The Rage: Carrie Ii,None
+74,Drama,None,None,R,None,The School Of Flesh:  L’Ecole De La Chair,None
+75,Animated Musical,None,None,G,None,The King And I,None
+76,Drama,None,None,Not rated,None,The Land Of The Deaf,None
+77,Thriller,None,None,R,None,Eight Millimeter (8Mm),None
+78,Drama,None,None,PG-13,None,The Other Sister,None
+79,Drama,None,None,R,None,My Name Is Joe,None
+80,Stand-up Comedy,None,None,PG-13,None,God Said Ha!,None
+81,Drama,None,None,Not rated,None,Like It Is,None
+82,Drama,None,None,Not rated,None,Levitation,None
+83,Drama,None,None,R,None,"Niagara, Niagara",None
+84,Comedy,None,None,Not rated,None,Talk To Me (1999),None
+85,Science fiction thriller,None,None,R,None,Virus,None
+86,Drama,None,None,Not rated,None,The Ogre,None
+87,Post WWII Western Drama,None,None,R,None,The Hi-Lo Country,None
+88,Drama,None,None,R,None,The General,None
+89,Science fiction thriller,None,None,R,None,The Faculty,None
+90,Social drama,None,None,R,None,Pariah,None
+91,Drama,None,None,R,None,Hurlyburly,None
+92,Drama,None,None,R,None,Hilary And Jackie,None
+93,Drama,None,None,R,None,Playing By Heart,None
+94,Drama,None,None,R,None,Outsize Ozona,None
+95,Drama,None,None,R,None,Another Day In Paradise,None
+96,Drama,None,None,R,None,The Theory Of Flight,None
+97,Musical,None,None,R,None,Little Voice,None
+98,War,None,None,R,None,The Thin Red Line,None
+99,Drama,None,None,R,None,Shakespeare In Love,None

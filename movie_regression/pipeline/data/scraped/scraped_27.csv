@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Comedy,Light,None,PG,Light,Born Yesterday,Light
+1,Romance,Medium,None,G,None,A Far Off Place,Medium
+2,Drama,Light,None,PG,Light,Benny & Joon,Light
+3,Drama,None,None,PG-13,None,The Judas Project,Medium
+4,Drama,Light,None,G,None,Where The Red Fern Grows,None
+5,Comedy Neo-realism mixed with animation,None,Heavy,R,Medium,Volere Volare,Light
+6,Thriller,Medium,None,R,Light,The Vanishing,Heavy
+7,Action-adventure,Light,None,PG,None,Teenage Mutant Ninja Turtles Iii,Heavy
+8,Surreal Drama,Medium,None,R,None,The Giving,Medium
+9,Thriller,Heavy,None,R,Medium,The Temp,None
+10,Drama,Heavy,Medium,R,Light,Mac,Heavy
+11,Comedy,None,None,PG-13,Light,Amos And Andrew,Light
+12,Comedy,Light,None,PG,Light,Groundhog Day,Light
+13,Drama,Light,Light,PG-13,Light,Swing Kids,Medium
+14,Drama,Light,None,No MPAA rating,Light,The Stolen Children (Il Ladro Di Bambini),Light
+15,Surrealistic fantasy,None,None,Not submitted to MPAA,None,"Dr. Seuss’S The 5,000 Fingers Of Dr.T",Light
+16,Surreal Fable,Medium,Light,R,Medium,Motorama,Medium
+17,Comedy-Thriller,Heavy,Heavy,R,Heavy,Hexed,Heavy
+18,Action-thriller,Heavy,None,R,Light,Sniper,Heavy
+19,Drama,Medium,None,PG,Medium,The Cemetery Club,Light
+20,Comedy (Police-action parody),Medium,Medium,PG-13,Medium,National Lampoon’S Loaded Weapon,Heavy
+21,Comedy,Light,None,PG,Light,Matinee,Light
+22,Documentary,Light,Light,Not submitted to MPAA,None,Deadly Currents,Light
+23,Comedy,None,None,PG,Light,Strictly Ballroom,None
+24,Drama,Light,None,Foreign film not rated (New Zealand),None,The End Of The Golden Weather,Light
+25,Horror,Medium,None,R,None,Leprechaun,Heavy
+26,Erotic thriller,Heavy,Heavy,R,Heavy,Body Of Evidence,Heavy
+27,Drama,Heavy,None,R,None,Falling Down,Heavy
+28,Drama,Light,None,PG-13,Medium,Sommersby,Medium
+29,Action romance,Medium,Medium,R,Medium,Nowhere To Run,Heavy
+30,Drama,Medium,Medium,PG-13,Light,Aspen Extreme,None
+31,Documentary,Light,None,No MPAA rating,None,Brother’S Keeper,None
+32,Children,None,None,Not submitted to MPAA,None,The Gospel According To St. Bernard:,None
+33,Documentary,None,None,Not rated by MPAA,None,Ring Of Fire,Light
+34,Children's horror,Light,None,PG,Light,Munchie,Medium
+35,Action-Adventure,Heavy,None,R,None,Trespass,Heavy
+36,Science Fiction,Light,None,PG-13,None,Rain Without Thunder,Light
+37,Detective Murder-mystery,Medium,Medium,R,Medium,Sketch Artist,Light
+38,Drama,Light,Medium,R,Heavy,Damage,None
+39,Feature documentary,Light,Light,No MPAA rating,None,Intervista,None
+40,Drama,Light,None,G,None,Where The Red Fern Grows: Part 2,Light
+41,Drama,None,None,Not yet submitted to MPAA,None,Just A Chance,Medium
+42,Drama,Heavy,Heavy,R,Heavy,Hoffa,Heavy
+43,Drama,Medium,None,PG-13,Light,Untamed Heart,Medium
+44,Drama,Heavy,None,R,Light,Passion Fish,None
+45,Biography,Medium,Medium,PG-13,Medium,Chaplin,None
+46,Drama,Heavy,None,R,Light,Scent Of A Woman,Light
+47,Drama,Medium,None,Not yet submitted to the MPAA,None,Family Prayers,Light
+48,Drama,Light,None,PG-13,None,Alive,Light
+49,Comedy-drama,Light,None,PG-13,Light,Used People,None
+50,Drama,None,None,PG-13,None,Lorenzo’S Oil,Light
+51,Drama,None,None,R,None,The Sheltering Sky,None
+52,Drama,None,None,R,None,Hidden Agenda,None
+53,Police-Action,None,None,PG-13,None,Kindergarten Cop,None
+54,Comedy,None,None,PG,None,Almost An Angel,None
+55,Comedy,None,None,PG-13,None,Green Card,None
+56,Drama,None,None,PG-13,None,Not Without My Daughter,None
+57,Dramatic Tragedy,None,None,PG,None,Hamlet (1990),None
+58,Romance,None,None,R,None,The Russia House,None
+59,Satire,None,None,R,None,Bonfire Of The Vanities,None
+60,Science Fiction,None,None,PG-13,None,Edward Scissorhands,None
+61,Comedy,None,None,PG or PG-13 (Not rated when screened),None,Look Who’S Talking Too,None
+62,Drama,None,None,PG-13,None,Cadence,None
+63,Historical Drama,None,None,Not rated when screened,None,Come See The Paradise,None
+64,Medical Drama,None,None,PG-13,None,Awakenings,None
+65,Thriller,None,None,R,None,Alligator Eyes,None
+66,Historical Biography,Heavy,Heavy,PG-13,Heavy,Vincent And Theo,Heavy
+67,Drama,None,None,R,None,The Krays,None
+68,Drama,None,None,R,None,Mr. Frost,None
+69,Science-fiction,None,None,R,None,Predator Ii,None
+70,Science-fiction,None,None,PG,None,Robot Jox,None
+71,Comedy,None,None,PG-13,None,Mermaids,None
+72,Animation,None,None,G,None,The Nutcracker Prince,None
+73,Comedy,None,None,PG,None,Home Alone,None
+74,Drama,None,None,R,None,Sonny Boy,None
+75,Drama,None,None,R,None,Jacob’S Ladder,None
+76,Suspense,None,None,Not rated when screened (probably PG-13 or R),None,Misery,None
+77,Drama,None,None,PG probably,None,Dances With Wolves,None
+78,Comedy,None,None,PG-13,None,Tune In Tomorrow,None
+79,Drama,None,None,PG-13,None,The Nasty Girl,None
+80,Horror,Light,Medium,R,Light,Frankenstein Unbound,Medium
+81,Comedy,None,None,PG-13,None,Leningrad Cowboys Go America,None
+82,Comedy,None,None,PG,None,Three Men And A Little Lady,None
+83,Children's Animation,None,None,G,None,The Rescuers Down Under,None
+84,Horror,None,None,R,None,Child’S Play 2,None
+85,Horror,None,None,R,None,Stephen King’S  Graveyard Shift,None
+86,Comedy,None,None,Not rated when screened. Probably R?,None,Book Of Love,None
+87,Suspense-Drama,None,None,R,None,Run,None
+88,Drama,None,None,R,None,White Palace,None
+89,Drama,None,None,PG-13,None,The Fifth Monkey,None
+90,Musical,None,None,PG-13,None,Graffiti Bridge,None
+91,Drama,None,None,Not rated,None,C’Est La Vie,None
+92,Documentary,None,None,PG-13,None,Listen Up:  The Lives Of Quincy Jones,None
+93,Comedy-Drama,None,None,,None,Waiting For The Light,None
+94,Drama,None,None,"Not rated when screened, but probably PG",None,Rocky V,None
+95,Drama,None,None,R,None,Reversal Of Fortune,None
+96,Romantic Tragedy,None,None,PG,None,Cyrano De Bergerac,None
+97,Drama,None,None,NC-17,None,Henry And June,None
+98,Drama,None,None,R,None,State Of Grace,None
+99,Drama,None,None,R,None,The Hot Spot,None

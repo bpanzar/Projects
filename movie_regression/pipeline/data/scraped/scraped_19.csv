@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Police Thriller,Medium,Medium,PG-13,Medium,Alex Cross,Medium
+1,Thriller,Heavy,Medium,R,Medium,Seven Psychopaths,Heavy
+2,Horror,Medium,Light,R,None,Sinister,Heavy
+3,Drama,Light,None,PG,None,Little Red Wagon,Light
+4,Documentary,Light,None,Not Rated,Light,Hellbound?,None
+5,Comedy,Light,None,Not Rated,Light,Liberal Arts,None
+6,Drama,Medium,Light,Not Rated,Medium,Wuthering Heights,Medium
+7,Action,None,Light,R,None,Solomon Kane,Heavy
+8,Drama,Heavy,Light,PG-13,Medium,Perks Of Being A Wallflower,Medium
+9,Thriller,Medium,Light,PG-13,Light,House At The End Of The Street,Medium
+10,Drama,Heavy,Medium,R,Medium,End Of Watch,Heavy
+11,Documentary,None,None,Not Rated,Light,It’S A Girl,Medium
+12,Drama,Heavy,Heavy,R,Medium,The Master,Medium
+13,Drama,Heavy,None,R,Light,Arbitrage,Medium
+14,Drama,Heavy,None,PG-13,Light,10 Years,None
+15,Thriller,Heavy,None,R,Light,The Tall Man,Medium
+16,Drama,Medium,Heavy,Not Rated,Heavy,Keep The Lights On,None
+17,Drama,Heavy,Medium,R,Heavy,Compliance,Light
+18,Action,Light,None,R,None,The Flying Swords Of Dragon Gate,Medium
+19,Drama,Medium,Medium,PG-13,Light,Chicken With Plums,Medium
+20,Comedy,Heavy,None,R,Heavy,Bachelorette,Light
+21,Comedy,Heavy,Heavy,R,Heavy,The Inbetweeners Movie,Light
+22,Drama,Medium,Light,PG-13,Light,The Words,Light
+23,Sports Comedy,None,None,PG,None,Thunderstruck,Light
+24,Drama,Light,None,PG-13,Light,Trade Of Innocents,Medium
+25,Drama,Light,None,Not Rated,None,I Am. . .  Gabriel,Light
+26,Drama,None,None,PG-13,None,Unconditional,Medium
+27,Family,None,None,G,None,The Oogieloves In The Big Balloon Adventure,None
+28,Documentary,None,None,Not Rated,None,The Laughing Pizza Family Band,None
+29,Drama,None,None,PG-13,None,Jerusalem Countdown,Medium
+30,Documentary,Light,Light,PG,Light,Queen Of Versailles,None
+31,Drama,Medium,Medium,R,Medium,The Matchmaker (2012),None
+32,Drama,None,None,Not Rated,None,After The Wizard,None
+33,Documentary,None,None,Not Rated,None,Evidence Of Design,None
+34,Documentary,None,None,Not Rated,None,The Amazing Tarsier:  Evolved Or Created?,None
+35,Comedy,Medium,Light,Not Rated,Light,Sleepwalk With Me,Light
+36,Thriller,Heavy,Medium,R,Medium,Easy Money,Heavy
+37,Drama,None,None,PG,None,Last Ounce Of Courage,Light
+38,Drama,Heavy,Heavy,R,Medium,2 Days In New York,None
+39,Drama,Heavy,None,PG-13,None,Robot & Frank,None
+40,Drama,Medium,Heavy,R,Heavy,Cosmopolis,Heavy
+41,Drama,Medium,None,R,Light,Red Hook Summer,Medium
+42,Drama,Light,Light,TV-PG,None,Somebody’S Child,None
+43,Game Show,None,None,TV-PG,None,American Bible Challenge,None
+44,Action,Heavy,Heavy,R,Medium,Hit And Run,Medium
+45,Science Fiction,Heavy,Medium,R,Medium,Cloud Atlas,Heavy
+46,Drama,None,Light,PG,None,Chasing Mavericks,None
+47,Comedy,Heavy,Light,R,Heavy,"For A Good Time, Call",Light
+48,Comedy,Heavy,Heavy,R,Medium,The Babymakers,Medium
+49,Western,Light,Light,PG,None,Redemption: For Robbing The Dead,Medium
+50,Drama,None,None,Not Rated,None,Race To The Finish,Light
+51,Drama,Heavy,Medium,R,Medium,Lawless,Heavy
+52,Horror,Heavy,None,R,Light,Paranormal Activity 4,Medium
+53,Musical,Heavy,Light,PG-13,Light,Pitch Perfect,Light
+54,Drama,Heavy,Light,PG-13,Light,Trouble With The Curve,Light
+55,Drama,Light,None,PG,None,Won’T Back Down,None
+56,Comedy,Light,Light,PG,None,Here Comes The Boom,Medium
+57,Comedy,Medium,Light,PG-13,Medium,Fun Size,Light
+58,Thriller,Medium,Light,PG-13,Light,Taken 2,Medium
+59,Science Fiction,None,None,PG,None,Frankenweenie,Light
+60,Science Fiction,Heavy,Medium,R,Light,Looper,Heavy
+61,Science Fiction,Heavy,None,R,Light,Dredd,Heavy
+62,Comedy,None,None,PG,Light,Hotel Transylvania,Light
+63,Thriller,Medium,Medium,R,None,Resident Evil: Retribution,Heavy
+64,Drama,Heavy,Light,R,None,Argo,Light
+65,Family,Light,None,G,None,Finding Nemo 3D (Re-Release),Light
+66,Horror,Medium,None,PG-13,None,The Possession,Medium
+67,Thriller,Medium,None,PG-13,Light,Premium Rush,Medium
+68,Action,Heavy,Light,R,None,The Expendables 2,Heavy
+69,Science Fiction,Heavy,Medium,PG-13,Light,Total Recall (2012),Heavy
+70,Musical,Medium,None,PG-13,Light,Sparkle,Medium
+71,Drama,Medium,Light,PG,Light,Atlas Shrugged Part Ii,Light
+72,Comedy,Light,Light,PG,None,Diary Of A Wimpy Kid: Dog Days,Light
+73,Horror,Medium,Light,PG-13,Light,The Apparition,Medium
+74,Drama,Heavy,Light,PG-13,Light,Bernie,Light
+75,Thriller,Medium,Medium,R,Medium,Headhunters,Heavy
+76,Horror,Heavy,Heavy,R,Heavy,Piranha 3Dd,Heavy
+77,Comedy,Medium,None,,Medium,Hysteria,Light
+78,Documentary,None,None,G,None,To The Artic 3D,Light
+79,Science Fiction,Heavy,Light,PG-13,Light,Lockout,Heavy
+80,Drama,Heavy,None,PG-13,Light,Touchback,Light
+81,Documentary,Medium,Light,PG-13,Light,Comic-Con Episode Iv:  A Fan’S Hope,Light
+82,Comedy,Light,Light,,None,We Have A Pope,Light
+83,Drama,Light,None,PG-13,None,Monsieur Lazhar,Light
+84,Science Fiction,Heavy,Light,R,Light,Prometheus,Heavy
+85,Musical,Heavy,Medium,PG-13,Medium,Rock Of Ages,Light
+86,Thriller,Heavy,Light,R,None,Safe (2012),Heavy
+87,Comedy,Heavy,Heavy,R,Medium,The Five-Year Engagement,Light
+88,Drama,Medium,Light,PG-13,Medium,The Lucky One,Medium
+89,Science-fiction,Light,None,PG,None,Star Wars,Medium
+90,Drama,Heavy,None,R,Light,Albino Alligator,Heavy
+91,Horror,Heavy,Light,R,None,The Relic,Heavy
+92,Comedy,Light,Light,PG-13,Light,Beverly Hills Ninja,Medium
+93,Action-adventure,Heavy,None,R,Light,Turbulence,Heavy
+94,Drama,Medium,Medium,PG-13,Light,Of Love And War,Medium
+95,Thriller,Heavy,Light,R,Light,Metro,Heavy
+96,Drama,Heavy,Light,PG,None,The Whole Wide World,None
+97,Action-Adventure,None,Light,PG-13,Light,First Strike,Heavy
+98,Drama,Light,Light,Unrated by MPAA,Light,Walkabout,Heavy
+99,Drama,Heavy,Medium,R,Light,Touch,Medium

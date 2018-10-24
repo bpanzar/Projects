@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,Heavy,Not Rated,Medium,Beasts Of No Nation,Heavy
+1,Action Adventure,None,None,Not Rated,Light,The Assassin,Light
+2,Horror,Light,Medium,R,Light,Goodnight Mommy,Heavy
+3,Horror,Light,Light,R,Medium,Crimson Peak,Heavy
+4,Drama,None,None,PG,None,Woodlawn,Light
+5,Spy Movie,Medium,None,PG-13,None,Bridge Of Spies,Light
+6,Comedy,Medium,None,PG-13,None,Goosebumps,Medium
+7,Fantasy,Light,None,PG,None,Pan,Light
+8,Documentary,Light,None,PG-13,None,He Named Me Malala,Light
+9,Drama,Heavy,None,R,None,Truth,None
+10,Documentary,None,None,Not Rated,None,The Sacred Meaning Of China’S Altar Of Heaven,None
+11,Drama,Heavy,None,R,Light,99 Homes,Medium
+12,Drama,Light,None,PG-13,Light,Just Let Go,Medium
+13,Drama,Medium,Light,PG,Light,The Walk,Light
+14,Science Fiction,Heavy,Light,PG-13,None,The Martian,Medium
+15,Drama,Heavy,Light,R,Light,Mississippi Grind,Light
+16,Horror,Heavy,Heavy,R,Medium,The Green Inferno,Heavy
+17,Animated,None,Light,PG,None,Hotel Transylvania 2,Medium
+18,Romantic Comedy,None,Light,PG,None,Pitching Love And Catching Faith,None
+19,Comedy,Heavy,None,PG-13,Light,The Intern,None
+20,Thriller,Heavy,Light,R,Light,Sicario,Heavy
+21,Gangster Movie,Heavy,None,R,Light,Black Mass,Heavy
+22,Science Fiction,Medium,None,PG-13,None,The Maze Runner: The Scorch Trials,Medium
+23,Drama,Medium,None,PG-13,Light,Pawn Sacrifice,Light
+24,Drama,Light,Light,PG-13,Light,Captive,Medium
+25,Drama,Light,Light,R,Medium,Labyrinth Of Lies,Light
+26,Comedy,Heavy,Heavy,R,Light,Digging For Fire,Light
+27,Thriller,Heavy,Light,PG-13,Medium,The Perfect Guy,Medium
+28,Comedy,Heavy,Light,R,Heavy,Dirty Weekend,Light
+29,Drama,Medium,None,Not Rated,None,A Brilliant Young Mind,Medium
+30,Animated,None,None,PG-13,Light,Un Gallo Con Muchos Huevos,Medium
+31,Romantic Comedy,Medium,Light,R,Medium,She’S Funny That Way,None
+32,Documentary,Medium,None,PG-13,Light,Iris (2015),None
+33,Romantic Comedy,Medium,Medium,R,Light,People Places Things,Light
+34,Action Adventure,Light,None,PG-13,None,Everest (2015),Medium
+35,Romance,Medium,None,PG-13,Light,Before We Go,Light
+36,Drama,None,None,PG-13,Light,Coming Home (2015),Light
+37,Documentary,None,None,Not Rated,None,Living Waters,None
+38,Thriller,Medium,Light,PG-13,Light,The Transporter Refueled,Medium
+39,Comedy,Heavy,Light,R,Light,A Walk In The Woods,Light
+40,Thriller,Medium,Light,PG-13,None,The Visit,Heavy
+41,Action Adventure,None,Medium,R,Light,Dragon Blade,Heavy
+42,Drama,Light,Light,Not Rated,Light,Bajrangi Bhaijaan,Medium
+43,Drama,None,None,PG,None,War Room,None
+44,Drama,Heavy,Medium,R,Medium,We Are Your Friends,Medium
+45,Drama,Light,None,PG-13,None,Ride The Thunder,Medium
+46,Thriller,Medium,Light,R,None,Hitman:  Agent 47,Heavy
+47,Documentary,Medium,Medium,R,Light,Steve Jobs: The Man In The Machine,Light
+48,Comedy,Heavy,Medium,R,Light,American Ultra,Heavy
+49,Science Fiction,Light,Light,PG-13,Medium,Z For Zachariah,Light
+50,Horror,Heavy,None,R,None,Sinister 2,Heavy
+51,Animated,Medium,None,Not Rated,None,Dragon Ball Z:  Resurrection ‘F’,Medium
+52,Mystery,Heavy,None,R,Medium,Dark Places,Heavy
+53,Drama,None,None,PG,None,War Room,None
+54,Drama,Light,None,PG-13,Heavy,Jenny’S Wedding,Light
+55,Thriller,Heavy,Light,Not Rated,Light,10 Cent Pistol,Heavy
+56,Comedy,Heavy,Light,R,Light,Mistress America,None
+57,Spy Movie,Light,Medium,PG-13,Light,The Man From U.N.C.L.E.,Medium
+58,Comedy,Heavy,Medium,R,Medium,Learning To Drive,Light
+59,Drama,Heavy,Medium,R,Medium,Straight Outta Compton,Medium
+60,"Drama, Thriller",Heavy,Light,Not Rated,Light,Big Sky,Heavy
+61,Thriller,None,None,Not Rated,Light,Junction,Heavy
+62,Drama,Heavy,Medium,R,Medium,The Runner,Light
+63,Thriller,Heavy,None,R,Light,The Gift,Light
+64,Drama,Medium,None,PG-13,Light,Ricki And The Flash,Light
+65,Drama,Heavy,None,R,Light,The End Of The Tour,None
+66,Animated,None,Light,PG,None,Shaun The Sheep Movie,Light
+67,Romantic Comedy,Heavy,Medium,R,Medium,Some Kind Of Beautiful,Light
+68,Drama,Heavy,Heavy,R,Heavy,Strangerland,Medium
+69,Drama,None,Light,Not Rated,Light,Once We Were Slaves,Medium
+70,Thriller,Heavy,None,R,Light,Cop Car,Heavy
+71,Documentary,Light,None,G,Light,A Lego Brickumentary,None
+72,Comedy,Heavy,Heavy,R,Medium,Vacation (2015),Medium
+73,Thriller,Light,Light,PG-13,Light,Mission:  Impossible – Rogue Nation,Medium
+74,Drama,None,None,Not Rated,None,Princess Cut,Light
+75,Documentary,None,None,Not Rated,None,The Drop Box,None
+76,Romance,Heavy,Light,PG-13,Light,Paper Towns,Light
+77,Comedy,Heavy,None,R,Medium,Grandma,Light
+78,Comedy,Light,None,PG,None,Road To The Open,Light
+79,Drama,Heavy,Light,R,Light,Southpaw,Heavy
+80,Documentary,Light,Light,R,Medium,An Open Secret,Medium
+81,Comedy,Heavy,None,PG-13,Light,Pixels,Medium
+82,Romantic Comedy,Heavy,Medium,R,Heavy,Trainwreck,Medium
+83,Science Fiction,Heavy,Light,PG-13,None,Ant-Man,Medium
+84,Mystery,None,None,PG,None,Mr. Holmes,Light
+85,Drama,None,None,Not Rated,None,Wings Of The Wind,Light
+86,Documentary,Heavy,Light,R,Light,Amy,None
+87,Horror,Heavy,None,R,None,The Gallows,Medium
+88,Animated,None,None,G,None,Theo:  Justification,None
+89,Documentary,Light,Medium,Not Rated,Medium,Best Of Enemies,Medium
+90,Science Fiction,Medium,Medium,PG-13,Medium,Self/Less,Heavy
+91,Comedy,Heavy,None,R,Medium,Ted 2,Light
+92,Drama,None,Light,PG,None,Different Drummers,Light
+93,Comedy,None,Light,PG,None,Minions,Medium
+94,Drama,Medium,None,R,Light,Irrational Man,Medium
+95,Drama,Heavy,Medium,R,Medium,Magic Mike Xxl,Light
+96,Science Fiction,Heavy,Light,PG-13,Light,Terminator Genisys,Heavy
+97,Drama,None,None,PG-13,None,Faith Of Our Fathers,Light
+98,Documentary,None,None,PG,None,Batkid Begins,None
+99,Drama,Light,None,PG,None,Max,Medium

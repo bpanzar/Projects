@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Medium,None,PG-13,Light,Chappaquiddick,Medium
+1,Comedy,Medium,Light,PG-13,Medium,Finding Your Feet,None
+2,Drama,None,None,PG,None,God’S Not Dead: A Light In Darkness,Light
+3,Action Adventure,Heavy,Light,PG-13,Light,Ready Player One,Medium
+4,Drama,None,None,G,None,Benji (2018),Light
+5,Drama,Medium,Medium,Not Rated,Medium,Back To Burgundy,Light
+6,Romance,Medium,Light,PG-13,Light,Midnight Sun,None
+7,Thriller,Heavy,None,R,Medium,Unsane,Heavy
+8,Animated,None,Light,PG,None,Sherlock Gnomes,Light
+9,Biblical Drama,None,None,PG-13,Light,"Paul, Apostle Of Christ",Medium
+10,Animated,Light,Light,PG-13,Light,Isle Of Dogs,Medium
+11,Science Fiction,Heavy,Light,PG-13,Light,Pacific Rim: Uprising,Medium
+12,Drama,Light,None,PG-13,None,7 Days In Entebbe,Medium
+13,Drama,None,None,,Light,Like Arrows,None
+14,Drama,None,None,PG,None,I Can Only Imagine,Light
+15,Thriller,Medium,None,PG-13,None,Tomb Raider (2018),Medium
+16,Comedy,Light,None,PG-13,Light,Getting Grace,Light
+17,Romance,Heavy,Light,PG-13,Medium,"Love, Simon",None
+18,Thriller,Heavy,None,PG-13,Light,The Hurricane Heist,Heavy
+19,Comedy,Heavy,None,R,Light,The Death Of Stalin,Heavy
+20,Horror,Heavy,None,R,None,The Strangers: Prey At Night,Heavy
+21,Comedy,Heavy,Light,R,Medium,Gringo,Medium
+22,Drama,None,None,N/A,Light,My Daddy’S In Heaven,Medium
+23,Science Fiction,None,None,PG,None,A Wrinkle In Time (2018),Light
+24,Comedy,Heavy,Medium,R,Light,Thoroughbreds,Heavy
+25,Animated,None,None,G,None,Ice Dragon:  Legend Of The Blue Daisies,Light
+26,Mystery,Heavy,Light,R,Light,Detective Chinatown 2,Heavy
+27,Animated,None,None,PG,None,Mary And The Witch’S Flower,Light
+28,Thriller,Heavy,Light,R,Light,Death Wish (2018),Heavy
+29,Drama,Heavy,Heavy,R,Heavy,Ismael’S Ghosts,Heavy
+30,Drama,Heavy,Heavy,R,Medium,Final Portrait,Light
+31,Spy Movie,Heavy,Heavy,R,Heavy,Red Sparrow,Heavy
+32,Drama,Medium,Light,Not Rated,Light,The Young Karl Marx,Medium
+33,Romance,Medium,Light,PG-13,Medium,Every Day (2018),Light
+34,Comedy,Heavy,Light,R,Medium,Game Night,Medium
+35,Science Fiction,Heavy,Light,R,Medium,Annihilation,Heavy
+36,Drama,Light,Heavy,R,Medium,Foxtrot,Medium
+37,Drama,Medium,Medium,R,Light,A Fantastic Woman,Light
+38,"Family, Comedy, Action",Light,Light,Not Rated,None,Shifting Gears (2018),Light
+39,Romantic Comedy,Heavy,Light,R,Light,La Boda De Valentina,Light
+40,Biopic,Heavy,Heavy,Not Rated,Medium,A Futile And Stupid Gesture,Light
+41,Comedy,Heavy,None,R,Medium,The Party (2017),Medium
+42,Science Fiction,Light,Light,PG-13,None,Black Panther,Medium
+43,Comedy,Light,Light,PG,None,Peter Rabbit (2018),Light
+44,Drama,Medium,Light,Not Yet Rated,Light,The 33,Medium
+45,Drama,None,None,N/A,Light,Broken & Beautiful,None
+46,Romance,Heavy,Medium,R,Heavy,Fifty Shades Freed,Medium
+47,Drama,None,Light,PG-13,Light,Samson,Medium
+48,Drama,Heavy,Light,PG-13,Light,The 15:17 To Paris,Medium
+49,Drama,None,None,Not Rated,Light,Sacred Vow,None
+50,Animated,None,Light,PG,None,Early Man,Light
+51,Documentary,None,Light,Not Rated,None,Amazon Arising: Joy In The Jungle,Light
+52,Comedy,None,None,Not Rated,Light,Altar Egos,Light
+53,Horror,Light,None,,Light,Winchester,Medium
+54,Drama,Heavy,Heavy,R,Heavy,All I See Is You,Medium
+55,Science Fiction,Heavy,None,PG-13,None,Maze Runner: The Death Cure,Medium
+56,,Light,None,PG-13,Light,Crooked House,Light
+57,Documentary,None,None,Not Rated,Light,Connect,None
+58,Documentary,Light,None,Not Rated,None,The Final Year,Light
+59,Fantasy,Medium,None,PG,None,Mighty Joe Young,Medium
+60,Thriller,Heavy,Medium,R,Light,Den Of Thieves,Medium
+61,Animation,Light,Light,PG,None,Condorito: The Movie,Light
+62,Drama,Light,Light,PG,Light,Forever My Girl,None
+63,Thriller,Medium,Light,R,Light,Proud Mary,Heavy
+64,Drama,Light,None,Not Rated,None,Youth (2017),Heavy
+65,Drama,Light,None,Not Rated,None,Chasing The Star,Light
+66,Fantasy,Medium,None,PG-13,Light,"Journey To The West, The Demons Strike Back",Heavy
+67,Action Adventure,Light,None,Not Rated,None,Kung Fu Yoga,Medium
+68,Romance,Light,Light,Not Rated,Light,Columbus,None
+69,Thriller,Medium,None,,None,The Commuter,Medium
+70,Comedy,Light,None,PG,None,Paddington 2,Light
+71,Horror,Light,None,PG-13,None,Insidious: The Last Key,Medium
+72,Drama,None,Heavy,R,Medium,The Exception,None
+73,Drama,Heavy,None,R,None,12 Strong,Medium
+74,Drama,Heavy,None,Not Rated,Medium,The Battleship Island,Heavy
+75,Comedy,Light,Medium,Not Rated,None,The Women’S Balcony,Light
+76,Drama,Heavy,Light,R,Medium,Mudbound,Heavy
+77,Drama,Medium,Light,R,Light,In The Fade,Heavy
+78,Fantasy,Heavy,Medium,NR,Light,Bright,Heavy
+79,Drama,Medium,Medium,R,Light,Phantom Thread,Light
+80,Comedy,Heavy,Light,R,Medium,Father Figures,Medium
+81,Western,Medium,None,R,Light,Hostiles,Heavy
+82,Musical,Light,Light,PG,Light,The Greatest Showman,Light
+83,Documentary,None,None,PG-13,Light,Alien Intrusion:  Unmasking A Deception,Light
+84,Comedy,Medium,None,PG-13,Light,Pitch Perfect 3,Light
+85,Drama,Medium,Medium,R,Light,All The Money In The World,Heavy
+86,Drama,Light,Light,R,Light,Happy End,Light
+87,Drama,Medium,Medium,R,Medium,My Friend Dahmer,Heavy
+88,Drama,Heavy,None,R,Medium,The Leisure Seeker,Light
+89,Animation,None,None,PG,None,Ferdinand,Light
+90,Comedy,Heavy,None,PG-13,Light,Jumanji: Welcome To The Jungle,Medium
+91,Science Fiction,Light,Light,PG-13,None,Star Wars:  The Last Jedi,Medium
+92,Animated,None,None,PG,None,Yu-Gi-Oh!:  The Dark Side Of Dimensions,Medium
+93,Drama,Heavy,None,PG-13,None,The Post,Medium
+94,Drama,Heavy,Medium,R,Medium,Film Stars Don’T Die In Liverpool,Light
+95,Drama,Light,Light,Not Rated,None,Viceroy’S House,Medium
+96,Documentary,None,Light,Not Rated,Medium,Jane,Light
+97,Comedy,Heavy,None,PG-13,Light,Just Getting Started,Light
+98,Crime Drama,Heavy,None,R,Light,Molly’S Game,Medium
+99,Comedy,Heavy,Heavy,R,Medium,The Disaster Artist,Light

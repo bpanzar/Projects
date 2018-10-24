@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,Light,"R for pervasive drug and alcohol abuse, language and some sexual content/nudity",Heavy,It’S All Gone Pete Tong,Light
+1,Drama,Light,Heavy,R,Medium,Modigliani,Medium
+2,Action,Heavy,Light,PG-13,Medium,Mr. And Mrs. Smith,Heavy
+3,Animated,None,Light,PG,None,Howl’S Moving Castle,Light
+4,Drama,Heavy,None,Not Rated by MPAA,Light,Funny Ha Ha,Light
+5,Drama,Heavy,Light,R,Light,Yes,Light
+6,Documentary,Heavy,Medium,R,Medium,Murderball,Light
+7,Comedy,Heavy,None,R for language,Light,Apres Vous (After You),Light
+8,Drama,Light,Light,"PG for thematic elements, some sensuality and language",Light,Sisterhood Of The Traveling Pants,None
+9,Comedy,Heavy,None,"PG-13 for crude and sexual humor, violence, language, and drug references",Light,The Longest Yard,Light
+10,Comedy,Medium,None,PG-13 for some innuendo and rude humor,Light,The Honeymooners,Light
+11,Documentary,Light,Light,PG,Light,Mad Hot Ballroom,None
+12,Documentary,Medium,Light,PG-13,Light,Rize,Light
+13,Thriller,Light,None,"PG-13 for intense action violence, disturbing images and some thematic elements",None,Batman Begins,Medium
+14,Comedy,Light,Light,PG,Light,The Perfect Man,Light
+15,Science Fiction,None,None,PG,None,The Adventures Of Shark Boy And Lava Girl In 3-D,Light
+16,Documentary,None,None,G,None,Deep Blue,Light
+17,Comedy,Light,None,G,None,Herbie Fully Loaded,Light
+18,Drama,Heavy,Medium,NC-17,Heavy,Mysterious Skin,Heavy
+19,Horror,Heavy,Light,"R for horror violence, some sexual content and language",Medium,House Of Wax,Heavy
+20,Thriller,Heavy,Medium,R,Medium,Mindhunters,Heavy
+21,Drama,Medium,Medium,R,Medium,Saving Face,Light
+22,Comedy,Heavy,None,PG-13 for crude and sexual humor and language,Light,King’S Ransom,Light
+23,Drama,Medium,Heavy,"R for some language including sexual references, and for brief nudity",Medium,Walk On Water,Light
+24,Martial Arts Action Thriller,Heavy,Heavy,"R for strong violent content, language and some sexuality/nudity",Medium,Unleashed,Heavy
+25,Action,Heavy,None,PG-13,Light,Xxx: State Of The Union,Heavy
+26,Drama,Medium,Medium,Not Rated,Light,3-Iron,Medium
+27,Drama,Heavy,Light,R,Medium,Heights,Light
+28,Documentary,Heavy,Light,R,Light,Rock School,Light
+29,Drama,Heavy,Heavy,Not Yet Rated,Light,Saraband,Light
+30,Action Thriller,Heavy,None,R,Light,The Deal,Medium
+31,Drama,Heavy,None,PG-13,Light,House Of D,None
+32,Comedy,Light,None,PG,None,The Hitchhiker’S Guide To The Galaxy,Light
+33,Comedy,Heavy,None,PG-13 for sex references and language,Light,Monster-In-Law,Light
+34,Comedy,Medium,Medium,PG-13,Medium,A Lot Like Love,None
+35,SF,None,Light,PG-13,None,Star Wars: Episode Iii Revenge Of The Sith,Medium
+36,Drama,Heavy,Light,PG-13,None,Cinderella Man,Medium
+37,Comedy,Medium,Light,PG,Light,Kicking And Screaming (2005),Light
+38,Drama,Light,None,PG-13,None,Ladies In Lavender,Light
+39,Family,Light,None,PG,None,Madagascar,Light
+40,Black Comedy,Heavy,Medium,Not Rated,Heavy,Palindromes,Medium
+41,Supernatural Horror,Medium,Medium,R,Medium,The Amityville Horror,Heavy
+42,Drama,Light,Heavy,"R for strong sexual content including graphic nudity, and for language",Heavy,Eros,None
+43,Drama,Medium,Medium,Not Rated,Heavy,Don’T Move,Medium
+44,Gangster Thriller,Heavy,Medium,R,Medium,Layer Cake,Heavy
+45,Drama,Heavy,Medium,R,Heavy,The Ballad Of Jack And Rose,Light
+46,Drama,Heavy,Heavy,Not Rated,Medium,Kings And Queen,Medium
+47,Drama,Medium,Heavy,PG-13 for nudity and thematic elements,Light,Off The Map,Light
+48,Documentary,Medium,Medium,"R for strong sexual content including graphic nudity, and for language",Light,Enron: The Smartest Guys In The Room,None
+49,Comedy,Medium,None,"PG-13 for crude and sexual humor, and some sensuality",Light,Fever Pitch,Light
+50,Comedy,Heavy,Light,PG-13,Light,Beauty Shop,Light
+51,Drama,Medium,None,PG-13,None,Madison,Light
+52,Comedy,Light,None,PG-13 for sex-related humor,Light,Miss Congeniality 2: Armed And Fabulous,Light
+53,Drama,Medium,None,PG,None,The Game Of Their Lives,None
+54,Documentary,None,None,G,None,The Wild Parrots Of Telegraph Hill,Light
+55,Action,Medium,Light,PG-13,None,Sahara,Medium
+56,Thriller,Light,Light,PG-13,None,The Interpreter,Medium
+57,Comedy,Light,None,PG,None,Down And Derby,Light
+58,Thriller,Heavy,Medium,R,Heavy,Oldboy,Heavy
+59,Horror,Light,Light,PG-13,None,The Ring Two,Medium
+60,Thriller,Heavy,Medium,R,Heavy,Sin City,Heavy
+61,Horror,Heavy,Medium,"PG-13 for horror violence/terror, some sexual references, nudity, language and a brief drug reference",Light,Cursed,Medium
+62,Comedy,Medium,None,PG-13,None,Man Of The House (2005),Medium
+63,Comedy,Heavy,Light,R,Medium,Mail Order Wife,Light
+64,Comedy,Heavy,Light,"PG-13 for violence, sensuality, and language including sexual references",Light,Be Cool,Medium
+65,Thriller,Light,Medium,"R for violence, language and brief sexuality/nudity",Medium,The Jacket,Medium
+66,Tragic Comedy,Heavy,None,PG-13,Light,Melinda And Melinda,Light
+67,Comedic Drama,Heavy,None,R,Medium,The Upside Of Anger,Light
+68,Drama,Heavy,Light,R,None,Winter Solstice,Light
+69,Drama,Medium,None,PG-13 for language,Light,Dear Frankie,None
+70,Comedy,Medium,Medium,PG-13,Medium,Saint Ralph,None
+71,Comedy,Heavy,None,PG-13,Light,Diary Of A Mad Black Woman,Light
+72,Drama,Light,Medium,R,Light,Downfall,Heavy
+73,Comedy,Medium,None,PG-13,Light,Guess Who,Light
+74,Animation,Light,None,PG-13,None,Steamboy,Medium
+75,Comedy,Light,Light,"PG for action violence, language and rude humor",None,The Pacifier,Light
+76,Documentary,Light,None,PG,None,Dust To Glory,Light
+77,Drama,Light,None,G,None,Ice Princess,None
+78,Animated,Light,None,PG,None,Robots,Medium
+79,Science Fiction,Medium,Light,R,None,Constantine,Heavy
+80,Comedy,Light,None,"PG for action, crude and suggestive humor, and language",Light,Son Of The Mask,Medium
+81,Horror,Light,Light,PG-13,Light,Boogeyman,Medium
+82,Drama,Light,Light,Not Rated,None,Turtles Can Fly,Medium
+83,Drama,Heavy,Medium,R,Medium,Up And Down,Medium
+84,Martial Arts Action Thriller,Medium,Light,R,Light,Ong-Bak: The Thai Warrior,Heavy
+85,Comedy,Medium,Medium,PG-13,Medium,The Wedding Date,Light
+86,Documentary,Heavy,None,R for language,Light,Gunner Palace,Light
+87,Drama,Medium,Medium,R,Medium,In My Country,Medium
+88,Comedy,Heavy,Light,PG-13,Medium,Hitch,Light
+89,Dramatic Comedy,Light,Light,PG,Light,Millions,Light
+90,Family,Light,None,PG,None,Because Of Winn-Dixie,Light
+91,Comedy,None,None,G,None,Pooh’S Heffalump Movie,Light
+92,Science Documentary,None,None,G,None,Aliens Of The Deep,None
+93,Science Fiction,Heavy,Light,R,Light,Alone In The Dark,Heavy
+94,Horror,Light,None,PG-13,Light,Hide And Seek,Heavy
+95,Police Thriller,Heavy,None,"R for strong violence and language throughout, and for some drug content",Light,Assault On Precinct 13,Heavy
+96,Thriller,Heavy,Light,R,Light,Hostage,Heavy
+97,Drama,Heavy,Light,"PG-13 for violence, sexual content, language, teenage partying, and some drug material",Light,Coach Carter,Light
+98,Drama,Heavy,Light,R,Light,Rory O’Shea Was Here,None
+99,Comedy,Light,None,PG,Light,Are We There Yet?,Medium

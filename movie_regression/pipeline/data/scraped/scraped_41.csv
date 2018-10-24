@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Satiric Comedy,Light,None,No MPAA rating,Light,The Life And Extraordinary Adventures Of Private Ivan Chonkin,None
+1,Dramatic comedy,None,None,PG,None,The Hudsucker Proxy,None
+2,Dramatized Documentary,Heavy,None,PG-13,Light,Eight Seconds,None
+3,Comedy,None,None,Not yet rated by MPAA--probably G,None,Gordy,None
+4,Drama,Heavy,Heavy,NC-17,Heavy,Twogether,Light
+5,Drama,None,None,R,None,The Getaway,None
+6,Drama,Heavy,Medium,R,Medium,Highway Patrolman,Medium
+7,Drama,None,None,PG-13,None,Blue Chips,None
+8,Science Fiction,Medium,Heavy,R,None,The Body Snatchers,Medium
+9,Drama,None,None,PG-13,None,Angie,None
+10,Comedy,None,None,PG-13,None,Greedy,None
+11,Comedy,None,None,PG-13,None,Reality Bites,None
+12,Period Drama,None,None,PG,None,The Scent Of Green Papaya,None
+13,Documentary,None,None,No MPAA rating,None,"The Wonderful, Horrible Life Of Leni Riefenstahl",None
+14,Action,None,None,R,None,On Deadly Ground,None
+15,Drama,None,None,R,None,Romeo Is Bleeding,None
+16,Action,None,None,R,None,Gunmen,None
+17,Thriller,None,None,R,None,Blink,None
+18,Comedy,None,None,PG-13,None,"Car 54, Where Are You?",None
+19,Comedy,None,None,PG-13,None,I’Ll Do Anything,None
+20,Animation,Light,Light,PG,None,24Th International Tournee Of Animation,Light
+21,Comedy,Medium,Light,PG,Light,My Father The Hero,Light
+22,Drama,None,None,PG,None,My Girl 2,None
+23,Drama,None,None,PG-13,None,Guarding Tess,None
+24,Comedy,None,None,PG,None,Blank Check,None
+25,Comedy,None,Light,None,None,Mr. Hobbs Takes A Vacation,None
+26,Drama,None,None,R,None,Dangerous Game,None
+27,Horror,None,None,R,None,Ghost In The Machine,None
+28,Science Fiction,Medium,None,R,None,American Cyborg: Steel Warrior,Heavy
+29,Documentary,None,None,Not rated by MPAA,None,The Life And Times Of Allen Ginsberg,None
+30,Drama,None,None,R,None,Naked,None
+31,Period Drama,None,None,PG,None,The Accompanist,None
+32,Drama,None,None,"No rating. Originally released under the Motion Picture Code, but edited film has been added which was cut to meet the Code requirements.",Light,A Streetcar Named Desire:,Light
+33,Drama,None,None,None. Made under the Motion Picture Code,None,Grand Hotel,None
+34,Comedy,None,None,NC-17,None,Bank Robber,None
+35,Comedy,None,None,PG-13,None,Cabin Boy,None
+36,Drama,None,None,PG-13,None,Philadelphia,None
+37,Drama,None,None,R,None,Blue,None
+38,Drama,None,None,R,None,In The Name Of The Father,None
+39,Drama,None,None,PG,None,Shadowlands,None
+40,Action,Light,None,PG,Light,Batman: The Mask Of Phantasm (The Animated Movie),None
+41,Western Drama,None,None,R,None,Tombstone,None
+42,Comedy,Light,Light,R,None,The Summer House,None
+43,Drama,Medium,None,PG-13,None,Geronimo: An American Legend,Heavy
+44,Comedy,Heavy,None,PG-13,Light,Grumpy Old Men,None
+45,Drama,None,None,PG-13,None,Wrestling Ernest Hemingway,None
+46,Action,None,None,PG,None,Iron Will,None
+47,Horror,Medium,Light,PG-13,Light,The Unborn,Medium
+48,Horror,None,None,R,Light,House,Heavy
+49,Drama,None,None,R,None,Red,None
+50,Horror,Light,Light,PG-13,Light,Twilight,Medium
+51,War Drama,Light,Light,R,None,Pathfinder,Heavy
+52,Thriller,Heavy,Light,R,None,The Kingdom,Heavy
+53,Comedy,Heavy,Medium,NR,Light,Delirious,Light
+54,Drama,Light,Medium,PG-13,Medium,Broken English,Medium
+55,Thriller,Medium,Medium,R,Heavy,Deception,Medium
+56,Comedy,Medium,Light,R,Medium,"Peace, Love & Misunderstanding",None
+57,Comedy,Heavy,Medium,R,Medium,The Campaign,Medium
+58,Comedy,Light,None,PG-13,Medium,Hope Springs,None
+59,Drama,Light,Light,PG,None,The Odd Life Of Timothy Green,None
+60,Thriller,Heavy,Light,PG-13,None,The Bourne Legacy,Heavy
+61,Comedy,Heavy,Medium,Not Rated,Medium,Amy’S Orgasm,None
+62,Comedy,None,None,PG-13,None,Drop Dead Gorgeous,None
+63,Comedy,None,None,R,None,American Pie,None
+64,Thriller,None,None,R,None,Arlington Road,None
+65,Drama,None,None,R,None,Xiu Xiu: The Sent Down Girl,None
+66,Old Western Sci-Fi,None,None,PG-13,None,Wild Wild West,None
+67,Family drama,None,None,PG,None,Shiloh 2: Shiloh Season,None
+68,Musical,None,None,,None,Jeanne And The Perfect Guy,None
+69,Horror,None,None,R,None,The Blair Witch Project,None
+70,Horror,None,None,R,None,Lake Placid,None
+71,Comedy,None,None,R,None,Just A Little Harmless Sex,None
+72,Thriller,None,None,Not rated by MPAA,None,Nobody,None
+73,Comedy,None,None,PG-13,None,Big Daddy,None
+74,Thriller,None,None,R,None,The General’S Daughter,None
+75,Comedy,None,None,PG-13,None,An Ideal Husband,None
+76,Drama,None,None,R,None,The Loss Of Sexual Innocence,None
+77,Comedy,None,None,PG-13,None,Austin Powers: The Spy Who Shagged Me,None
+78,Dramatic Comedy,None,None,R,None,Desert Blue,None
+79,Thriller,None,None,R,None,Run Lola Run,None
+80,Comedy,None,None,R,None,Twice Upon A Yesterday,None
+81,Thriller & drama,None,None,R,None,Limbo,None
+82,Drama,None,None,Not rated by MPAA,None,Eternity And A Day,None
+83,Drama,None,None,PG-13,None,The Love Letter,None
+84,Comedy,None,None,R,None,Trippin’,None
+85,Drama,None,None,Not rated by MPAA,None,The King Of Masks,None
+86,Drama,None,None,PG-13,None,Notting Hill,None
+87,Humorous documentary,None,None,PG,None,Trekkies,None
+88,Documentary,None,None,PG,None,Buena Vista Social Club,None
+89,Animation,None,None,G,None,Tarzan,None
+90,Romantic Propaganda,None,None,R,None,Instinct,None
+91,Drama,None,None,R,None,Lovers Of The Arctic Circle,None
+92,Drama,None,None,R,None,This Is My Father,None
+93,Crime,None,None,PG-13,None,Entrapment,None
+94,Prison comedy,None,None,R,None,Life,None
+95,Drama,None,None,R,None,Pushing Tin,None
+96,Comedy,None,None,R,None,Goodbye Lover,None
+97,Drama,None,None,R,None,Hideous Kinky,None
+98,Comedy,None,None,R,None,Go,None
+99,Comedy,None,None,PG-13,None,The Out-Of-Towners,None

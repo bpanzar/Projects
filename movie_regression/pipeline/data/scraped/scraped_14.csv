@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Documentary,None,Light,Not Rated,None,The Cathedral,Light
+1,Documentary,None,None,N/A,Light,Irreplaceable,None
+2,Science Fiction,Light,None,PG-13,None,The Amazing Spider-Man 2,Medium
+3,Comedy,Heavy,Light,R,Light,Chef,None
+4,Comedy,Heavy,Heavy,R,Heavy,Neighbors,Medium
+5,Science Fiction,Light,Heavy,R,Medium,Under The Skin (2014),Medium
+6,Drama,Light,None,PG,Light,Belle,Light
+7,Drama,Heavy,Medium,R,Medium,Joe,Heavy
+8,Drama,Light,None,PG-13,Light,Gimme Shelter,Medium
+9,Thriller,Heavy,Light,PG-13,Light,Brick Mansions,Heavy
+10,Horror,Medium,Light,PG-13,Light,The Quiet Ones,Medium
+11,Comedy,Heavy,Light,PG-13,Medium,The Other Woman (2014),Medium
+12,Drama,Heavy,None,R,Light,Locke,None
+13,Drama,None,None,Not Rated,None,Flag Of My Father,Medium
+14,War,None,None,Not Rated,Light,Walking With The Enemy,Medium
+15,Reality TV,None,None,TV-G,None,The Real Winning Edge:  Episode 524,Light
+16,Science Fiction,Light,None,PG-13,Light,Transcendence,Medium
+17,Comedy,Heavy,Medium,R,Heavy,A Haunted House 2,Medium
+18,Musical,Medium,Light,PG-13,Light,Make Your Move,Light
+19,Documentary,None,None,G,None,Bears,Light
+20,Drama,None,Light,R,None,The Railway Man,Heavy
+21,Drama,None,None,PG,Light,Heaven Is For Real,Light
+22,Comedy,Heavy,Light,R,Light,Cuban Fury,Light
+23,Drama,Heavy,Medium,R,Light,Only Lovers Left Alive,Medium
+24,Horror,Medium,None,R,Light,Oculus,Heavy
+25,Drama,Heavy,None,PG-13,Light,Draft Day,Light
+26,Thriller,Heavy,Heavy,Not Rated,Medium,The Raid 2,Heavy
+27,Comedy,None,None,G,None,Rio 2,Light
+28,Family,None,None,Not Rated,None,The Rev,None
+29,Documentary,None,None,Not Rated,None,Blue,None
+30,Comedy,Medium,None,R,Medium,At Middleton,None
+31,Horror,Heavy,Light,R,Light,Afflicted,Heavy
+32,Documentary,Light,None,G,None,Island Of Lemurs: Madagascar (Imax),None
+33,Comedy,Heavy,Heavy,R,Medium,Dom Hemingway,Heavy
+34,Action,Medium,Light,PG-13,None,Captain America: The Winter Soldier,Medium
+35,Comedy,Heavy,Light,R,Medium,Walk Of Shame,Medium
+36,Drama,Medium,None,PG-13,None,Cesar Chavez,Light
+37,Action,Heavy,Medium,R,Medium,Sabotage,Heavy
+38,Biblical Epic,Light,Light,PG-13,Light,Noah,Medium
+39,Drama,None,None,Not Rated,None,For Love’S Sake,Light
+40,Drama,Heavy,Light,R,Medium,Blood Ties (2013),Medium
+41,Comedy,Heavy,Medium,R,Heavy,About Last Night (2014),Light
+42,Thriller,Medium,Light,PG-13,Light,3 Days To Kill,Medium
+43,Drama,Heavy,Light,R,Light,Rob The Mob,Medium
+44,Documentary,None,Light,PG-13,Light,Veil Of Tears,Light
+45,Documentary,Light,Medium,PG-13,Light,Jodorowsky’S Dune,Medium
+46,Drama,Medium,Medium,PG-13,Light,Barefoot,Light
+47,Musical,Light,None,PG,None,Muppets Most Wanted,Light
+48,Drama,None,None,PG,None,God’S Not Dead,Light
+49,Musical,None,None,PG,None,Frozen (2013),Light
+50,Drama,Medium,Medium,R,Heavy,Enemy,Medium
+51,Comedy,Heavy,Medium,R,Heavy,The Right Kind Of Wrong,Medium
+52,Drama,Medium,None,R,Light,Le Week-End,None
+53,Science Fiction,Light,Light,PG-13,Light,Divergent,Medium
+54,Thriller,Medium,Light,PG-13,None,Need For Speed,Medium
+55,Comedy,Heavy,None,R,Light,Art Of The Steal (2014),Medium
+56,Drama,Medium,Light,PG-13,Medium,The Single Mom’S Club,Light
+57,Drama,None,None,Not Rated,None,The Tree Of Wooden Clogs,None
+58,Documentary,Light,Light,PG-13,Light,Stories We Tell,None
+59,Comedy,None,None,Not Rated,None,On My Way,None
+60,Comedy,Light,None,PG,None,Driving Miss Daisy,Light
+61,Drama,Medium,Light,PG-13,Light,The Face Of Love,Light
+62,Horror,Heavy,Heavy,R,Heavy,Almost Human,Heavy
+63,Comedy,None,Heavy,R,Medium,The Grand Budapest Hotel,None
+64,Drama,Light,Medium,R,Medium,300: Rise Of An Empire,Heavy
+65,Thriller,Medium,None,R,None,Grand Piano,Medium
+66,Family,None,None,PG,None,Mr. Peabody & Sherman,Light
+67,Comedy,Heavy,Heavy,R,Heavy,Best Night Ever,Medium
+68,Thriller,Heavy,None,PG-13,Light,Non-Stop,Medium
+69,Drama,None,None,PG-13,None,Son Of God,Medium
+70,Drama,Heavy,Medium,R,Medium,Stalingrad,Heavy
+71,Drama,None,None,PG,None,Christmas Oranges,Light
+72,Science Fiction,Light,Light,PG-13,None,Thor: The Dark World,Medium
+73,Drama,Medium,Light,PG-13,Light,One Chance,Medium
+74,Thriller,Medium,Medium,R,Heavy,24 Exposures,Heavy
+75,Drama,Light,Light,PG-13,None,The Wind Rises,Light
+76,Thriller,Medium,None,PG-13,Light,Hours,Medium
+77,Science Fiction,Medium,Light,PG-13,Medium,Vampire Academy,Medium
+78,Documentary,Light,None,PG-13,None,Kids For Cash,Light
+79,Action,Light,Light,PG-13,Light,Pompeii,Heavy
+80,Drama,None,None,Not Rated,None,Mercy Rule,None
+81,Science Fiction,Heavy,Light,PG-13,Light,Robocop (2014),Heavy
+82,Drama,Medium,None,PG-13,Medium,Endless Love,Light
+83,Comedy,Heavy,Medium,R,Heavy,About Last Night,Light
+84,Science Fiction,Light,Light,PG-13,Medium,Winter’S Tale,Medium
+85,Drama,None,None,PG-13,None,Stand Your Ground,Medium
+86,Drama,Light,None,TV-PG,None,Far From Home,None
+87,Comedy,None,Light,PG,None,The Lego Movie,Light
+88,Comedy,Heavy,Heavy,R,Medium,That Awkward Moment,Light
+89,Drama,None,None,PG-13,Light,Labor Day,Light
+90,Comedy,None,None,PG,None,Cloudy With A Chance Of Meatballs 2,Light
+91,Thriller,Light,Light,PG-13,None,"I, Frankenstein",Medium
+92,Horror,Heavy,Light,R,Light,Devil’S Due,Heavy
+93,Western,None,None,TV-G,None,When Calls The Heart:  Lost And Found,Light
+94,Thriller,Heavy,None,PG-13,Light,Jack Ryan: Shadow Recruit,Medium
+95,Comedy,Heavy,Light,PG-13,Light,Ride Along,Medium
+96,Comedy,None,None,PG,None,The Nut Job,Light
+97,Action,Light,Light,PG-13,Light,The Legend Of Hercules,Medium
+98,Drama,Heavy,None,R,None,Lone Survivor,Heavy
+99,Western,None,None,,None,Shadow On The Mesa,Medium

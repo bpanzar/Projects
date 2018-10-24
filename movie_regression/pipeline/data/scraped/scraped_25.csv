@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,Heavy,Light,R,Medium,A Perfect World,Heavy
+1,Comedy,Medium,Light,PG-13,Medium,Addams Family Values,Heavy
+2,Drama,Light,None,PG-13,None,Robocop 3,Medium
+3,Comedy,Light,Light,PG-13,None,Look Who’S Talking Now,None
+4,Drama,Light,Light,R,Light,Six Degrees Of Separation,None
+5,Drama,Medium,None,PG,Light,A Home Of Our Own,Medium
+6,Comedy,None,None,PG,None,Ernest Rides Again,Light
+7,Drama,Medium,Medium,R,Medium,Equinox,Medium
+8,Drama,Medium,Medium,R,Medium,Farewell My Concubine,Heavy
+9,Comedy,Medium,Heavy,R,Medium,Twenty Bucks,Light
+10,Drama,Medium,None,PG,None,Me And The Kid,Medium
+11,Drama,Medium,None,R,Light,The Saint Of Fort Washington,Medium
+12,Documentary,Light,None,No MPAA rating,None,The War Room,None
+13,Drama,Medium,None,No MPAA,Light,Flight Of The Innocent,Medium
+14,Drama,Light,None,No MPAA Rating,None,Pushing Hands,None
+15,Action-adventure,Light,None,PG,Light,The Three Musketeers,Medium
+16,Christmas Classic Ballet,None,None,G,None,George Balanchine’S The Nutcracker,None
+17,Documentary,None,None,G,None,It’S All True: An Unfinished Film By Orson Welles,None
+18,Documentary (with on-camera narration),None,None,Not Rated (no questionable content),None,Charlton Heston Presents The Bible Part Ii: The Story Of Moses,None
+19,Comedy,Medium,Heavy,No MPAA rating,Heavy,Jamon Jamon,None
+20,Drama,Heavy,Medium,R,Medium,Flesh And Bone,Medium
+21,Drama,Heavy,Heavy,R,Medium,Short Cuts,Medium
+22,Drama,Light,Medium,R,None,M Butterfly,None
+23,Farcical Spoof,Heavy,None,PG-13,None,Freaked,Medium
+24,Drama,Heavy,Light,R,Light,Mr. Jones,Light
+25,Action Drama,Medium,None,R,None,Judgment Night,Heavy
+26,Comedy,Light,None,PG,Light,The Beverly Hillbillies,Light
+27,Comedy,Light,None,PG,None,Mr. Nanny,Heavy
+28,Musical,None,None,PG,None,The Nightmare Before Christmas,Medium
+29,Drama,Light,None,PG,None,My Life,None
+30,Comedy of manners,None,None,PG,None,The Remains Of The Day,None
+31,Horror,Light,Medium,R,Light,Warlock: The Armageddon,Heavy
+32,Comedy,Heavy,None,R,Medium,Dazed And Confused,Medium
+33,Drama,Medium,None,R,Medium,Household Saints,Medium
+34,Documentary,None,Light,"Not rated by MPAA (However, this is not a film for children)",None,Baraka,Light
+35,Drama,Medium,Medium,PG-13,Medium,Ruby In Paradise,None
+36,Comedy,Heavy,None,PG,Light,For Love Or Money,None
+37,Drama,Medium,Medium,R,Heavy,Malice,Medium
+38,Comedy,Medium,None,R,Light,Bad Behaviour,None
+39,Drama,Medium,Light,R,Medium,By The Sword,Medium
+40,Drama,Heavy,None,R,Light,A Bronx Tale,Medium
+41,Civil War Drama,Heavy,None,PG,None,Gettysburg,Medium
+42,Drama,Medium,None,R,Heavy,Kalifornia,Heavy
+43,Action,Medium,None,PG-13,Medium,The Real Mccoy,Medium
+44,Action,Light,Medium,PG-13,Light,The Seventh Coin,Medium
+45,Police thriller,Heavy,None,R,Medium,Striking Distance,Heavy
+46,Science Fiction Drama,Heavy,Medium,R,Light,Fortress,Heavy
+47,Drama,Heavy,Medium,R,Light,The Program,Medium
+48,Comedy,Light,Medium,PG-13,Heavy,Fatal Instinct,Medium
+49,Drama,Light,Light,R,Heavy,The Ballad Of Little Jo,Light
+50,Action,Heavy,Medium,R,Light,Demolition Man,Heavy
+51,Family,Light,None,PG-13,None,Into The West,Light
+52,Comedy,Light,Medium,PG,None,Airborne,Light
+53,Psychological Drama,Light,None,R,None,The Good Son,Medium
+54,Comedy,Light,None,PG,None,Cool Runnings,Light
+55,Drama,Light,None,PG,Light,The Age Of Innocence,None
+56,Drama,Medium,Heavy,R,Heavy,Boxing Helena,Medium
+57,Drama,Heavy,Heavy,R,Heavy,Money For Nothing,Light
+58,Comedy (apparently),Medium,None,PG-13,Light,Wilder Napalm,Medium
+59,Comedy,Heavy,None,R,Medium,Inside Monkey Zetterland,Light
+60,Comedy,Heavy,Medium,PG-13,Light,Calendar Girl,Light
+61,Apartheid South African Drama,Medium,Light,PG-13,None,Bopha!,Heavy
+62,Martial Arts Drama,Medium,None,PG-13,None,Only The Strong,Heavy
+63,Romance Drama,Medium,Light,PG-13,Light,Mr. Wonderful,None
+64,Psychological Drama,Medium,None,R,None,Fearless,Medium
+65,Drama,Light,None,R,Light,The Joy Luck Club,Medium
+66,Drama,Medium,None,PG-13,None,Rudy,None
+67,Documentary,None,None,,None,Mountain Gorilla,None
+68,Horror,Heavy,Medium,R,Heavy,Jason Goes To Hell: The Final Friday,Heavy
+69,Drama,None,Heavy,No MPAA rating,Heavy,Betty,None
+70,Martial Arts,Medium,None,R,None,Hard Target,Heavy
+71,Drama,Light,Medium,R,Medium,Especially On Sunday,Light
+72,Horror,Heavy,Light,R,Light,Needful Things,Heavy
+73,Martial arts comedy,Light,None,PG,None,Surf Ninjas,Medium
+74,Drama,Medium,Light,PG-13,Light,The Thing Called Love,Light
+75,Comedy,Light,Light,PG,Light,Son Of The Pink Panther,Light
+76,Documentary,None,Light,Not rated by MPAA (would be PG),Light,Twist,None
+77,Adult Comedy,Medium,None,PG,None,Manhattan Murder Mystery,None
+78,Documentary,None,None,No MPAA rating,None,Fires Of Kuwait,None
+79,Comedy,Heavy,None,Not Rated by MPAA,Heavy,"Hold Me, Thrill Me, Kiss Me",None
+80,Comedy,Light,Light,PG-13,Light,Heart And Souls,Light
+81,Drama,Heavy,Medium,R,Medium,Amongst Friends,Heavy
+82,Comedy,Medium,None,Not yet rated by MPAA,Medium,Wishman,Light
+83,Drama,Light,None,PG-13,None,Father Hood,Light
+84,Documentary,None,None,No MPAA rating,None,Road Scholar,None
+85,Drama,Light,None,PG,None,Searching For Bobby Fischer,None
+86,Comedy,Medium,None,PG-13,Light,My Boyfriend’S Back,Medium
+87,Drama,Heavy,Heavy,R (should be NC-17),Heavy,True Romance,Heavy
+88,Drama,Medium,Heavy,R,Heavy,Chained Heat Ii,Medium
+89,Drama,Light,Light,R,Medium,Benefit Of The Doubt,None
+90,Action,Heavy,Heavy,R,Heavy,Rising Sun,Heavy
+91,Comedy thriller,Medium,Medium,PG-13,Light,So I Married An Axe Murderer,Medium
+92,Drama,Medium,Medium,R,Medium,House Of Angels,None
+93,Science fiction comedy,Light,Light,PG,Medium,Coneheads,Light
+94,Satire,Light,Light,PG-13,None,Robin Hood: Men In Tights,Light
+95,Drama,Medium,None,PG-13,Light,The Man Without A Face,Light
+96,Drama,Heavy,None,Not rated by MPAA. Should be NC-17,None,Chain Of Desire,Light
+97,Drama,Heavy,None,R,Medium,Poetic Justice,Medium
+98,Comedy,Heavy,Medium,PG-13,None,The Wedding Banquet,None
+99,Comedy,Light,None,PG-13,None,Hocus Pocus,Light

@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Drama,None,None,Not rated by MPAA,None,Metroland,None
+1,Action,None,None,PG-13,None,Twin Dragons,None
+2,Drama,None,None,PG-13,None,Three Seasons,None
+3,Drama,None,None,G,None,The Winslow Boy,None
+4,Comedy,None,None,PG-13,None,Cookie’S Fortune,None
+5,Police Drama,Heavy,Medium,R,Heavy,The Mod Squad,Medium
+6,Sci-Fi,None,None,R,None,Existenz,None
+7,Drama,None,None,R,None,The Harmonists,None
+8,Science Fiction,None,None,R,None,The Matrix,None
+9,Comedy,None,None,PG-13,None,Never Been Kissed,None
+10,Drama,None,None,PG-13,None,The Joyriders,None
+11,Horror,None,None,R,None,Ravenous,None
+12,Drama,None,None,R,None,Cruel Intentions,None
+13,Comedy,None,None,PG-13,None,Edtv,None
+14,Mystery,None,None,R,None,Open Your Eyes,None
+15,Comedy,None,None,PG-13,None,Forces Of Nature,None
+16,Drama,None,None,R,None,The Corruptor,None
+17,Comedy,None,None,PG,None,Baby Geniuses,None
+18,Sci-Fi,None,None,PG-13,None,Wing Commander,None
+19,Family Drama,None,None,PG-13,None,The Deep End Of The Ocean,None
+20,Comedy,None,None,R,None,Just The Ticket,None
+21,Comedy,None,None,R,None,Jawbreaker,None
+22,Comedy,None,None,R,None,200 Cigarettes,None
+23,Comedy,None,None,PG-13,None,Simply Irresistible,None
+24,Comedy,None,None,R,None,Office Space,None
+25,Action,None,None,R,None,Unconditional Love,None
+26,Comedy,None,None,R,None,Analyze This,None
+27,Comedy,None,None,PG-13,None,Blast From The Past,None
+28,Sci-Fi,None,None,PG-13,None,My Favorite Martian,None
+29,Drama,None,None,PG,None,October Sky,None
+30,Action,None,None,R,None,Payback,None
+31,Comedy,None,None,R,None,"Lock, Stock And Two Smoking Barrels",None
+32,Drama,None,None,R,None,The 24-Hour Woman,None
+33,Thriller,None,None,R,None,Gloria,None
+34,Drama,None,None,PG-13,None,"A Cool, Dry Place",None
+35,Comedy,None,None,PG-13,None,She’S All That,None
+36,Drama,None,None,PG-13,None,Message In A Bottle,None
+37,Drama,None,None,PG,None,Endurance,None
+38,Drama,None,None,PG,None,Children Of Heaven,None
+39,Drama,None,None,R,None,Varsity Blues,None
+40,Horror,None,None,R,None,In Dreams,None
+41,Drama,None,None,PG-13,None,At First Sight,None
+42,Documentary,None,None,Not yet rated,None,The Last Days,None
+43,Comedy,None,None,R,None,Still Crazy,None
+44,Dance drama,None,None,PG,None,Tango,None
+45,Drama,Light,None,PG,None,The Basket,Light
+46,Drama,Light,Light,Not rated by MPAA,Light,Onegin,Light
+47,Documentary,Heavy,Light,R,Light,Beyond The Mat,Heavy
+48,Sports,Heavy,Heavy,R,Light,Any Given Sunday,Heavy
+49,Drama,Heavy,None,R,Light,Agnes Browne,Light
+50,Documentary,Light,None,Not rated,None,42 Up,None
+51,Science Fiction Thriller,Heavy,None,R,None,Sunshine,Heavy
+52,Drama,Light,None,PG-13,None,Flawless,None
+53,Science Fiction,Light,None,PG,None,Star Wars: Episode Ii Attack Of The Clones,Heavy
+54,Comedy,Medium,Light,PG-13,Light,Life Or Something Like It,Light
+55,Comedy,Heavy,Light,R,Medium,Let’S Go To Prison,Heavy
+56,Drama,Light,None,PG,None,Christmas At Maxwell’S,Light
+57,Musical,Medium,Light,PG-13,Light,Dreamgirls,Light
+58,Comedy,None,Medium,R,Light,Tuvalu,Light
+59,Drama,Heavy,None,PG,None,We Are Marshall,Light
+60,"Historical Drama, based on a true story",Medium,Light,PG for thematic material and language,Light,Evelyn,Light
+61,Fantasy,None,None,PG-13,None,The Lord Of The Rings: The Two Towers,Medium
+62,Action-Adventure,Medium,None,PG-13,Light,Spider-Man,Medium
+63,Thriller,Heavy,Light,PG-13,Light,The Bourne Identity,Medium
+64,Drama,Light,None,PG-13 (for elements of violence),None,The Rising Place,Light
+65,War Movie,Heavy,Light,R,Light,To End All Wars,Heavy
+66,Animated,None,None,G,None,Jonah-A Veggietales Movie,Light
+67,Drama,Light,None,Not Rated,Light,The Goal,Light
+68,Drama,None,None,PG,Light,Hidden Secrets,Light
+69,Historical Drama,Medium,Light,TV-14,None,The Path To 9/11,Medium
+70,Science Fiction,None,None,PG,None,Unidentified,None
+71,Thriller,Light,None,PG-13,None,The Visitation,Medium
+72,War Drama,Light,Light,R,Light,Days Of Glory (Ingigenes),Heavy
+73,Drama,Medium,Medium,R,Medium,The Architect,Light
+74,Drama,Heavy,Medium,R,Light,Inland Empire,Medium
+75,Drama,Heavy,Medium,R,Heavy,La Mujer De Mi Hermano (My Brother’S Woman),Light
+76,Documentary,Medium,Light,R,Light,Shut Up And Sing,Light
+77,Drama,Medium,Light,R,Heavy,Notes On A Scandal,Light
+78,Drama,Medium,Light,PG,None,Rocky Balboa,Medium
+79,Thriller,Heavy,Light,R,Light,Blood Diamond,Heavy
+80,Drama,Medium,Light,PG-13,None,The Pursuit Of Happyness,Light
+81,Science Fiction,None,Light,PG,None,Eragon,Medium
+82,Comedy,Heavy,Light,PG-13,Light,The Holiday,Light
+83,Comedy,Heavy,Medium,R,Heavy,Van Wilder Deux: The Rise Of Taj,Light
+84,Horror Thriller,Heavy,Medium,R,Medium,Turistas,Heavy
+85,Comedy,Medium,Light,PG,Light,Deck The Halls,Light
+86,Adventure Thriller,Light,Medium,R,Light,Apocalypto,Heavy
+87,Thriller,Medium,Light,PG-13,Light,Casino Royale,Heavy
+88,Drama,Heavy,None,R,Medium,The History Boys,Light
+89,Film Noir Thriller,Heavy,Medium,R,Medium,The Good German,Medium
+90,Science Fiction,Light,Light,PG-13,Light,The Fountain,Medium
+91,Drama,Light,Light,PG-13,Medium,The Painted Veil,Light
+92,Children's Fantasy,None,None,G,None,Charlotte’S Web,Light
+93,Comedy,Light,None,PG,None,Unaccompanied Minors,Light
+94,Drama,Light,None,Not Rated,Light,Wondrous Oblivion,Light
+95,Documentary,Medium,Heavy,Not Rated,None,So Goes The Nation,None
+96,Black Gospel,None,None,Not Rated,Light,Color Of The Cross,Medium
+97,Documentary,Heavy,None,Not Rated,Light,The War Tapes,Heavy
+98,Drama,None,None,PG,None,Conversations With God,None
+99,Drama,Light,None,R,None,Death Of A President,Medium

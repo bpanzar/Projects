@@ -1,0 +1,101 @@
+,Genre,Language,Nudity,Rating,Sex,Title,Violence
+0,Science Fiction,Heavy,Light,R,None,John Carpenter’S Ghosts Of Mars,Heavy
+1,Comedy,Heavy,Medium,R,Heavy,Jay And Silent Bob Strike Back,None
+2,Romantic Comedy,Heavy,Medium,R,Medium,Two Can Play That Game,Light
+3,Romantic Comedy,Heavy,Medium,PG-13,Medium,Summer Catch,Light
+4,Western,Heavy,Light,PG-13,Medium,American Outlaws,Heavy
+5,Drama,Light,Light,Not Rated,None,Lumumba,Heavy
+6,Drama,Medium,Medium,R,Light,Captain Corelli’S Mandolin,Heavy
+7,,Medium,None,,Light,The Curse Of The Jade Scorpion,Light
+8,Romantic Comedy,Heavy,Medium,R,Heavy,American Pie 2,Light
+9,Psychological Thriller,Medium,Medium,R,Heavy,Original Sin,Heavy
+10,Horror,Light,Light,PG-13,Light,The Others,Medium
+11,Drama,Heavy,Medium,R,Medium,Apocalypse Now Redux,Heavy
+12,Animated,Light,Light,PG,None,Osmosis Jones,Medium
+13,Horror,Heavy,Light,R,None,Session 9,Heavy
+14,Drama,Light,None,PG-13,Light,Tortilla Soup,None
+15,Comedy,Heavy,Medium,R,Light,Everybody’S Famous!,Light
+16,Comedy,Heavy,Light,PG-13,Light,Rat Race,Medium
+17,Drama,Light,None,PG-13,None,An American Rhapsody,Light
+18,Drama,Heavy,Heavy,R,Medium,Our Lady Of The Assassins,Heavy
+19,Drama,Heavy,Heavy,Not Rated,Heavy,Lost And Delirious,Medium
+20,Science Fiction,Medium,None,PG-13,None,Planet Of The Apes (2001),Medium
+21,Comedy,Heavy,Medium,R,Medium,Made,Medium
+22,Thriller,Medium,Light,R,None,The Crimson Rivers,Heavy
+23,Comedy,Medium,Medium,R,Medium,Greenfingers,Light
+24,Comedy,Heavy,Light,PG-13,Light,Rush Hour 2,Medium
+25,Comedy,None,None,G,None,The Princess Diaries,Light
+26,Drama,Heavy,Heavy,Not Rated,Heavy,Bully,Heavy
+27,Animation,Medium,None,PG-13,None,Final Fantasy: The Spirits Within,Heavy
+28,Science Fiction,Light,None,PG-13,Light,A.I.,Heavy
+29,Drama,Heavy,Medium,R,Heavy,Baby Boy,Medium
+30,Action Adventure,Heavy,Medium,PG-13,Light,The Fast And The Furious,Medium
+31,Comedy,Heavy,Medium,R,Medium,Let It Snow,Light
+32,Action-Adventure,Heavy,Medium,R,Medium,Kiss Of The Dragon,Heavy
+33,Documentary,Heavy,None,Not Rated,Medium,Chain Camera,Light
+34,Comedy,Heavy,Light,R,Light,Ghost World,Light
+35,Thriller,Heavy,None,R,Light,The Score,Light
+36,Drama,Medium,Light,PG-13,Light,Beautiful,Light
+37,Comedy,Heavy,Medium,PG-13,Medium,Pootie Tang,Light
+38,Comedy,Heavy,None,PG-13,Light,America’S Sweethearts,Light
+39,Drama,Light,None,Not Rated,None,The Circle,Light
+40,Film Noir,Medium,Medium,R,Medium,The Deep End,Heavy
+41,Action,Light,None,PG,None,Cats And Dogs,Heavy
+42,Comedy,Heavy,None,PG-13,Light,Legally Blonde,Light
+43,Science Fiction,Medium,None,PG-13,None,Jurassic Park Iii,Medium
+44,Comedy,Heavy,Heavy,R,Medium,Sordid Lives,Light
+45,Comedy,Medium,Medium,R,Medium,Fast Food Fast Women,None
+46,Drama,Light,Light,PG-13,Heavy,The Vertical Ray Of The Sun,None
+47,Comedy,Heavy,Medium,R,Heavy,Hedwig And The Angry Inch,Light
+48,Drama,Light,Light,PG-13,Light,Big Eden,None
+49,Action-Adventure,Light,Light,PG-13,None,Lara Croft: Tomb Raider,Medium
+50,Comedy,Heavy,Light,PG-13,Light,What’S The Worst That Could Happen?,Light
+51,Comedy,Medium,Light,PG-13,Medium,The Animal,Light
+52,Comedy,Medium,Medium,R,Medium,The Closet,Light
+53,Thriller,Heavy,Medium,R,Light,Sexy Beast,Heavy
+54,Action-Adventure,Heavy,Medium,R,Medium,Swordfish,Heavy
+55,Historical Drama,Light,Heavy,R,Medium,Bride Of The Wind,Light
+56,Comedy,Heavy,Light,PG,Medium,Dr. Dolittle 2,Light
+57,Psychological Drama,Light,Heavy,Not Rated,Medium,Under The Sand,None
+58,Thriller,Heavy,Light,R,Light,The Princess And The Warrior,Medium
+59,Drama,Medium,None,PG-13,Light,Divided We Fall,Light
+60,Comedy,Medium,Light,PG,Light,Jump Tomorrow,Light
+61,Animated Action Adventure,None,None,PG,None,Atlantis: The Lost Empire,Medium
+62,Comedy,Heavy,None,PG-13,Light,Evolution,Medium
+63,Drama,Heavy,Heavy,Not Rated,Heavy,The Center Of The World,Medium
+64,Drama,Light,Light,Not Rated,None,Himalaya,Light
+65,Comedy,Heavy,Heavy,R,Medium,The Anniversary Party,Light
+66,Drama,Medium,Medium,PG-13,Light,Songcatcher,Light
+67,Drama,Heavy,Medium,Not Rated,Medium,The King Is Alive,Light
+68,Drama,Heavy,Medium,R,Medium,Nora,Light
+69,Documentary,Medium,Light,R,Light,Startup.Com,None
+70,Drama,Light,None,R,Medium,The Man Who Cried,Light
+71,Musical,None,Light,PG-13,Medium,Moulin Rouge,Light
+72,Drama,Heavy,Light,R,Light,Angel Eyes,Medium
+73,War Movie,Heavy,Light,PG-13,Light,Pearl Harbor,Medium
+74,Comedy,Heavy,Medium,R,Heavy,One Night At Mccool’S,Heavy
+75,Drama,Heavy,Medium,R,Medium,Bread And Roses,Medium
+76,Thriller,Light,None,PG-13,Light,Brigham City,Medium
+77,Comedy,Heavy,Medium,R,Medium,Town And Country,Light
+78,Horror,Heavy,Medium,R,Light,The Forsaken,Heavy
+79,Drama,Heavy,Medium,R,Heavy,Amores Perros,Heavy
+80,Action-Adventure,Medium,Light,PG-13,None,The Mummy Returns,Heavy
+81,Drama,Light,Light,PG-13,None,Driven,Medium
+82,Action-Adventure,Medium,Light,PG-13,Light,A Knight’S Tale,Medium
+83,Drama,None,None,G,None,The Road Home,None
+84,Family,None,None,G,None,The Trumpet Of The Swan,Light
+85,Comedy,Heavy,Medium,R,Heavy,Freddy Got Fingered,Heavy
+86,Thriller,Heavy,Light,R,Light,Beautiful Creatures,Heavy
+87,Action-Adventure,Medium,Light,R,Medium,Time And Tide,Heavy
+88,Drama,Light,Light,R,Medium,The Golden Bowl,Light
+89,Drama,Heavy,None,R,Medium,Panic,Medium
+90,Thriller,Medium,Medium,R,Light,With A Friend Like Harry . . .,Light
+91,Comedy,Light,None,Not Rated,None,The Day I Became A Woman,None
+92,Comedy,Medium,None,PG,Light,Kingdom Come,Light
+93,Comedy,Medium,Light,PG,Light,Crocodile Dundee In Los Angeles,Light
+94,Drama,Light,None,PG-13,None,The Body,Medium
+95,Comedy,Heavy,Medium,R,Medium,Tomcats,Light
+96,Science Fiction,None,None,G,None,Pokemon 3: The Movie,Medium
+97,Drama,Medium,Heavy,Not Rated,Heavy,Signs And Wonders,Medium
+98,Drama,Heavy,None,R,Light,Blow,Medium
+99,Comedy,Heavy,Light,PG-13,Light,Joe Dirt,Light
